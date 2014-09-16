@@ -1,6 +1,6 @@
 url: "http://dt106ers.com"
 name: DT106ers New Planners Blog
-baseurl: /dt106ers.com_jekyll
+#baseurl: /dt106ers.com_jekyll
 
 wind:
   name: Archive - DT106ers New Planners Blog
