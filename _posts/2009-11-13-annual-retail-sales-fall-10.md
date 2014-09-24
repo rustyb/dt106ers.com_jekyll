@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/annual-retail-sales-fall-10/
 
 wp_jd_bitly:
-  - http://bit.ly/CWfpL
+  - "http://bit.ly/CWfpL"
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/annual-retail-sales-fall-10/
+  - "{{site.baseurl}}/2009/11/annual-retail-sales-fall-10/"
 categories:
   - News
 tags:
@@ -60,4 +60,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Annual retail sales fall 10%' st\_url='{{site.baseurl}}/2009/11/annual-retail-sales-fall-10/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Annual retail sales fall 10%' st\_url='{{site.baseurl}}/2009/11/annual-retail-sales-fall-10/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Annual retail sales fall 10%' st\_url='{{site.baseurl}}/2009/11/annual-retail-sales-fall-10/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Annual retail sales fall 10%' st\_url='{{site.baseurl}}/2009/11/annual-retail-sales-fall-10/' displayText='share'></span>

@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/
+  - "{{site.baseurl}}/2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/"
 wp_jd_bitly:
-  - http://bit.ly/88pGlz
+  - "http://bit.ly/88pGlz"
 dsq_thread_id:
   - 564207174
 categories:
@@ -44,4 +44,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='[IT] &#8211; Slane bypass to run close to Boyne heritage sites' st\_url='{{site.baseurl}}/2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT] &#8211; Slane bypass to run close to Boyne heritage sites' st\_url='{{site.baseurl}}/2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT] &#8211; Slane bypass to run close to Boyne heritage sites' st\_url='{{site.baseurl}}/2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT] &#8211; Slane bypass to run close to Boyne heritage sites' st\_url='{{site.baseurl}}/2010/01/it-slane-bypass-to-run-close-to-boyne-heritage-sites/' displayText='share'></span>

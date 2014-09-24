@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/06/back-with-a-video-a-smart-grid/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/CommentVisions-SmartGridCover.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/CommentVisions-SmartGridCover.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/bpO8o7
 wp_jd_target:
-  - http://bit.ly/bpO8o7
+  - "http://bit.ly/bpO8o7"
 dsq_thread_id:
   - 424805069
 categories:
@@ -36,4 +36,3 @@ Read below the line for the link to the video
   </p>
 </div>
 
-<span class='st\_twitter\_vcount' st\_title='Back with a video: A Smart Grid' st\_url='{{site.baseurl}}/2010/06/back-with-a-video-a-smart-grid/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Back with a video: A Smart Grid' st\_url='{{site.baseurl}}/2010/06/back-with-a-video-a-smart-grid/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Back with a video: A Smart Grid' st\_url='{{site.baseurl}}/2010/06/back-with-a-video-a-smart-grid/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Back with a video: A Smart Grid' st\_url='{{site.baseurl}}/2010/06/back-with-a-video-a-smart-grid/' displayText='share'></span>

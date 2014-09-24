@@ -2,7 +2,7 @@
 title: '[Pictures] Dublin Real Time Passenger Information'
 author: Colin Broderick
 layout: post
-permalink: /2011/01/pictures-dublin-real-time-passenger-information/
+permalink: /2011/01/pictures-dublin-real-time-passenger-information/"
 dsq_thread_id:
   - 371262230
 categories:
@@ -53,7 +53,7 @@ It would also appear that the Quality Bus Network Office have a [new website in 
 
 Let me know what you think of the project so far, comments as always are welcome!
 
-<span class='st\_twitter\_vcount' st\_title='[Pictures] Dublin Real Time Passenger Information' st\_url='{{site.baseurl}}/2011/01/pictures-dublin-real-time-passenger-information/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[Pictures] Dublin Real Time Passenger Information' st\_url='{{site.baseurl}}/2011/01/pictures-dublin-real-time-passenger-information/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[Pictures] Dublin Real Time Passenger Information' st\_url='{{site.baseurl}}/2011/01/pictures-dublin-real-time-passenger-information/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[Pictures] Dublin Real Time Passenger Information' st\_url='{{site.baseurl}}/2011/01/pictures-dublin-real-time-passenger-information/' displayText='share'></span>
+
 
  [1]: http://www.dublincity.ie/roadsandtraffic/qbnprojectoffice/Pages/QBNProjectOffice.aspx
  [2]: http://www.tfl.gov.uk/

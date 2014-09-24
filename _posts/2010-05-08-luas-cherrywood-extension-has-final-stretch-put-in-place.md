@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/05/luas-cherrywood-extension-has-final-stretch-put-in-place/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/05/LuasGreenLine.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/05/LuasGreenLine.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/9ysiYQ
 wp_jd_target:
-  - http://bit.ly/9ysiYQ
+  - "http://bit.ly/9ysiYQ"
 dsq_thread_id:
   - 382052742
 categories:
@@ -55,4 +55,3 @@ Now if we could stop mucking about and spend the money on the Metro North, the I
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Luas Cherrywood extension has final stretch put in place' st\_url='{{site.baseurl}}/2010/05/luas-cherrywood-extension-has-final-stretch-put-in-place/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Luas Cherrywood extension has final stretch put in place' st\_url='{{site.baseurl}}/2010/05/luas-cherrywood-extension-has-final-stretch-put-in-place/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Luas Cherrywood extension has final stretch put in place' st\_url='{{site.baseurl}}/2010/05/luas-cherrywood-extension-has-final-stretch-put-in-place/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Luas Cherrywood extension has final stretch put in place' st\_url='{{site.baseurl}}/2010/05/luas-cherrywood-extension-has-final-stretch-put-in-place/' displayText='share'></span>

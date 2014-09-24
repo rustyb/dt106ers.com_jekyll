@@ -7,7 +7,7 @@ permalink: /2010/04/council-votes-to-rezone-land-at-carrickmines-for-retail/
 wp_jd_bitly:
   - http://bit.ly/d87L6D
 wp_jd_target:
-  - http://bit.ly/d87L6D
+  - "http://bit.ly/d87L6D"
 dsq_thread_id:
   - 412789271
 categories:
@@ -54,6 +54,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Council votes to rezone land at Carrickmines for retail' st\_url='{{site.baseurl}}/2010/04/council-votes-to-rezone-land-at-carrickmines-for-retail/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Council votes to rezone land at Carrickmines for retail' st\_url='{{site.baseurl}}/2010/04/council-votes-to-rezone-land-at-carrickmines-for-retail/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Council votes to rezone land at Carrickmines for retail' st\_url='{{site.baseurl}}/2010/04/council-votes-to-rezone-land-at-carrickmines-for-retail/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Council votes to rezone land at Carrickmines for retail' st\_url='{{site.baseurl}}/2010/04/council-votes-to-rezone-land-at-carrickmines-for-retail/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/ParkCarrickminesZoning.jpg

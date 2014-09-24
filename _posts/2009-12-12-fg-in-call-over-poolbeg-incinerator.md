@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/fg-in-call-over-poolbeg-incinerator/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/fg-in-call-over-poolbeg-incinerator/
+  - "{{site.baseurl}}/2009/12/fg-in-call-over-poolbeg-incinerator/"
 wp_jd_bitly:
-  - http://bit.ly/90PDA4
+  - "http://bit.ly/90PDA4"
 dsq_thread_id:
   - 441480971
 categories:
@@ -39,4 +39,3 @@ tags:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='FG in call over Poolbeg incinerator' st\_url='{{site.baseurl}}/2009/12/fg-in-call-over-poolbeg-incinerator/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='FG in call over Poolbeg incinerator' st\_url='{{site.baseurl}}/2009/12/fg-in-call-over-poolbeg-incinerator/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='FG in call over Poolbeg incinerator' st\_url='{{site.baseurl}}/2009/12/fg-in-call-over-poolbeg-incinerator/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='FG in call over Poolbeg incinerator' st\_url='{{site.baseurl}}/2009/12/fg-in-call-over-poolbeg-incinerator/' displayText='share'></span>

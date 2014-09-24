@@ -7,7 +7,7 @@ permalink: /2010/04/republic-of-ireland-auctions-off-%e2%80%98ghost%e2%80%99/
 wp_jd_bitly:
   - http://bit.ly/9lrduy
 wp_jd_target:
-  - http://bit.ly/9lrduy
+  - "http://bit.ly/9lrduy"
 dsq_thread_id:
   - 372553619
 categories:
@@ -51,4 +51,3 @@ tags:
 > 
 > Read more: <http://www.belfasttelegraph.co.uk/business/business-news/republic-of-ireland-auctions-off-lsquoghostrsquo-14770519.html#ixzz0lTsSWpvu>
 
-<span class='st\_twitter\_vcount' st\_title='Republic of Ireland auctions off ‘ghost'' st\_url='{{site.baseurl}}/2010/04/republic-of-ireland-auctions-off-%e2%80%98ghost%e2%80%99/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Republic of Ireland auctions off ‘ghost'' st\_url='{{site.baseurl}}/2010/04/republic-of-ireland-auctions-off-%e2%80%98ghost%e2%80%99/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Republic of Ireland auctions off ‘ghost'' st\_url='{{site.baseurl}}/2010/04/republic-of-ireland-auctions-off-%e2%80%98ghost%e2%80%99/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Republic of Ireland auctions off ‘ghost'' st\_url='{{site.baseurl}}/2010/04/republic-of-ireland-auctions-off-%e2%80%98ghost%e2%80%99/' displayText='share'></span>

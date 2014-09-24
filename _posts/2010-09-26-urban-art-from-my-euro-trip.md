@@ -4,7 +4,7 @@ author: Colin Broderick
 layout: post
 permalink: /2010/09/urban-art-from-my-euro-trip/
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/09/DSC_0878_2.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/09/DSC_0878_2.jpg"
 seo_follow:
   - 'true'
 dsq_thread_id:
@@ -155,7 +155,7 @@ On a final note I ask why can&#8217;t the graffiti in Ireland be as good as some
 
 More pictures will follow as i slowly get the courage to dissect the masses of photos taken on a 4 week trip. Stay tuned!
 
-<span class='st\_twitter\_vcount' st\_title='Urban Art from my Euro trip' st\_url='{{site.baseurl}}/2010/09/urban-art-from-my-euro-trip/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Urban Art from my Euro trip' st\_url='{{site.baseurl}}/2010/09/urban-art-from-my-euro-trip/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Urban Art from my Euro trip' st\_url='{{site.baseurl}}/2010/09/urban-art-from-my-euro-trip/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Urban Art from my Euro trip' st\_url='{{site.baseurl}}/2010/09/urban-art-from-my-euro-trip/' displayText='share'></span>
+
 
  [1]: http://www.flickr.com/photos/yeolderusty/5027702590/ "Quay graffiti, Wien by yeolderusty, on Flickr"
  [2]: http://www.flickr.com/photos/yeolderusty/5027086585/ "Bookworm, Wien by yeolderusty, on Flickr"

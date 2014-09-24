@@ -2,7 +2,7 @@
 title: 'Movie Thursday: StrongTowns at TedX'
 author: Colin Broderick
 layout: post
-permalink: /2012/02/movie-thursday-strongtowns-at-tedx/
+permalink: /2012/02/movie-thursday-strongtowns-at-tedx/"
 dsq_thread_id:
   - 585899416
 categories:
@@ -53,7 +53,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='Movie Thursday: StrongTowns at TedX' st\_url='{{site.baseurl}}/2012/02/movie-thursday-strongtowns-at-tedx/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Movie Thursday: StrongTowns at TedX' st\_url='{{site.baseurl}}/2012/02/movie-thursday-strongtowns-at-tedx/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Movie Thursday: StrongTowns at TedX' st\_url='{{site.baseurl}}/2012/02/movie-thursday-strongtowns-at-tedx/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Movie Thursday: StrongTowns at TedX' st\_url='{{site.baseurl}}/2012/02/movie-thursday-strongtowns-at-tedx/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2012/02/Screen-shot-2012-02-22-at-22.32.09.png
  [2]: http://twitter.com/rusty1052

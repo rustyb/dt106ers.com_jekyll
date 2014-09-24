@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/PoolbegIncineratorStory.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/PoolbegIncineratorStory.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/
+  - "{{site.baseurl}}/2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/"
 wp_jd_bitly:
-  - http://bit.ly/akuARU
+  - "http://bit.ly/akuARU"
 dsq_thread_id:
   - 418677676
 categories:
@@ -61,4 +61,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Cowen urged to &#8216;show his hand&#8217; on Dublin incinerator' st\_url='{{site.baseurl}}/2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Cowen urged to &#8216;show his hand&#8217; on Dublin incinerator' st\_url='{{site.baseurl}}/2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Cowen urged to &#8216;show his hand&#8217; on Dublin incinerator' st\_url='{{site.baseurl}}/2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Cowen urged to &#8216;show his hand&#8217; on Dublin incinerator' st\_url='{{site.baseurl}}/2010/07/cowen-urged-to-show-his-hand-on-dublin-incinerator/' displayText='share'></span>

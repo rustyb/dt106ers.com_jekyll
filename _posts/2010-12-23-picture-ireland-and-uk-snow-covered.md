@@ -2,7 +2,7 @@
 title: '[Picture] Ireland and UK snow covered'
 author: Colin Broderick
 layout: post
-permalink: /2010/12/picture-ireland-and-uk-snow-covered/
+permalink: /2010/12/picture-ireland-and-uk-snow-covered/"
 dsq_thread_id:
   - 378058105
 categories:
@@ -22,7 +22,7 @@ I was using [@MarkLittle&#8217;s][1] new news website [Storyful.com][2], which i
 
 **Image:** <a href="http://www.sat.dundee.ac.uk/gallery/gallery_imagedetails.php?id=1164" target="_blank">University of Dundee</a>
 
-<span class='st\_twitter\_vcount' st\_title='[Picture] Ireland and UK snow covered' st\_url='{{site.baseurl}}/2010/12/picture-ireland-and-uk-snow-covered/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[Picture] Ireland and UK snow covered' st\_url='{{site.baseurl}}/2010/12/picture-ireland-and-uk-snow-covered/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[Picture] Ireland and UK snow covered' st\_url='{{site.baseurl}}/2010/12/picture-ireland-and-uk-snow-covered/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[Picture] Ireland and UK snow covered' st\_url='{{site.baseurl}}/2010/12/picture-ireland-and-uk-snow-covered/' displayText='share'></span>
+
 
  [1]: http://twitter.com/marklittlenews
  [2]: http://www.storyful.com/

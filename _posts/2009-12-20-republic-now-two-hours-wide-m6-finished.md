@@ -7,7 +7,7 @@ permalink: /2009/12/republic-now-two-hours-wide-m6-finished/
 wp_jd_bitly:
   - http://bit.ly/6nWqXr
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/republic-now-two-hours-wide-m6-finished/
+  - "{{site.baseurl}}/2009/12/republic-now-two-hours-wide-m6-finished/"
 dsq_thread_id:
   - 432815533
 categories:
@@ -77,4 +77,3 @@ tags:
 > 
 > M50 – improvements in Dublin, completed winter 2010.
 
-<span class='st\_twitter\_vcount' st\_title='&#8216;Republic now two hours wide&#8217; M6 finished' st\_url='{{site.baseurl}}/2009/12/republic-now-two-hours-wide-m6-finished/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='&#8216;Republic now two hours wide&#8217; M6 finished' st\_url='{{site.baseurl}}/2009/12/republic-now-two-hours-wide-m6-finished/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='&#8216;Republic now two hours wide&#8217; M6 finished' st\_url='{{site.baseurl}}/2009/12/republic-now-two-hours-wide-m6-finished/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='&#8216;Republic now two hours wide&#8217; M6 finished' st\_url='{{site.baseurl}}/2009/12/republic-now-two-hours-wide-m6-finished/' displayText='share'></span>

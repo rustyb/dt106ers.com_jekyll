@@ -2,8 +2,7 @@
 title: Luas trams will not stop at new Brennanstown station
 author: Colin Broderick
 layout: post
-permalink: /2009/11/luas-trams-will-not-stop-at-new-brennanstown-station/
-
+permalink: /2009/11/luas-trams-will-not-stop-at-new-brennanstown-station/"
 dsq_thread_id:
   - 393174360
 categories:
@@ -80,4 +79,3 @@ tags:
 >   “I am calling on the Minister to ensure that the Brennanstown stop opens from day one when the Luas line is extended.”
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Luas trams will not stop at new Brennanstown station' st\_url='{{site.baseurl}}/2009/11/luas-trams-will-not-stop-at-new-brennanstown-station/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Luas trams will not stop at new Brennanstown station' st\_url='{{site.baseurl}}/2009/11/luas-trams-will-not-stop-at-new-brennanstown-station/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Luas trams will not stop at new Brennanstown station' st\_url='{{site.baseurl}}/2009/11/luas-trams-will-not-stop-at-new-brennanstown-station/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Luas trams will not stop at new Brennanstown station' st\_url='{{site.baseurl}}/2009/11/luas-trams-will-not-stop-at-new-brennanstown-station/' displayText='share'></span>

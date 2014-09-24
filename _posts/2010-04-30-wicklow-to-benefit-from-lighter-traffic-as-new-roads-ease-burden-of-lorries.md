@@ -7,11 +7,8 @@ permalink: /2010/04/wicklow-to-benefit-from-lighter-traffic-as-new-roads-ease-bu
 wp_jd_bitly:
   - http://bit.ly/akVfax
 wp_jd_target:
-  - http://bit.ly/akVfax
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/akVfax"
+
 dsq_thread_id:
   - 446524683
 categories:
@@ -48,4 +45,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Wicklow to benefit from lighter traffic as new roads ease burden of lorries' st\_url='{{site.baseurl}}/2010/04/wicklow-to-benefit-from-lighter-traffic-as-new-roads-ease-burden-of-lorries/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Wicklow to benefit from lighter traffic as new roads ease burden of lorries' st\_url='{{site.baseurl}}/2010/04/wicklow-to-benefit-from-lighter-traffic-as-new-roads-ease-burden-of-lorries/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Wicklow to benefit from lighter traffic as new roads ease burden of lorries' st\_url='{{site.baseurl}}/2010/04/wicklow-to-benefit-from-lighter-traffic-as-new-roads-ease-burden-of-lorries/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Wicklow to benefit from lighter traffic as new roads ease burden of lorries' st\_url='{{site.baseurl}}/2010/04/wicklow-to-benefit-from-lighter-traffic-as-new-roads-ease-burden-of-lorries/' displayText='share'></span>

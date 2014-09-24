@@ -7,7 +7,7 @@ permalink: /2010/04/internet-access-and-parking-key-to-successful-retail-distric
 wp_jd_bitly:
   - http://bit.ly/bKkHUj
 wp_jd_target:
-  - http://bit.ly/bKkHUj
+  - "http://bit.ly/bKkHUj"
 dsq_thread_id:
   - 423542477
 categories:
@@ -47,6 +47,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Internet access and parking key to successful retail districts, says expert' st\_url='{{site.baseurl}}/2010/04/internet-access-and-parking-key-to-successful-retail-districts-says-expert/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Internet access and parking key to successful retail districts, says expert' st\_url='{{site.baseurl}}/2010/04/internet-access-and-parking-key-to-successful-retail-districts-says-expert/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Internet access and parking key to successful retail districts, says expert' st\_url='{{site.baseurl}}/2010/04/internet-access-and-parking-key-to-successful-retail-districts-says-expert/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Internet access and parking key to successful retail districts, says expert' st\_url='{{site.baseurl}}/2010/04/internet-access-and-parking-key-to-successful-retail-districts-says-expert/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/Cormac_Kennedy.jpg

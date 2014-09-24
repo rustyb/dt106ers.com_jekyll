@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/08/transport-plan-would-transform-green/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/08/DART-UnderGroundSchematic.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/08/DART-UnderGroundSchematic.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/08/transport-plan-would-transform-green/
+  - "{{site.baseurl}}/2010/08/transport-plan-would-transform-green/"
 wp_jd_bitly:
-  - http://bit.ly/dh0OD5
+  - "http://bit.ly/dh0OD5"
 dsq_thread_id:
   - 372557228
 categories:
@@ -75,4 +75,3 @@ Frank McDonald of the The Irish Times writes:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Transport plan would transform green' st\_url='{{site.baseurl}}/2010/08/transport-plan-would-transform-green/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Transport plan would transform green' st\_url='{{site.baseurl}}/2010/08/transport-plan-would-transform-green/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Transport plan would transform green' st\_url='{{site.baseurl}}/2010/08/transport-plan-would-transform-green/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Transport plan would transform green' st\_url='{{site.baseurl}}/2010/08/transport-plan-would-transform-green/' displayText='share'></span>

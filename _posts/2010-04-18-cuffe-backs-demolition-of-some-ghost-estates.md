@@ -3,13 +3,6 @@ title: 'Cuffe backs demolition of some &#8216;ghost&#8217; estates'
 author: Colin Broderick
 layout: post
 permalink: /2010/04/cuffe-backs-demolition-of-some-ghost-estates/
-
-wp_jd_bitly:
-  - http://bit.ly/9GfsyZ
-wp_jd_target:
-  - http://bit.ly/9GfsyZ
-image:
-  - 
 seo_follow:
   - 'false'
 dsq_thread_id:
@@ -96,4 +89,3 @@ Slightly older than the other posts on this topic but an interesting read all th
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Cuffe backs demolition of some &#8216;ghost&#8217; estates' st\_url='{{site.baseurl}}/2010/04/cuffe-backs-demolition-of-some-ghost-estates/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Cuffe backs demolition of some &#8216;ghost&#8217; estates' st\_url='{{site.baseurl}}/2010/04/cuffe-backs-demolition-of-some-ghost-estates/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Cuffe backs demolition of some &#8216;ghost&#8217; estates' st\_url='{{site.baseurl}}/2010/04/cuffe-backs-demolition-of-some-ghost-estates/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Cuffe backs demolition of some &#8216;ghost&#8217; estates' st\_url='{{site.baseurl}}/2010/04/cuffe-backs-demolition-of-some-ghost-estates/' displayText='share'></span>

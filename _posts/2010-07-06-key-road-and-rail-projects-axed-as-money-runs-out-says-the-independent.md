@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/key-road-and-rail-projects-axed-as-money-runs-out-says-the-independent/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/Transport21.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/Transport21.jpg"
 seo_follow:
   - 'true'
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/bqpmkv
+  - http://bit.ly/bqpmkv"
 dsq_thread_id:
   - 399739125
 categories:
@@ -75,4 +75,3 @@ Only time will tell as to whether this is true or not&#8230;
 > 
 > *Irish Independent &#8211; Treacy Hogan and Ailish O&#8217;Hora*
 
-<span class='st\_twitter\_vcount' st\_title='Key road and rail projects axed as money runs out says the Independent' st\_url='{{site.baseurl}}/2010/07/key-road-and-rail-projects-axed-as-money-runs-out-says-the-independent/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Key road and rail projects axed as money runs out says the Independent' st\_url='{{site.baseurl}}/2010/07/key-road-and-rail-projects-axed-as-money-runs-out-says-the-independent/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Key road and rail projects axed as money runs out says the Independent' st\_url='{{site.baseurl}}/2010/07/key-road-and-rail-projects-axed-as-money-runs-out-says-the-independent/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Key road and rail projects axed as money runs out says the Independent' st\_url='{{site.baseurl}}/2010/07/key-road-and-rail-projects-axed-as-money-runs-out-says-the-independent/' displayText='share'></span>

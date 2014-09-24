@@ -9,9 +9,9 @@ image:
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/gormley-rejects-poolbeg-claims/
+  - "{{site.baseurl}}/2010/07/gormley-rejects-poolbeg-claims/"
 wp_jd_bitly:
-  - http://bit.ly/abMkyF
+  - "http://bit.ly/abMkyF"
 dsq_thread_id:
   - 428270644
 categories:
@@ -58,4 +58,3 @@ The local authorities, he added, “don't control the waste”.
 
 IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Gormley rejects Poolbeg claims' st\_url='{{site.baseurl}}/2010/07/gormley-rejects-poolbeg-claims/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley rejects Poolbeg claims' st\_url='{{site.baseurl}}/2010/07/gormley-rejects-poolbeg-claims/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley rejects Poolbeg claims' st\_url='{{site.baseurl}}/2010/07/gormley-rejects-poolbeg-claims/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley rejects Poolbeg claims' st\_url='{{site.baseurl}}/2010/07/gormley-rejects-poolbeg-claims/' displayText='share'></span>

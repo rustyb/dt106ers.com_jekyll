@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/06/gormley-to-announce-major-changes-to-planning-legislation/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/PlanningAct2000.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/PlanningAct2000.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/bRvMhV
 wp_jd_target:
-  - http://bit.ly/bRvMhV
+  - "http://bit.ly/bRvMhV"
 dsq_thread_id:
   - 396759205
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Gormley to announce major changes to planning legislation' st\_url='{{site.baseurl}}/2010/06/gormley-to-announce-major-changes-to-planning-legislation/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley to announce major changes to planning legislation' st\_url='{{site.baseurl}}/2010/06/gormley-to-announce-major-changes-to-planning-legislation/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley to announce major changes to planning legislation' st\_url='{{site.baseurl}}/2010/06/gormley-to-announce-major-changes-to-planning-legislation/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley to announce major changes to planning legislation' st\_url='{{site.baseurl}}/2010/06/gormley-to-announce-major-changes-to-planning-legislation/' displayText='share'></span>

@@ -13,7 +13,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/cxTwSa
 wp_jd_target:
-  - http://bit.ly/cxTwSa
+  - "http://bit.ly/cxTwSa"
 dsq_thread_id:
   - 371262156
 categories:
@@ -80,7 +80,7 @@ Find out about the Dublin Bus Network 21 Plan on the website at: [www.dublinbus.
 
 [][2]
 
-<span class='st\_twitter\_vcount' st\_title='Dublin Bus releases Network Direct &#8211; Phase1' st\_url='{{site.baseurl}}/2010/04/dublin-bus-releases-network-direct-phase1/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin Bus releases Network Direct &#8211; Phase1' st\_url='{{site.baseurl}}/2010/04/dublin-bus-releases-network-direct-phase1/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin Bus releases Network Direct &#8211; Phase1' st\_url='{{site.baseurl}}/2010/04/dublin-bus-releases-network-direct-phase1/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin Bus releases Network Direct &#8211; Phase1' st\_url='{{site.baseurl}}/2010/04/dublin-bus-releases-network-direct-phase1/' displayText='share'></span>
+
 
  [1]: http://www.dublinbus.ie/en/Network-Direct
  [2]: http://www.dublinbus.ie/en/Network-Direct/

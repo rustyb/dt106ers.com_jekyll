@@ -2,7 +2,7 @@
 title: 'Spatial Planning, Transport Planning, the Rational Planning Model. What are they&#8230;.?'
 author: Colin Broderick
 layout: post
-permalink: /2011/01/spatial-planning-transport-planning-the-rational-planning-model-what-are-they/
+permalink: /2011/01/spatial-planning-transport-planning-the-rational-planning-model-what-are-they/"
 dsq_thread_id:
   - 373382445
 categories:
@@ -33,7 +33,7 @@ If you can get over the really annoying voice, it&#8217;s fantastic! Here is my 
 
 Try [Qwiki][1] out!
 
-<span class='st\_twitter\_vcount' st\_title='Spatial Planning, Transport Planning, the Rational Planning Model. What are they&#8230;.?' st\_url='{{site.baseurl}}/2011/01/spatial-planning-transport-planning-the-rational-planning-model-what-are-they/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Spatial Planning, Transport Planning, the Rational Planning Model. What are they&#8230;.?' st\_url='{{site.baseurl}}/2011/01/spatial-planning-transport-planning-the-rational-planning-model-what-are-they/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Spatial Planning, Transport Planning, the Rational Planning Model. What are they&#8230;.?' st\_url='{{site.baseurl}}/2011/01/spatial-planning-transport-planning-the-rational-planning-model-what-are-they/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Spatial Planning, Transport Planning, the Rational Planning Model. What are they&#8230;.?' st\_url='{{site.baseurl}}/2011/01/spatial-planning-transport-planning-the-rational-planning-model-what-are-they/' displayText='share'></span>
+
 
  [1]: http://www.qwiki.com/
  [2]: http://www.facebook.com/pages/Visit-Stockholm/145734268779742

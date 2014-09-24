@@ -2,7 +2,7 @@
 title: Westmeath CoCo gives the go ahead for Chinese Trade Centre
 author: Colin Broderick
 layout: post
-permalink: /2011/12/westmeath-coco-gives-the-go-ahead-for-chinese-trade-centre/
+permalink: /2011/12/westmeath-coco-gives-the-go-ahead-for-chinese-trade-centre/"
 dsq_thread_id:
   - 491230095
 categories:
@@ -40,6 +40,6 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 <span>Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at <span>colinb</span>@dt106ers.com</span>
 
-<span class='st\_twitter\_vcount' st\_title='Westmeath CoCo gives the go ahead for Chinese Trade Centre' st\_url='{{site.baseurl}}/2011/12/westmeath-coco-gives-the-go-ahead-for-chinese-trade-centre/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Westmeath CoCo gives the go ahead for Chinese Trade Centre' st\_url='{{site.baseurl}}/2011/12/westmeath-coco-gives-the-go-ahead-for-chinese-trade-centre/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Westmeath CoCo gives the go ahead for Chinese Trade Centre' st\_url='{{site.baseurl}}/2011/12/westmeath-coco-gives-the-go-ahead-for-chinese-trade-centre/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Westmeath CoCo gives the go ahead for Chinese Trade Centre' st\_url='{{site.baseurl}}/2011/12/westmeath-coco-gives-the-go-ahead-for-chinese-trade-centre/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/12/Screen-shot-2011-12-02-at-18.44.52.png

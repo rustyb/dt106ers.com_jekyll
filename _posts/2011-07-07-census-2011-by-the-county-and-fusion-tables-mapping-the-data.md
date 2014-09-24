@@ -2,7 +2,7 @@
 title: Census 2011 by the county and Fusion Tables, mapping the data.
 author: Colin Broderick
 layout: post
-permalink: /2011/07/census-2011-by-the-county-and-fusion-tables-mapping-the-data/
+permalink: /2011/07/census-2011-by-the-county-and-fusion-tables-mapping-the-data/"
 dsq_thread_id:
   - 371206737
 categories:
@@ -50,7 +50,7 @@ As always folks comments are welcome, you can follow me on the tweet machine **
 
 Toodles!
 
-<span class='st\_twitter\_vcount' st\_title='Census 2011 by the county and Fusion Tables, mapping the data.' st\_url='{{site.baseurl}}/2011/07/census-2011-by-the-county-and-fusion-tables-mapping-the-data/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Census 2011 by the county and Fusion Tables, mapping the data.' st\_url='{{site.baseurl}}/2011/07/census-2011-by-the-county-and-fusion-tables-mapping-the-data/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Census 2011 by the county and Fusion Tables, mapping the data.' st\_url='{{site.baseurl}}/2011/07/census-2011-by-the-county-and-fusion-tables-mapping-the-data/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Census 2011 by the county and Fusion Tables, mapping the data.' st\_url='{{site.baseurl}}/2011/07/census-2011-by-the-county-and-fusion-tables-mapping-the-data/' displayText='share'></span>
+
 
  [1]: http://www.google.ie/url?sa=t&source=web&cd=1&sqi=2&ved=0CCgQqwMoADAA&url=http%3A%2F%2Fwww.google.com%2Ffusiontables%2Fpublic%2Ftour%2Findex.html&ei=vRMWTo_zL8SKhQfJ5Oxj&usg=AFQjCNG1nPT3B1RSytOBX8ZhlrQYlqupJw
  [2]: http://www.guardian.co.uk/data

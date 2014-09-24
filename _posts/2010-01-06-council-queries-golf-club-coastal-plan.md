@@ -2,12 +2,11 @@
 title: Council queries golf club coastal plan
 author: Colin Broderick
 layout: post
-permalink: /2010/01/council-queries-golf-club-coastal-plan/
+permalink: /2010/01/council-queries-golf-club-coastal-plan/"
 wp_jd_bitly:
-  - http://bit.ly/5Sz28t
+  - "http://bit.ly/5Sz28t"
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/council-queries-golf-club-coastal-plan/
-
+  - "{{site.baseurl}}/2010/01/council-queries-golf-club-coastal-plan/"
 dsq_thread_id:
   - 629258216
 categories:
@@ -45,4 +44,3 @@ categories:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Council queries golf club coastal plan' st\_url='{{site.baseurl}}/2010/01/council-queries-golf-club-coastal-plan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Council queries golf club coastal plan' st\_url='{{site.baseurl}}/2010/01/council-queries-golf-club-coastal-plan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Council queries golf club coastal plan' st\_url='{{site.baseurl}}/2010/01/council-queries-golf-club-coastal-plan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Council queries golf club coastal plan' st\_url='{{site.baseurl}}/2010/01/council-queries-golf-club-coastal-plan/' displayText='share'></span>

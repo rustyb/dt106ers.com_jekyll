@@ -9,7 +9,7 @@ jd_twitter:
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/a9Vd2p
+  - http://bit.ly/a9Vd2p"
 dsq_thread_id:
   - 424726287
 categories:
@@ -38,4 +38,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='€14m to be spent on bus transport' st\_url='{{site.baseurl}}/2010/03/e14m-to-be-spent-on-bus-transport/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='€14m to be spent on bus transport' st\_url='{{site.baseurl}}/2010/03/e14m-to-be-spent-on-bus-transport/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='€14m to be spent on bus transport' st\_url='{{site.baseurl}}/2010/03/e14m-to-be-spent-on-bus-transport/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='€14m to be spent on bus transport' st\_url='{{site.baseurl}}/2010/03/e14m-to-be-spent-on-bus-transport/' displayText='share'></span>

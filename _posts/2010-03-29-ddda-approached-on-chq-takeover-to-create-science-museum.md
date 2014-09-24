@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/
+  - "{{site.baseurl}}/2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/"
 wp_jd_bitly:
-  - http://bit.ly/bEDrro
+  - "http://bit.ly/bEDrro"
 dsq_thread_id:
   - 399894839
 categories:
@@ -39,6 +39,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='DDDA approached on CHQ &#8216;takeover&#8217;, to create science museum' st\_url='{{site.baseurl}}/2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='DDDA approached on CHQ &#8216;takeover&#8217;, to create science museum' st\_url='{{site.baseurl}}/2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='DDDA approached on CHQ &#8216;takeover&#8217;, to create science museum' st\_url='{{site.baseurl}}/2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='DDDA approached on CHQ &#8216;takeover&#8217;, to create science museum' st\_url='{{site.baseurl}}/2010/03/ddda-approached-on-chq-takeover-to-create-science-museum/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/03/DSC_1705.jpg

@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/WaterfordRosslareRailDrawing.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/WaterfordRosslareRailDrawing.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/
+  - "{{site.baseurl}}/2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/"
 wp_jd_bitly:
-  - http://bit.ly/bHUOz8
+  - "http://bit.ly/bHUOz8"
 dsq_thread_id:
   - 371262188
 categories:
@@ -54,6 +54,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Plan to close Rosslare-Waterford railway labelled &#8216;reckless foolishness&#8217;' st\_url='{{site.baseurl}}/2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Plan to close Rosslare-Waterford railway labelled &#8216;reckless foolishness&#8217;' st\_url='{{site.baseurl}}/2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Plan to close Rosslare-Waterford railway labelled &#8216;reckless foolishness&#8217;' st\_url='{{site.baseurl}}/2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Plan to close Rosslare-Waterford railway labelled &#8216;reckless foolishness&#8217;' st\_url='{{site.baseurl}}/2010/07/plan-to-close-rosslare-waterford-railway-labelled-reckless-foolishness/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/Rosslare_Strand.jpg

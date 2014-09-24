@@ -7,9 +7,9 @@ permalink: /2010/03/gorey-plan-to-dezone-over-250-acres/
 jd_twitter:
   - 'De-zoning of 250 acres for Gorey Draft Development Plan - #url#'
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/gorey-plan-to-dezone-over-250-acres/
+  - "{{site.baseurl}}/2010/03/gorey-plan-to-dezone-over-250-acres/"
 wp_jd_bitly:
-  - http://bit.ly/cVZ2f5
+  - "http://bit.ly/cVZ2f5"
 dsq_thread_id:
   - 378979780
 categories:
@@ -50,6 +50,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Gorey plan to &#8216;dezone&#8217; over 250 acres' st\_url='{{site.baseurl}}/2010/03/gorey-plan-to-dezone-over-250-acres/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gorey plan to &#8216;dezone&#8217; over 250 acres' st\_url='{{site.baseurl}}/2010/03/gorey-plan-to-dezone-over-250-acres/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gorey plan to &#8216;dezone&#8217; over 250 acres' st\_url='{{site.baseurl}}/2010/03/gorey-plan-to-dezone-over-250-acres/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gorey plan to &#8216;dezone&#8217; over 250 acres' st\_url='{{site.baseurl}}/2010/03/gorey-plan-to-dezone-over-250-acres/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/03/GoreyDevPlan.jpg

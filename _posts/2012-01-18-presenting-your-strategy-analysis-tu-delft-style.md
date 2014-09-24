@@ -2,7 +2,7 @@
 title: Presenting your strategy analysis, TU Delft style
 author: Colin Broderick
 layout: post
-permalink: /2012/01/presenting-your-strategy-analysis-tu-delft-style/
+permalink: /2012/01/presenting-your-strategy-analysis-tu-delft-style/"
 dsq_thread_id:
   - 544037522
 categories:
@@ -45,7 +45,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='Presenting your strategy analysis, TU Delft style' st\_url='{{site.baseurl}}/2012/01/presenting-your-strategy-analysis-tu-delft-style/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Presenting your strategy analysis, TU Delft style' st\_url='{{site.baseurl}}/2012/01/presenting-your-strategy-analysis-tu-delft-style/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Presenting your strategy analysis, TU Delft style' st\_url='{{site.baseurl}}/2012/01/presenting-your-strategy-analysis-tu-delft-style/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Presenting your strategy analysis, TU Delft style' st\_url='{{site.baseurl}}/2012/01/presenting-your-strategy-analysis-tu-delft-style/' displayText='share'></span>
+
 
  [1]: http://vimeo.com/19253276
  [2]: http://vimeo.com/user5858869

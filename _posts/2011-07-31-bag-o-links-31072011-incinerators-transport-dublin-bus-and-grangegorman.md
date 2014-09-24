@@ -2,7 +2,7 @@
 title: 'Bag O&#8217; Links 31/07/2011 Incinerators, Transport, Dublin Bus and Grangegorman'
 author: Colin Broderick
 layout: post
-permalink: /2011/07/bag-o-links-31072011-incinerators-transport-dublin-bus-and-grangegorman/
+permalink: /2011/07/bag-o-links-31072011-incinerators-transport-dublin-bus-and-grangegorman/"
 dsq_thread_id:
   - 373405132
   - 373405132
@@ -52,7 +52,7 @@ The long awaited restructuring of DIT and its spread out buildings has made so
 
 Comments are welcome, you can follow me on the tweet machine **<a title="Follow me on Twitter" href="http://twitter.com/#!/rusty1052" target="_blank">@Rusty1052</a>**. Only want the blog? Subscribe to the **<a title="RSS Feed" href="http://feeds.feedburner.com/AnIrishPlanningStudentsBlog" target="_blank">RSS Feed</a>** with your favorite reader!
 
-<span class='st\_twitter\_vcount' st\_title='Bag O&#8217; Links 31/07/2011 Incinerators, Transport, Dublin Bus and Grangegorman' st\_url='{{site.baseurl}}/2011/07/bag-o-links-31072011-incinerators-transport-dublin-bus-and-grangegorman/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Bag O&#8217; Links 31/07/2011 Incinerators, Transport, Dublin Bus and Grangegorman' st\_url='{{site.baseurl}}/2011/07/bag-o-links-31072011-incinerators-transport-dublin-bus-and-grangegorman/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Bag O&#8217; Links 31/07/2011 Incinerators, Transport, Dublin Bus and Grangegorman' st\_url='{{site.baseurl}}/2011/07/bag-o-links-31072011-incinerators-transport-dublin-bus-and-grangegorman/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Bag O&#8217; Links 31/07/2011 Incinerators, Transport, Dublin Bus and Grangegorman' st\_url='{{site.baseurl}}/2011/07/bag-o-links-31072011-incinerators-transport-dublin-bus-and-grangegorman/' displayText='share'></span>
+
 
  [1]: http://www.examiner.ie/breakingnews/ireland/waste-incinerator-firm-permitted-to-appeal-refusal-of-planning-permission-514176.html "The Examiner article"
  [2]: http://www.irishtimes.com/newspaper/ireland/2011/0727/1224301448118.html "IrishTimes.com"

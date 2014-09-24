@@ -2,7 +2,7 @@
 title: 'Movie Thursday &#8211; Networked Society and Fancy buying a village, FR?'
 author: Colin Broderick
 layout: post
-permalink: /2012/03/movie-thursday-networked-society-and-fancy-buying-a-village-fr/
+permalink: /2012/03/movie-thursday-networked-society-and-fancy-buying-a-village-fr/"
 dsq_thread_id:
   - 594643653
 categories:
@@ -43,6 +43,6 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='Movie Thursday &#8211; Networked Society and Fancy buying a village, FR?' st\_url='{{site.baseurl}}/2012/03/movie-thursday-networked-society-and-fancy-buying-a-village-fr/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Movie Thursday &#8211; Networked Society and Fancy buying a village, FR?' st\_url='{{site.baseurl}}/2012/03/movie-thursday-networked-society-and-fancy-buying-a-village-fr/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Movie Thursday &#8211; Networked Society and Fancy buying a village, FR?' st\_url='{{site.baseurl}}/2012/03/movie-thursday-networked-society-and-fancy-buying-a-village-fr/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Movie Thursday &#8211; Networked Society and Fancy buying a village, FR?' st\_url='{{site.baseurl}}/2012/03/movie-thursday-networked-society-and-fancy-buying-a-village-fr/' displayText='share'></span>
+
 
  [1]: http://twitter.com/rusty1052

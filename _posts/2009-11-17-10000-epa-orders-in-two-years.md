@@ -7,7 +7,7 @@ permalink: /2009/11/10000-epa-orders-in-two-years/
 wp_jd_bitly:
   - http://bit.ly/1F2akl
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/10000-epa-orders-in-two-years/
+  - "{{site.baseurl}}/2009/11/10000-epa-orders-in-two-years/"
 dsq_thread_id:
   - 494787287
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='10,000 EPA orders in two years' st\_url='{{site.baseurl}}/2009/11/10000-epa-orders-in-two-years/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='10,000 EPA orders in two years' st\_url='{{site.baseurl}}/2009/11/10000-epa-orders-in-two-years/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='10,000 EPA orders in two years' st\_url='{{site.baseurl}}/2009/11/10000-epa-orders-in-two-years/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='10,000 EPA orders in two years' st\_url='{{site.baseurl}}/2009/11/10000-epa-orders-in-two-years/' displayText='share'></span>

@@ -3,13 +3,10 @@ title: Waterford to Rosslare rail link axed
 author: Colin Broderick
 layout: post
 permalink: /2010/04/waterford-to-rosslare-rail-link-axed/
-
-wp_jd_target:
-  - 
 wp_jd_bitly:
-  - http://bit.ly/9FGjDL
+  - "http://bit.ly/9FGjDL"
 jd_wp_twitter:
-  - ' Waterford to Rosslare rail link axed - http://bit.ly/9FGjDL'
+  - "Waterford to Rosslare rail link axed - http://bit.ly/9FGjDL"
 dsq_thread_id:
   - 371262140
 categories:
@@ -41,6 +38,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Waterford to Rosslare rail link axed' st\_url='{{site.baseurl}}/2010/04/waterford-to-rosslare-rail-link-axed/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Waterford to Rosslare rail link axed' st\_url='{{site.baseurl}}/2010/04/waterford-to-rosslare-rail-link-axed/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Waterford to Rosslare rail link axed' st\_url='{{site.baseurl}}/2010/04/waterford-to-rosslare-rail-link-axed/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Waterford to Rosslare rail link axed' st\_url='{{site.baseurl}}/2010/04/waterford-to-rosslare-rail-link-axed/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/Rosslare_Strand.jpg

@@ -7,7 +7,7 @@ permalink: /2010/04/new-e22m-dart-station-opens-today-in-clongriffin/
 wp_jd_bitly:
   - http://bit.ly/bRYdaw
 wp_jd_target:
-  - http://bit.ly/bRYdaw
+  - "http://bit.ly/bRYdaw"
 dsq_thread_id:
   - 372422450
 categories:
@@ -30,4 +30,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='New €22m Dart station opens today in Clongriffin' st\_url='{{site.baseurl}}/2010/04/new-e22m-dart-station-opens-today-in-clongriffin/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='New €22m Dart station opens today in Clongriffin' st\_url='{{site.baseurl}}/2010/04/new-e22m-dart-station-opens-today-in-clongriffin/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='New €22m Dart station opens today in Clongriffin' st\_url='{{site.baseurl}}/2010/04/new-e22m-dart-station-opens-today-in-clongriffin/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='New €22m Dart station opens today in Clongriffin' st\_url='{{site.baseurl}}/2010/04/new-e22m-dart-station-opens-today-in-clongriffin/' displayText='share'></span>

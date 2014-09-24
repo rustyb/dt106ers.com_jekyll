@@ -2,7 +2,7 @@
 title: 'I&#8217;m baaahck &#8211; New Government, 2030 vision and more&#8230;'
 author: Colin Broderick
 layout: post
-permalink: /2011/03/im-baaahck-new-government-2030-vision-and-more/
+permalink: /2011/03/im-baaahck-new-government-2030-vision-and-more/"
 dsq_thread_id:
   - 373748817
 categories:
@@ -65,7 +65,7 @@ We have 6 weeks, less now to make submissions on this draft strategy.** Closing 
 
 Unrelated to this but will the incinerator go ahead under the new government? For another post i reckon! As always comment are welcome!
 
-<span class='st\_twitter\_vcount' st\_title='I&#8217;m baaahck &#8211; New Government, 2030 vision and more&#8230;' st\_url='{{site.baseurl}}/2011/03/im-baaahck-new-government-2030-vision-and-more/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='I&#8217;m baaahck &#8211; New Government, 2030 vision and more&#8230;' st\_url='{{site.baseurl}}/2011/03/im-baaahck-new-government-2030-vision-and-more/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='I&#8217;m baaahck &#8211; New Government, 2030 vision and more&#8230;' st\_url='{{site.baseurl}}/2011/03/im-baaahck-new-government-2030-vision-and-more/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='I&#8217;m baaahck &#8211; New Government, 2030 vision and more&#8230;' st\_url='{{site.baseurl}}/2011/03/im-baaahck-new-government-2030-vision-and-more/' displayText='share'></span>
+
 
  [1]: http://www.rte.ie/news/election2011/results/longford-westmeath.html
  [2]: http://twitter.com/#!/CiaranCuffe

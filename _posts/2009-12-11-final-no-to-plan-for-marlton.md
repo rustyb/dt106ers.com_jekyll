@@ -7,7 +7,7 @@ permalink: /2009/12/final-no-to-plan-for-marlton/
 wp_jd_bitly:
   - http://bit.ly/4o9oFn
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/final-no-to-plan-for-marlton/
+  - "{{site.baseurl}}/2009/12/final-no-to-plan-for-marlton/"
 dsq_thread_id:
   - 409457462
 categories:
@@ -38,4 +38,3 @@ tags:
 > 
 > Source: Wicklow People
 
-<span class='st\_twitter\_vcount' st\_title='Final NO to plan for Marlton' st\_url='{{site.baseurl}}/2009/12/final-no-to-plan-for-marlton/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Final NO to plan for Marlton' st\_url='{{site.baseurl}}/2009/12/final-no-to-plan-for-marlton/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Final NO to plan for Marlton' st\_url='{{site.baseurl}}/2009/12/final-no-to-plan-for-marlton/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Final NO to plan for Marlton' st\_url='{{site.baseurl}}/2009/12/final-no-to-plan-for-marlton/' displayText='share'></span>

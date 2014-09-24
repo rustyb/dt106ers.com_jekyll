@@ -37,4 +37,3 @@ Not sure where the Eccles Street the site actually is, but i&#8217;m sure detail
 > 
 > Source:  IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Children&#8217;s Hospital to open in 2014' st\_url='{{site.baseurl}}/2009/10/childrens-hospital-to-open-in-2014/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Children&#8217;s Hospital to open in 2014' st\_url='{{site.baseurl}}/2009/10/childrens-hospital-to-open-in-2014/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Children&#8217;s Hospital to open in 2014' st\_url='{{site.baseurl}}/2009/10/childrens-hospital-to-open-in-2014/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Children&#8217;s Hospital to open in 2014' st\_url='{{site.baseurl}}/2009/10/childrens-hospital-to-open-in-2014/' displayText='share'></span>

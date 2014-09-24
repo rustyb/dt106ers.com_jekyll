@@ -2,7 +2,7 @@
 title: Every house to have broadband by 2012
 author: Colin Broderick
 layout: post
-permalink: /2010/12/every-house-to-have-broadband-by-2012/
+permalink: /2010/12/every-house-to-have-broadband-by-2012/"
 dsq_thread_id:
   - 387993069
 categories:
@@ -41,4 +41,3 @@ This is great to hear, lets hope there isn&#8217;t a hames made of the rural bro
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Every house to have broadband by 2012' st\_url='{{site.baseurl}}/2010/12/every-house-to-have-broadband-by-2012/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Every house to have broadband by 2012' st\_url='{{site.baseurl}}/2010/12/every-house-to-have-broadband-by-2012/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Every house to have broadband by 2012' st\_url='{{site.baseurl}}/2010/12/every-house-to-have-broadband-by-2012/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Every house to have broadband by 2012' st\_url='{{site.baseurl}}/2010/12/every-house-to-have-broadband-by-2012/' displayText='share'></span>

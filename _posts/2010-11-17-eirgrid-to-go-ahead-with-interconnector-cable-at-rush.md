@@ -3,10 +3,7 @@ title: Eirgrid to go ahead with interconnector cable at Rush
 author: Colin Broderick
 layout: post
 permalink: /2010/11/eirgrid-to-go-ahead-with-interconnector-cable-at-rush/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 371262223
 categories:
@@ -53,4 +50,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Eirgrid to go ahead with interconnector cable at Rush' st\_url='{{site.baseurl}}/2010/11/eirgrid-to-go-ahead-with-interconnector-cable-at-rush/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Eirgrid to go ahead with interconnector cable at Rush' st\_url='{{site.baseurl}}/2010/11/eirgrid-to-go-ahead-with-interconnector-cable-at-rush/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Eirgrid to go ahead with interconnector cable at Rush' st\_url='{{site.baseurl}}/2010/11/eirgrid-to-go-ahead-with-interconnector-cable-at-rush/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Eirgrid to go ahead with interconnector cable at Rush' st\_url='{{site.baseurl}}/2010/11/eirgrid-to-go-ahead-with-interconnector-cable-at-rush/' displayText='share'></span>

@@ -7,7 +7,7 @@ permalink: /2010/04/policy-on-waste-management-in-crisis-says-expert/
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/ct1j6M
+  - http://bit.ly/ct1j6M"
 dsq_thread_id:
   - 387351361
 categories:
@@ -42,4 +42,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Policy on waste management in crisis, says expert' st\_url='{{site.baseurl}}/2010/04/policy-on-waste-management-in-crisis-says-expert/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Policy on waste management in crisis, says expert' st\_url='{{site.baseurl}}/2010/04/policy-on-waste-management-in-crisis-says-expert/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Policy on waste management in crisis, says expert' st\_url='{{site.baseurl}}/2010/04/policy-on-waste-management-in-crisis-says-expert/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Policy on waste management in crisis, says expert' st\_url='{{site.baseurl}}/2010/04/policy-on-waste-management-in-crisis-says-expert/' displayText='share'></span>

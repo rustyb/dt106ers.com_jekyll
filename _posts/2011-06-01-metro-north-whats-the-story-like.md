@@ -2,7 +2,7 @@
 title: 'Metro North &#8211; What&#8217;s the story like?'
 author: Colin Broderick
 layout: post
-permalink: /2011/06/metro-north-whats-the-story-like/
+permalink: /2011/06/metro-north-whats-the-story-like/"
 dsq_thread_id:
   - 371701006
 categories:
@@ -79,5 +79,5 @@ tags:
   </p>
   
   <p>
-    <span class='st_twitter_vcount' st_title='Metro North &#8211; What&#8217;s the story like?' st_url='{{site.baseurl}}/2011/06/metro-north-whats-the-story-like/' displayText='share'></span><span class='st_fblike_vcount' st_title='Metro North &#8211; What&#8217;s the story like?' st_url='{{site.baseurl}}/2011/06/metro-north-whats-the-story-like/' displayText='share'></span><span class='st_plusone_vcount' st_title='Metro North &#8211; What&#8217;s the story like?' st_url='{{site.baseurl}}/2011/06/metro-north-whats-the-story-like/' displayText='share'></span><span class='st_sharethis_vcount' st_title='Metro North &#8211; What&#8217;s the story like?' st_url='{{site.baseurl}}/2011/06/metro-north-whats-the-story-like/' displayText='share'></span>
+    
   </p>

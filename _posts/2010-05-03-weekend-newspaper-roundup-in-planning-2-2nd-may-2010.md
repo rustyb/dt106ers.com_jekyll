@@ -5,7 +5,7 @@ layout: post
 permalink: /2010/05/weekend-newspaper-roundup-in-planning-2-2nd-may-2010/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/05/cloughjordan1.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/05/cloughjordan1.jpg"
 seo_follow:
   - 'false'
 jd_twitter:
@@ -13,7 +13,7 @@ jd_twitter:
 wp_jd_bitly:
   - http://bit.ly/cXjzJB
 wp_jd_target:
-  - http://bit.ly/cXjzJB
+  - "http://bit.ly/cXjzJB"
 dsq_thread_id:
   - 377374921
 categories:
@@ -70,7 +70,7 @@ Not too much going on in the papers this weekend, but the indo has highlighted a
 
 Enjoy whats left of the bank holiday folks &#8211; blue sky&#8217;s for one and all!
 
-<span class='st\_twitter\_vcount' st\_title='Weekend Newspaper Roundup in Planning #2 &#8211; 2nd May 2010' st\_url='{{site.baseurl}}/2010/05/weekend-newspaper-roundup-in-planning-2-2nd-may-2010/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Weekend Newspaper Roundup in Planning #2 &#8211; 2nd May 2010' st\_url='{{site.baseurl}}/2010/05/weekend-newspaper-roundup-in-planning-2-2nd-may-2010/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Weekend Newspaper Roundup in Planning #2 &#8211; 2nd May 2010' st\_url='{{site.baseurl}}/2010/05/weekend-newspaper-roundup-in-planning-2-2nd-may-2010/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Weekend Newspaper Roundup in Planning #2 &#8211; 2nd May 2010' st\_url='{{site.baseurl}}/2010/05/weekend-newspaper-roundup-in-planning-2-2nd-may-2010/' displayText='share'></span>
+
 
  [1]: http://bit.ly/c7tUp5
  [2]: http://bit.ly/d6qeWW

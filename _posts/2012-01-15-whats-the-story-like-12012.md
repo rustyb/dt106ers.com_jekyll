@@ -2,7 +2,7 @@
 title: 'What&#8217;s the story like? 1/2012'
 author: Colin Broderick
 layout: post
-permalink: /2012/01/whats-the-story-like-12012/
+permalink: /2012/01/whats-the-story-like-12012/"
 dsq_thread_id:
   - 539834080
 categories:
@@ -46,7 +46,7 @@ We don&#8217;t have enough documents like this one kindly retweeted by Dominic B
 
 <blockquote class="twitter-tweet">
   <p>
-    Very interesting paper on Participation in <a href="https://twitter.com/search/%2523SpatialPlanning">#SpatialPlanning</a> (for both content & presentation) <a title="http://ow.ly/8sGDg" href="http://t.co/YiLrJ1jx">ow.ly/8sGDg</a> via @<a href="https://twitter.com/rusty1052">rusty1052</a>
+    Very interesting paper on Participation in <a href="https://twitter.com/search/%2523SpatialPlanning">#SpatialPlanning</a> (for both content &amp; presentation) <a title="http://ow.ly/8sGDg" href="http://t.co/YiLrJ1jx">ow.ly/8sGDg</a> via @<a href="https://twitter.com/rusty1052">rusty1052</a>
   </p>
   
   <p>
@@ -98,7 +98,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='What&#8217;s the story like? 1/2012' st\_url='{{site.baseurl}}/2012/01/whats-the-story-like-12012/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='What&#8217;s the story like? 1/2012' st\_url='{{site.baseurl}}/2012/01/whats-the-story-like-12012/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='What&#8217;s the story like? 1/2012' st\_url='{{site.baseurl}}/2012/01/whats-the-story-like-12012/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='What&#8217;s the story like? 1/2012' st\_url='{{site.baseurl}}/2012/01/whats-the-story-like-12012/' displayText='share'></span>
+
 
  [1]: http://urbanrural.heroku.com
  [2]: https://plus.google.com/112612585118947926898

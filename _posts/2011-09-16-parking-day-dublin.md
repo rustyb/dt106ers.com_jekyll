@@ -2,7 +2,7 @@
 title: Park(ing) Day Dublin
 author: Colin Broderick
 layout: post
-permalink: /2011/09/parking-day-dublin/
+permalink: /2011/09/parking-day-dublin/"
 dsq_thread_id:
   - 416254784
 categories:
@@ -50,6 +50,6 @@ Park(ing) Day is an original concept by REBAR (<a href="http://www.rebargroup.or
 
 Full Press Release: [parking-day-dublin-final-press-release-110914][1].
 
-<span class='st\_twitter\_vcount' st\_title='Park(ing) Day Dublin' st\_url='{{site.baseurl}}/2011/09/parking-day-dublin/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Park(ing) Day Dublin' st\_url='{{site.baseurl}}/2011/09/parking-day-dublin/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Park(ing) Day Dublin' st\_url='{{site.baseurl}}/2011/09/parking-day-dublin/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Park(ing) Day Dublin' st\_url='{{site.baseurl}}/2011/09/parking-day-dublin/' displayText='share'></span>
+
 
  [1]: http://www.architecturefoundation.ie/wp-content/uploads/2011/09/parking-day-dublin-final-press-release-110914.docx

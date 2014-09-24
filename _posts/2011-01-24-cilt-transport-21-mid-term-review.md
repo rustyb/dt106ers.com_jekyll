@@ -2,7 +2,7 @@
 title: CILT Transport 21 Mid-term Review
 author: Colin Broderick
 layout: post
-permalink: /2011/01/cilt-transport-21-mid-term-review/
+permalink: /2011/01/cilt-transport-21-mid-term-review/"
 dsq_thread_id:
   - 371262233
 categories:
@@ -66,7 +66,7 @@ Below is a piece from today&#8217;s Irish Times by Frank McDonald discussing som
 
 P.S Comments always welcome folks! Oh and please do correct any of my figures above if I have gotten them wrong.
 
-<span class='st\_twitter\_vcount' st\_title='CILT Transport 21 Mid-term Review' st\_url='{{site.baseurl}}/2011/01/cilt-transport-21-mid-term-review/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='CILT Transport 21 Mid-term Review' st\_url='{{site.baseurl}}/2011/01/cilt-transport-21-mid-term-review/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='CILT Transport 21 Mid-term Review' st\_url='{{site.baseurl}}/2011/01/cilt-transport-21-mid-term-review/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='CILT Transport 21 Mid-term Review' st\_url='{{site.baseurl}}/2011/01/cilt-transport-21-mid-term-review/' displayText='share'></span>
+
 
  [1]: http://www.transport21.ie
  [2]: http://cilt.ie/news/news-2010/476.html?task=view

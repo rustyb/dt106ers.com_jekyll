@@ -2,7 +2,7 @@
 title: Regional Airports in Ireland, no longer subsidized?
 author: Colin Broderick
 layout: post
-permalink: /2011/03/regional-airports-in-ireland-no-longer-subsidized/
+permalink: /2011/03/regional-airports-in-ireland-no-longer-subsidized/"
 dsq_thread_id:
   - 371935824
 categories:
@@ -59,7 +59,7 @@ Maybe a better use of the funds allocated to the PSO routes would be to provide 
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='Regional Airports in Ireland, no longer subsidized?' st\_url='{{site.baseurl}}/2011/03/regional-airports-in-ireland-no-longer-subsidized/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Regional Airports in Ireland, no longer subsidized?' st\_url='{{site.baseurl}}/2011/03/regional-airports-in-ireland-no-longer-subsidized/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Regional Airports in Ireland, no longer subsidized?' st\_url='{{site.baseurl}}/2011/03/regional-airports-in-ireland-no-longer-subsidized/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Regional Airports in Ireland, no longer subsidized?' st\_url='{{site.baseurl}}/2011/03/regional-airports-in-ireland-no-longer-subsidized/' displayText='share'></span>
+
 
  [1]: http://www.irishtimes.com/newspaper/ireland/2011/0315/1224292162699.html "Irish Times Article"
  [2]: https://spreadsheets.google.com/pub?hl=en_GB&hl=en_GB&key=0AgtBTD3ow55YdGh1WHdQVTlUMXA2SzhCMmlJQWM5LWc&single=true&gid=0&output=html

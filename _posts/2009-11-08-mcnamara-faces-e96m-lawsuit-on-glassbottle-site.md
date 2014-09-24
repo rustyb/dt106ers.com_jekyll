@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/
+  - "{{site.baseurl}}/2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/"
 wp_jd_bitly:
-  - http://bit.ly/1SpndP
+  - "http://bit.ly/1SpndP"
 dsq_thread_id:
   - 446524854
 categories:
@@ -83,5 +83,5 @@ tags:
 > </p></blockquote> 
 > 
 > <p>
->   <span class='st_twitter_vcount' st_title='McNamara faces €96m lawsuit on glassbottle site' st_url='{{site.baseurl}}/2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/' displayText='share'></span><span class='st_fblike_vcount' st_title='McNamara faces €96m lawsuit on glassbottle site' st_url='{{site.baseurl}}/2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/' displayText='share'></span><span class='st_plusone_vcount' st_title='McNamara faces €96m lawsuit on glassbottle site' st_url='{{site.baseurl}}/2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/' displayText='share'></span><span class='st_sharethis_vcount' st_title='McNamara faces €96m lawsuit on glassbottle site' st_url='{{site.baseurl}}/2009/11/mcnamara-faces-e96m-lawsuit-on-glassbottle-site/' displayText='share'></span>
+>   
 > </p>

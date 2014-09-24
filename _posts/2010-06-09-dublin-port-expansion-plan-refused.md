@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/06/dublin-port-expansion-plan-refused/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/DublinPort.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/DublinPort.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/bRxgHb
 wp_jd_target:
-  - http://bit.ly/bRxgHb
+  - "http://bit.ly/bRxgHb"
 dsq_thread_id:
   - 380135621
 categories:
@@ -57,4 +57,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Dublin Port expansion plan refused' st\_url='{{site.baseurl}}/2010/06/dublin-port-expansion-plan-refused/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin Port expansion plan refused' st\_url='{{site.baseurl}}/2010/06/dublin-port-expansion-plan-refused/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin Port expansion plan refused' st\_url='{{site.baseurl}}/2010/06/dublin-port-expansion-plan-refused/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin Port expansion plan refused' st\_url='{{site.baseurl}}/2010/06/dublin-port-expansion-plan-refused/' displayText='share'></span>

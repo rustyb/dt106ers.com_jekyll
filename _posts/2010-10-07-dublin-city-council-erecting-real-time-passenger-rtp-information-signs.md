@@ -3,10 +3,7 @@ title: Dublin City Council erecting Real Time Passenger (RTP) information signs
 author: Colin Broderick
 layout: post
 permalink: /2010/10/dublin-city-council-erecting-real-time-passenger-rtp-information-signs/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 371262218
 categories:
@@ -29,4 +26,3 @@ Finally out of the dark ages regarding Bus transport, next stop integrated ticke
   <a href="{{site.baseurl}}/wp-content/uploads/2010/10/DublinBusRTP.jpg"><img class="aligncenter size-large wp-image-1014" title="DCC - Dublin Bus RTP Pole" src="{{site.baseurl}}/wp-content/uploads/2010/10/DublinBusRTP-1024x768.jpg" alt="" width="491" height="369" /></a>
 </p>
 
-<span class='st\_twitter\_vcount' st\_title='Dublin City Council erecting Real Time Passenger (RTP) information signs' st\_url='{{site.baseurl}}/2010/10/dublin-city-council-erecting-real-time-passenger-rtp-information-signs/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin City Council erecting Real Time Passenger (RTP) information signs' st\_url='{{site.baseurl}}/2010/10/dublin-city-council-erecting-real-time-passenger-rtp-information-signs/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin City Council erecting Real Time Passenger (RTP) information signs' st\_url='{{site.baseurl}}/2010/10/dublin-city-council-erecting-real-time-passenger-rtp-information-signs/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin City Council erecting Real Time Passenger (RTP) information signs' st\_url='{{site.baseurl}}/2010/10/dublin-city-council-erecting-real-time-passenger-rtp-information-signs/' displayText='share'></span>

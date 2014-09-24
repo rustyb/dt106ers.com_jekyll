@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/real-eyes-sustainability-talks-maynooth-july-2nd/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/realeyes.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/realeyes.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/aAXMyu
+  - "http://bit.ly/aAXMyu"
 dsq_thread_id:
   - 432353103
 categories:
@@ -39,4 +39,3 @@ Yet another brilliant one from Ken Melamed, Mayor of Whistler, Canada. Ken you t
 
 Hope you enjoy the presentations, well worth a look!
 
-<span class='st\_twitter\_vcount' st\_title='Real Eyes Sustainability Talks Maynooth july 2nd' st\_url='{{site.baseurl}}/2010/07/real-eyes-sustainability-talks-maynooth-july-2nd/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Real Eyes Sustainability Talks Maynooth july 2nd' st\_url='{{site.baseurl}}/2010/07/real-eyes-sustainability-talks-maynooth-july-2nd/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Real Eyes Sustainability Talks Maynooth july 2nd' st\_url='{{site.baseurl}}/2010/07/real-eyes-sustainability-talks-maynooth-july-2nd/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Real Eyes Sustainability Talks Maynooth july 2nd' st\_url='{{site.baseurl}}/2010/07/real-eyes-sustainability-talks-maynooth-july-2nd/' displayText='share'></span>

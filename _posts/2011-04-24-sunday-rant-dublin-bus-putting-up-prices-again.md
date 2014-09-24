@@ -2,7 +2,7 @@
 title: '[UPDATED] Sunday Rant: Dublin Bus putting up prices again!'
 author: Colin Broderick
 layout: post
-permalink: /2011/04/sunday-rant-dublin-bus-putting-up-prices-again/
+permalink: /2011/04/sunday-rant-dublin-bus-putting-up-prices-again/"
 dsq_thread_id:
   - 375858903
 categories:
@@ -50,7 +50,7 @@ Dublin bus released there fare prices today on the website, but get this it&#821
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='[UPDATED] Sunday Rant: Dublin Bus putting up prices again!' st\_url='{{site.baseurl}}/2011/04/sunday-rant-dublin-bus-putting-up-prices-again/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[UPDATED] Sunday Rant: Dublin Bus putting up prices again!' st\_url='{{site.baseurl}}/2011/04/sunday-rant-dublin-bus-putting-up-prices-again/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[UPDATED] Sunday Rant: Dublin Bus putting up prices again!' st\_url='{{site.baseurl}}/2011/04/sunday-rant-dublin-bus-putting-up-prices-again/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[UPDATED] Sunday Rant: Dublin Bus putting up prices again!' st\_url='{{site.baseurl}}/2011/04/sunday-rant-dublin-bus-putting-up-prices-again/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/04/30_prepaid_Ticket.jpg
  [2]: http://www.dublinbus.ie/en/RSS/Rss-news/ "Dublin Bus RSS Feed"

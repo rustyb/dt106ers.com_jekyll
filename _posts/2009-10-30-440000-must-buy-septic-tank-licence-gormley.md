@@ -83,4 +83,3 @@ tags:
 >   </p>
 > </div>
 
-<span class='st\_twitter\_vcount' st\_title='440,000 must buy septic tank licence &#8211; Gormley' st\_url='{{site.baseurl}}/2009/10/440000-must-buy-septic-tank-licence-gormley/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='440,000 must buy septic tank licence &#8211; Gormley' st\_url='{{site.baseurl}}/2009/10/440000-must-buy-septic-tank-licence-gormley/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='440,000 must buy septic tank licence &#8211; Gormley' st\_url='{{site.baseurl}}/2009/10/440000-must-buy-septic-tank-licence-gormley/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='440,000 must buy septic tank licence &#8211; Gormley' st\_url='{{site.baseurl}}/2009/10/440000-must-buy-septic-tank-licence-gormley/' displayText='share'></span>

@@ -5,13 +5,9 @@ layout: post
 permalink: /2010/04/number-of-empty-retail-units-in-cities-shocking/
 
 wp_jd_bitly:
-  - http://bit.ly/bLKN85
+  - "http://bit.ly/bLKN85"
 wp_jd_target:
-  - http://bit.ly/bLKN85
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/bLKN85"
 dsq_thread_id:
   - 479052227
 categories:
@@ -42,4 +38,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Number of empty retail units in cities &#8216;shocking&#8217;' st\_url='{{site.baseurl}}/2010/04/number-of-empty-retail-units-in-cities-shocking/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Number of empty retail units in cities &#8216;shocking&#8217;' st\_url='{{site.baseurl}}/2010/04/number-of-empty-retail-units-in-cities-shocking/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Number of empty retail units in cities &#8216;shocking&#8217;' st\_url='{{site.baseurl}}/2010/04/number-of-empty-retail-units-in-cities-shocking/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Number of empty retail units in cities &#8216;shocking&#8217;' st\_url='{{site.baseurl}}/2010/04/number-of-empty-retail-units-in-cities-shocking/' displayText='share'></span>

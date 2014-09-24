@@ -7,7 +7,7 @@ permalink: /2010/03/surfers-object-to-lahinch-surf-lodge-application/
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/clcqci
+  - http://bit.ly/clcqci"
 dsq_thread_id:
   - 371262137
 categories:
@@ -29,6 +29,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Surfers Object to Lahinch surf lodge application' st\_url='{{site.baseurl}}/2010/03/surfers-object-to-lahinch-surf-lodge-application/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Surfers Object to Lahinch surf lodge application' st\_url='{{site.baseurl}}/2010/03/surfers-object-to-lahinch-surf-lodge-application/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Surfers Object to Lahinch surf lodge application' st\_url='{{site.baseurl}}/2010/03/surfers-object-to-lahinch-surf-lodge-application/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Surfers Object to Lahinch surf lodge application' st\_url='{{site.baseurl}}/2010/03/surfers-object-to-lahinch-surf-lodge-application/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/03/NationalSurfCenter.jpg

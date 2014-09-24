@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/decentralisation-a-failed-strategy/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/decentralisation.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/decentralisation.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/chF8Wf
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/decentralisation-a-failed-strategy/
+  - "{{site.baseurl}}/2010/07/decentralisation-a-failed-strategy/"
 dsq_thread_id:
   - 372525883
 categories:
@@ -41,4 +41,3 @@ tags:
 > 
 > Irish Independent
 
-<span class='st\_twitter\_vcount' st\_title='Decentralisation &#8216;a failed strategy&#8217;' st\_url='{{site.baseurl}}/2010/07/decentralisation-a-failed-strategy/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Decentralisation &#8216;a failed strategy&#8217;' st\_url='{{site.baseurl}}/2010/07/decentralisation-a-failed-strategy/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Decentralisation &#8216;a failed strategy&#8217;' st\_url='{{site.baseurl}}/2010/07/decentralisation-a-failed-strategy/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Decentralisation &#8216;a failed strategy&#8217;' st\_url='{{site.baseurl}}/2010/07/decentralisation-a-failed-strategy/' displayText='share'></span>

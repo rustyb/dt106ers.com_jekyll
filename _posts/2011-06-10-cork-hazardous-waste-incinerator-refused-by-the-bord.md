@@ -2,7 +2,7 @@
 title: Cork hazardous waste incinerator refused by the Bord
 author: Colin Broderick
 layout: post
-permalink: /2011/06/cork-hazardous-waste-incinerator-refused-by-the-bord/
+permalink: /2011/06/cork-hazardous-waste-incinerator-refused-by-the-bord/"
 dsq_thread_id:
   - 371914816
 categories:
@@ -55,6 +55,6 @@ Below is the article from the irish times on the news:
 
 As always folks comments are welcome, you can follow me on the tweet machine <a title="Follow me on Twitter" href="http://twitter.com/#!/rusty1052" target="_blank">@Rusty1052</a>. Only want the blog? Subscribe to the <a title="RSS Feed" href="http://feeds.feedburner.com/AnIrishPlanningStudentsBlog" target="_blank">RSS Feed</a> with your favorite reader! Finally, Rest in Peace Mr. Brian Lenhian.
 
-<span class='st\_twitter\_vcount' st\_title='Cork hazardous waste incinerator refused by the Bord' st\_url='{{site.baseurl}}/2011/06/cork-hazardous-waste-incinerator-refused-by-the-bord/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Cork hazardous waste incinerator refused by the Bord' st\_url='{{site.baseurl}}/2011/06/cork-hazardous-waste-incinerator-refused-by-the-bord/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Cork hazardous waste incinerator refused by the Bord' st\_url='{{site.baseurl}}/2011/06/cork-hazardous-waste-incinerator-refused-by-the-bord/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Cork hazardous waste incinerator refused by the Bord' st\_url='{{site.baseurl}}/2011/06/cork-hazardous-waste-incinerator-refused-by-the-bord/' displayText='share'></span>
+
 
  [1]: http://www.pleanala.ie/casenum/PA0010.htm

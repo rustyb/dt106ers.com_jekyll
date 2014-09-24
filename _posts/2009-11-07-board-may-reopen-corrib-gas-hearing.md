@@ -5,13 +5,13 @@ layout: post
 permalink: /2009/11/board-may-reopen-corrib-gas-hearing/
 
 wp_jd_clig:
-  - http://cli.gs/Nyq9q
+    - "http://cli.gs/Nyq9q"
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/board-may-reopen-corrib-gas-hearing/
+    - "{{site.baseurl}}/2009/11/board-may-reopen-corrib-gas-hearing/"
 dsq_thread_id:
-  - 456145988
+    - 456145988
 categories:
-  - News
+    - News
 ---
 > AN BORD Pleanála has said it will reopen the oral hearing into the Corrib gas onshore pipeline if Shell EP Ireland responds within three months to its requests issued this week.
 > 
@@ -35,4 +35,3 @@ categories:
 > 
 > SOURCE: Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Board may reopen Corrib gas hearing' st\_url='{{site.baseurl}}/2009/11/board-may-reopen-corrib-gas-hearing/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Board may reopen Corrib gas hearing' st\_url='{{site.baseurl}}/2009/11/board-may-reopen-corrib-gas-hearing/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Board may reopen Corrib gas hearing' st\_url='{{site.baseurl}}/2009/11/board-may-reopen-corrib-gas-hearing/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Board may reopen Corrib gas hearing' st\_url='{{site.baseurl}}/2009/11/board-may-reopen-corrib-gas-hearing/' displayText='share'></span>

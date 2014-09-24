@@ -4,14 +4,14 @@ author: Colin Broderick
 layout: post
 permalink: /2010/06/planning-bodies-ignored-national-spatial-strategy/
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/NSS-HubsAndGateways.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/NSS-HubsAndGateways.jpg"
 
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/cU3dBU
 wp_jd_target:
-  - http://bit.ly/cU3dBU
+  - "http://bit.ly/cU3dBU"
 dsq_thread_id:
   - 381071319
 categories:
@@ -58,4 +58,3 @@ tags:
 
 Will try to update with a link to the doc when i can find it.
 
-<span class='st\_twitter\_vcount' st\_title='Planning bodies &#8216;ignored&#8217; National Spatial Strategy' st\_url='{{site.baseurl}}/2010/06/planning-bodies-ignored-national-spatial-strategy/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Planning bodies &#8216;ignored&#8217; National Spatial Strategy' st\_url='{{site.baseurl}}/2010/06/planning-bodies-ignored-national-spatial-strategy/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Planning bodies &#8216;ignored&#8217; National Spatial Strategy' st\_url='{{site.baseurl}}/2010/06/planning-bodies-ignored-national-spatial-strategy/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Planning bodies &#8216;ignored&#8217; National Spatial Strategy' st\_url='{{site.baseurl}}/2010/06/planning-bodies-ignored-national-spatial-strategy/' displayText='share'></span>

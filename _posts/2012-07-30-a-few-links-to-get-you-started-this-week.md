@@ -4,7 +4,7 @@ author: Colin Broderick
 layout: post
 permalink: /2012/07/a-few-links-to-get-you-started-this-week/
 sgt_slide:
-  - on
+  - on"
 dsq_thread_id:
   - 785188165
 categories:
@@ -40,7 +40,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='A few links to get you started this week!' st\_url='{{site.baseurl}}/2012/07/a-few-links-to-get-you-started-this-week/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='A few links to get you started this week!' st\_url='{{site.baseurl}}/2012/07/a-few-links-to-get-you-started-this-week/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='A few links to get you started this week!' st\_url='{{site.baseurl}}/2012/07/a-few-links-to-get-you-started-this-week/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='A few links to get you started this week!' st\_url='{{site.baseurl}}/2012/07/a-few-links-to-get-you-started-this-week/' displayText='share'></span>
+
 
  [1]: http://www.fastcoexist.com/1680214/removing-streets-is-the-only-way-to-reclaim-open-space-in-cities#1
  [2]: http://twitter.com/rusty1052

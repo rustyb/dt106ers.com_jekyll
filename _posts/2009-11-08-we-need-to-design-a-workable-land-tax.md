@@ -3,11 +3,10 @@ title: We need to design a workable land tax
 author: Colin Broderick
 layout: post
 permalink: /2009/11/we-need-to-design-a-workable-land-tax/
-
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/we-need-to-design-a-workable-land-tax/
+  - "{{site.baseurl}}/2009/11/we-need-to-design-a-workable-land-tax/"
 wp_jd_bitly:
-  - http://bit.ly/4uIlar
+  - "http://bit.ly/4uIlar"
 categories:
   - Newspapers
 tags:
@@ -137,5 +136,5 @@ tags:
 >                                         </div></blockquote> 
 >                                         
 >                                         <p>
->                                           <span class='st_twitter_vcount' st_title='We need to design a workable land tax' st_url='{{site.baseurl}}/2009/11/we-need-to-design-a-workable-land-tax/' displayText='share'></span><span class='st_fblike_vcount' st_title='We need to design a workable land tax' st_url='{{site.baseurl}}/2009/11/we-need-to-design-a-workable-land-tax/' displayText='share'></span><span class='st_plusone_vcount' st_title='We need to design a workable land tax' st_url='{{site.baseurl}}/2009/11/we-need-to-design-a-workable-land-tax/' displayText='share'></span><span class='st_sharethis_vcount' st_title='We need to design a workable land tax' st_url='{{site.baseurl}}/2009/11/we-need-to-design-a-workable-land-tax/' displayText='share'></span>
+>                                           
 >                                         </p>

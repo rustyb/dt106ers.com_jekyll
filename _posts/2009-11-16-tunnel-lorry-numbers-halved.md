@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/tunnel-lorry-numbers-halved/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/tunnel-lorry-numbers-halved/
+  - "{{site.baseurl}}/2009/11/tunnel-lorry-numbers-halved/"
 wp_jd_bitly:
-  - http://bit.ly/SUT3j
+  - "http://bit.ly/SUT3j"
 dsq_thread_id:
   - 377558131
 categories:
@@ -52,4 +52,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Tunnel lorry numbers halved' st\_url='{{site.baseurl}}/2009/11/tunnel-lorry-numbers-halved/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Tunnel lorry numbers halved' st\_url='{{site.baseurl}}/2009/11/tunnel-lorry-numbers-halved/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Tunnel lorry numbers halved' st\_url='{{site.baseurl}}/2009/11/tunnel-lorry-numbers-halved/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Tunnel lorry numbers halved' st\_url='{{site.baseurl}}/2009/11/tunnel-lorry-numbers-halved/' displayText='share'></span>

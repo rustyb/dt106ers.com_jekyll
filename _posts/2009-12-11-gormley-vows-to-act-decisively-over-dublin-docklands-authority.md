@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/
+  - "{{site.baseurl}}/2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/"
 wp_jd_bitly:
-  - http://bit.ly/6h05i0
+  - "http://bit.ly/6h05i0"
 dsq_thread_id:
   - 628649937
 categories:
@@ -29,4 +29,3 @@ categories:
 > 
 > Mr Hogan described the authority as a “financial septic tank” and said “the comptroller has special investigatory powers that expose waste of taxpayer's money and highlights poor financial decisions. This was recently best demonstrated through its special report into Fás.”
 
-<span class='st\_twitter\_vcount' st\_title='Gormley vows to act decisively over Dublin docklands authority' st\_url='{{site.baseurl}}/2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley vows to act decisively over Dublin docklands authority' st\_url='{{site.baseurl}}/2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley vows to act decisively over Dublin docklands authority' st\_url='{{site.baseurl}}/2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley vows to act decisively over Dublin docklands authority' st\_url='{{site.baseurl}}/2009/12/gormley-vows-to-act-decisively-over-dublin-docklands-authority/' displayText='share'></span>

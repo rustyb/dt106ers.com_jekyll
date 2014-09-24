@@ -2,7 +2,7 @@
 title: 'Grangegorman SDZ Oral Hearing &#8211; The last hurdle?'
 author: Colin Broderick
 layout: post
-permalink: /2011/11/grangegorman-sdz-oral-hearing-the-last-hurdle/
+permalink: /2011/11/grangegorman-sdz-oral-hearing-the-last-hurdle/"
 dsq_thread_id:
   - 461119732
 categories:
@@ -57,6 +57,6 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='Grangegorman SDZ Oral Hearing &#8211; The last hurdle?' st\_url='{{site.baseurl}}/2011/11/grangegorman-sdz-oral-hearing-the-last-hurdle/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Grangegorman SDZ Oral Hearing &#8211; The last hurdle?' st\_url='{{site.baseurl}}/2011/11/grangegorman-sdz-oral-hearing-the-last-hurdle/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Grangegorman SDZ Oral Hearing &#8211; The last hurdle?' st\_url='{{site.baseurl}}/2011/11/grangegorman-sdz-oral-hearing-the-last-hurdle/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Grangegorman SDZ Oral Hearing &#8211; The last hurdle?' st\_url='{{site.baseurl}}/2011/11/grangegorman-sdz-oral-hearing-the-last-hurdle/' displayText='share'></span>
+
 
  [1]: http://www.pleanala.ie/lists/oralhearings.htm

@@ -2,7 +2,7 @@
 title: 5 A3 Printed Dublin Transport Maps up for grabs!
 author: Colin Broderick
 layout: post
-permalink: /2012/07/5-a3-printed-dublin-transport-maps-up-for-grabs/
+permalink: /2012/07/5-a3-printed-dublin-transport-maps-up-for-grabs/"
 dsq_thread_id:
   - 775767905
 sgt_slide:
@@ -42,7 +42,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='5 A3 Printed Dublin Transport Maps up for grabs!' st\_url='{{site.baseurl}}/2012/07/5-a3-printed-dublin-transport-maps-up-for-grabs/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='5 A3 Printed Dublin Transport Maps up for grabs!' st\_url='{{site.baseurl}}/2012/07/5-a3-printed-dublin-transport-maps-up-for-grabs/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='5 A3 Printed Dublin Transport Maps up for grabs!' st\_url='{{site.baseurl}}/2012/07/5-a3-printed-dublin-transport-maps-up-for-grabs/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='5 A3 Printed Dublin Transport Maps up for grabs!' st\_url='{{site.baseurl}}/2012/07/5-a3-printed-dublin-transport-maps-up-for-grabs/' displayText='share'></span>
+
 
  [1]: http://rustyswaffle.tumblr.com/post/27712174775/5-transport-maps-comp
  [2]: http://twitter.com/rusty1052

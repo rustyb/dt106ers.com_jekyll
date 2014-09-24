@@ -42,4 +42,3 @@ tags:
 > 
 > Source:IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Council to &#8216;freeze&#8217; zoned land in Ennis' st\_url='{{site.baseurl}}/2009/10/council-to-freeze-zoned-land-in-ennis/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Council to &#8216;freeze&#8217; zoned land in Ennis' st\_url='{{site.baseurl}}/2009/10/council-to-freeze-zoned-land-in-ennis/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Council to &#8216;freeze&#8217; zoned land in Ennis' st\_url='{{site.baseurl}}/2009/10/council-to-freeze-zoned-land-in-ennis/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Council to &#8216;freeze&#8217; zoned land in Ennis' st\_url='{{site.baseurl}}/2009/10/council-to-freeze-zoned-land-in-ennis/' displayText='share'></span>

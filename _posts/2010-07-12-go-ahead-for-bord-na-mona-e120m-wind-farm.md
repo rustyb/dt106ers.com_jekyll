@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/4029667155_41531d9596_b.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/4029667155_41531d9596_b.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/
+  - "{{site.baseurl}}/2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/"
 wp_jd_bitly:
-  - http://bit.ly/9IYPBG
+  - "http://bit.ly/9IYPBG"
 dsq_thread_id:
   - 411376366
 categories:
@@ -40,4 +40,3 @@ categories:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Go-ahead for Bord na Móna €120m wind farm' st\_url='{{site.baseurl}}/2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Go-ahead for Bord na Móna €120m wind farm' st\_url='{{site.baseurl}}/2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Go-ahead for Bord na Móna €120m wind farm' st\_url='{{site.baseurl}}/2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Go-ahead for Bord na Móna €120m wind farm' st\_url='{{site.baseurl}}/2010/07/go-ahead-for-bord-na-mona-e120m-wind-farm/' displayText='share'></span>

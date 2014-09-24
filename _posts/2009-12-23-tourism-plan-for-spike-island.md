@@ -7,7 +7,7 @@ permalink: /2009/12/tourism-plan-for-spike-island/
 wp_jd_bitly:
   - http://bit.ly/4tzt4X
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/tourism-plan-for-spike-island/
+  - "{{site.baseurl}}/2009/12/tourism-plan-for-spike-island/"
 dsq_thread_id:
   - 399306340
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > Source: IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Tourism plan for Spike Island' st\_url='{{site.baseurl}}/2009/12/tourism-plan-for-spike-island/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Tourism plan for Spike Island' st\_url='{{site.baseurl}}/2009/12/tourism-plan-for-spike-island/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Tourism plan for Spike Island' st\_url='{{site.baseurl}}/2009/12/tourism-plan-for-spike-island/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Tourism plan for Spike Island' st\_url='{{site.baseurl}}/2009/12/tourism-plan-for-spike-island/' displayText='share'></span>

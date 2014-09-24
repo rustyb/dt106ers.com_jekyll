@@ -2,7 +2,7 @@
 title: Last Stretch of the M7 opens
 author: Colin Broderick
 layout: post
-permalink: /2010/12/last-stretch-of-the-m7-opens/
+permalink: /2010/12/last-stretch-of-the-m7-opens/"
 dsq_thread_id:
   - 432814993
 categories:
@@ -58,6 +58,6 @@ Great news, pity we won&#8217;t be driving through Borris anymore, but such is p
 > 
 > Writes: **Tim O&#8217;Brien, The Irish Times**
 
-<span class='st\_twitter\_vcount' st\_title='Last Stretch of the M7 opens' st\_url='{{site.baseurl}}/2010/12/last-stretch-of-the-m7-opens/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Last Stretch of the M7 opens' st\_url='{{site.baseurl}}/2010/12/last-stretch-of-the-m7-opens/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Last Stretch of the M7 opens' st\_url='{{site.baseurl}}/2010/12/last-stretch-of-the-m7-opens/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Last Stretch of the M7 opens' st\_url='{{site.baseurl}}/2010/12/last-stretch-of-the-m7-opens/' displayText='share'></span>
+
 
  [1]: http://nra.ie/News/DownloadableDocumentation/file,17733,en.pdf

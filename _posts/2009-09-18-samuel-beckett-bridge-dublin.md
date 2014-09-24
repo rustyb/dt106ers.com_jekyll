@@ -19,7 +19,10 @@ tags:
 I was in town there a while back down by Macken Street and I must say the new Samuel Beckett Bridge is pretty awesome looking! just check out the picture below and decide for yourself.
 
 <div class="wp-caption aligncenter" style="width: 410px">
-  <a href="http://picasaweb.google.com/lh/photo/_6-izsnMlzQZpeG438aTwA?authkey=Gv1sRgCNb3lfn0s4i2ywE&feat=embedwebsite"><img src="http://lh6.ggpht.com/_LGutw4Ajrmo/SlJuizEsf6I/AAAAAAAAD1s/DW1ZUdzbVo4/s400/DSC_1782.JPG" alt="" width="400" height="268" /></a><p class="wp-caption-text">
+  <a href="http://picasaweb.google.com/lh/photo/_6-izsnMlzQZpeG438aTwA?authkey=Gv1sRgCNb3lfn0s4i2ywE">
+	  <img src="http://lh6.ggpht.com/_LGutw4Ajrmo/SlJuizEsf6I/AAAAAAAAD1s/DW1ZUdzbVo4/s400/DSC_1782.JPG" alt="" width="400" height="268" />
+  </a>
+  <p class="wp-caption-text">
     Samuel Beckett Bridge Dublin
   </p>
 </div>
@@ -37,5 +40,3 @@ This bridge will finally  re-create a link across to the south side of the city
 Another feature of note is the capacity of the bridge to carry luas tracks in the future. Finally some proper future planning by the city council in terms of transport! Mind you it could be a planning nightmare to get a luas up and down the keys there or even up macken street/guild street, but sure we shall see whether luas extensions will even continue thanks to the recession and its cuts in funding for infrastructure projects.
 
 Dublin City Council have indicate that the Bridge will be open to city traffic in early 2010.
-
-<span class='st\_twitter\_vcount' st\_title='Samuel Beckett Bridge Dublin' st\_url='{{site.baseurl}}/2009/09/samuel-beckett-bridge-dublin/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Samuel Beckett Bridge Dublin' st\_url='{{site.baseurl}}/2009/09/samuel-beckett-bridge-dublin/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Samuel Beckett Bridge Dublin' st\_url='{{site.baseurl}}/2009/09/samuel-beckett-bridge-dublin/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Samuel Beckett Bridge Dublin' st\_url='{{site.baseurl}}/2009/09/samuel-beckett-bridge-dublin/' displayText='share'></span>

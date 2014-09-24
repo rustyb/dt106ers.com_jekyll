@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/95sqOk
+  - http://bit.ly/95sqOk"
 dsq_thread_id:
   - 557953841
 categories:
@@ -69,4 +69,3 @@ Picked this up from <a title="Go to Blog" href="http://buckplanning.blogspot.com
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Sounds like a plan? Tell that to the planners' st\_url='{{site.baseurl}}/2010/07/sounds-like-a-plan-tell-that-to-the-planners/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Sounds like a plan? Tell that to the planners' st\_url='{{site.baseurl}}/2010/07/sounds-like-a-plan-tell-that-to-the-planners/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Sounds like a plan? Tell that to the planners' st\_url='{{site.baseurl}}/2010/07/sounds-like-a-plan-tell-that-to-the-planners/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Sounds like a plan? Tell that to the planners' st\_url='{{site.baseurl}}/2010/07/sounds-like-a-plan-tell-that-to-the-planners/' displayText='share'></span>

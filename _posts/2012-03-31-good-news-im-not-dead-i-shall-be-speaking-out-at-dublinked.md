@@ -2,7 +2,7 @@
 title: 'Good News! I&#8217;m not dead. I shall be speaking out at Dublinked'
 author: Colin Broderick
 layout: post
-permalink: /2012/03/good-news-im-not-dead-i-shall-be-speaking-out-at-dublinked/
+permalink: /2012/03/good-news-im-not-dead-i-shall-be-speaking-out-at-dublinked/"
 dsq_thread_id:
   - 631237003
 categories:
@@ -31,7 +31,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='Good News! I&#8217;m not dead. I shall be speaking out at Dublinked' st\_url='{{site.baseurl}}/2012/03/good-news-im-not-dead-i-shall-be-speaking-out-at-dublinked/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Good News! I&#8217;m not dead. I shall be speaking out at Dublinked' st\_url='{{site.baseurl}}/2012/03/good-news-im-not-dead-i-shall-be-speaking-out-at-dublinked/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Good News! I&#8217;m not dead. I shall be speaking out at Dublinked' st\_url='{{site.baseurl}}/2012/03/good-news-im-not-dead-i-shall-be-speaking-out-at-dublinked/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Good News! I&#8217;m not dead. I shall be speaking out at Dublinked' st\_url='{{site.baseurl}}/2012/03/good-news-im-not-dead-i-shall-be-speaking-out-at-dublinked/' displayText='share'></span>
+
 
  [1]: http://www.dublinked.ie/?q=DublinkedIRLOGI_SpatialDataEvent
  [2]: http://twitter.com/rusty1052

@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/08/MaterMap.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/08/MaterMap.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/
+  - "{{site.baseurl}}/2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/"
 wp_jd_bitly:
-  - http://bit.ly/brbaWS
+  - "http://bit.ly/brbaWS"
 dsq_thread_id:
   - 431346856
 categories:
@@ -52,4 +52,3 @@ Paul Cullen writes:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Planning for new children&#8217;s hospital set to be lodged' st\_url='{{site.baseurl}}/2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Planning for new children&#8217;s hospital set to be lodged' st\_url='{{site.baseurl}}/2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Planning for new children&#8217;s hospital set to be lodged' st\_url='{{site.baseurl}}/2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Planning for new children&#8217;s hospital set to be lodged' st\_url='{{site.baseurl}}/2010/08/planning-for-new-childrens-hospital-set-to-be-lodged/' displayText='share'></span>

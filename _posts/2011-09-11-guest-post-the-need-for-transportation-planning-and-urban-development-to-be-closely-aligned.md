@@ -2,7 +2,7 @@
 title: '[Guest Post] The need for transportation planning and urban development to be closely aligned'
 author: Colin Broderick
 layout: post
-permalink: /2011/09/guest-post-the-need-for-transportation-planning-and-urban-development-to-be-closely-aligned/
+permalink: /2011/09/guest-post-the-need-for-transportation-planning-and-urban-development-to-be-closely-aligned/"
 dsq_thread_id:
   - 411535360
 categories:
@@ -18,7 +18,7 @@ tags:
   - political factors
   - urban transport
 ---
-***My call for guest posts has been answered. This from [Joe Corr][1], Husband/Dad, MPRII, P/grad Spatial Planning (DIT), PR professional & 1man ThinkTank. Former Parliamentary Assistant to TD & was once Mayor of Fingal *(plundered from twitter)*.***
+***My call for guest posts has been answered. This from [Joe Corr][1], Husband/Dad, MPRII, P/grad Spatial Planning (DIT), PR professional &amp; 1man ThinkTank. Former Parliamentary Assistant to TD &amp; was once Mayor of Fingal *(plundered from twitter)*.***
 
 Ireland being an island nation with its major ports on the east and south coasts of the country relies heavily on road transport for the distribution of imported goods nationally. There is a minor reliance on rail transport for distribution of goods as it is considered to be more efficient to use the road network to deliver small and bulk freight. One way of addressing the issue is to look at the subject of transportation and land use and how we can reduce journey times between towns and cities throughout the country.
 
@@ -42,7 +42,7 @@ Although Von Thünen was demonstrating the efficiency of the transportation of a
   </p>
 </div>
 
-<a title="5.3.1 Housing in Urban Areas, National Spatial Strategy 2002 ? 2020, page 103" href="http://nss.ie/pdfs/Completea.pdf" target="_blank">The National Spatial Strategy (NSS)</a>promotes the strategic and sequential release of land whilst concentrating development in areas where “it is possible” to integrate employment, retail & commercial as well as public transport. The NSS also advocates consolidation of existing areas and regeneration of brown field sites ahead of green field sites. This is clearly a ‘work with what we have' approach as it uses the networks already existing, or at the very least, networks that could be conveniently reintroduced.
+<a title="5.3.1 Housing in Urban Areas, National Spatial Strategy 2002 ? 2020, page 103" href="http://nss.ie/pdfs/Completea.pdf" target="_blank">The National Spatial Strategy (NSS)</a>promotes the strategic and sequential release of land whilst concentrating development in areas where “it is possible” to integrate employment, retail &amp; commercial as well as public transport. The NSS also advocates consolidation of existing areas and regeneration of brown field sites ahead of green field sites. This is clearly a ‘work with what we have' approach as it uses the networks already existing, or at the very least, networks that could be conveniently reintroduced.
 
 Building on Von Thünen's model, Alonso came up with a more modern approach through his Bid Rent Curve or what is sometimes known as the Central Business District Theory (CBD). This theory related to the location of business to the critical masses. The logic of the CBD theory was that the greater access to population for business, the more profitable it could be in commercial terms.
 
@@ -88,6 +88,6 @@ It is clear that with policies such as the NSS in place to consolidate our devel
 
 Comments are welcome, you can follow me on the tweet machine **<a title="Follow me on Twitter" href="http://twitter.com/#!/rusty1052" target="_blank">@Rusty1052</a>**. Only want the blog? Subscribe to the **<a title="RSS Feed" href="http://feeds.feedburner.com/AnIrishPlanningStudentsBlog" target="_blank">RSS Feed</a>** with your favorite reader!
 
-<span class='st\_twitter\_vcount' st\_title='[Guest Post] The need for transportation planning and urban development to be closely aligned' st\_url='{{site.baseurl}}/2011/09/guest-post-the-need-for-transportation-planning-and-urban-development-to-be-closely-aligned/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[Guest Post] The need for transportation planning and urban development to be closely aligned' st\_url='{{site.baseurl}}/2011/09/guest-post-the-need-for-transportation-planning-and-urban-development-to-be-closely-aligned/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[Guest Post] The need for transportation planning and urban development to be closely aligned' st\_url='{{site.baseurl}}/2011/09/guest-post-the-need-for-transportation-planning-and-urban-development-to-be-closely-aligned/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[Guest Post] The need for transportation planning and urban development to be closely aligned' st\_url='{{site.baseurl}}/2011/09/guest-post-the-need-for-transportation-planning-and-urban-development-to-be-closely-aligned/' displayText='share'></span>
+
 
  [1]: http://twitter.com/josephcorr "@josephcorr"

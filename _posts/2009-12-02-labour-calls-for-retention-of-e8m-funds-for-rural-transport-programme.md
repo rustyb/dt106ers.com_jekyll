@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/
+  - "{{site.baseurl}}/2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/"
 wp_jd_bitly:
-  - http://bit.ly/6uxIdD
+  - "http://bit.ly/6uxIdD"
 dsq_thread_id:
   - 597141132
 categories:
@@ -42,4 +42,3 @@ tags:
 > 
 > Source: IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Labour calls for retention of €8m funds for rural transport programme' st\_url='{{site.baseurl}}/2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Labour calls for retention of €8m funds for rural transport programme' st\_url='{{site.baseurl}}/2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Labour calls for retention of €8m funds for rural transport programme' st\_url='{{site.baseurl}}/2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Labour calls for retention of €8m funds for rural transport programme' st\_url='{{site.baseurl}}/2009/12/labour-calls-for-retention-of-e8m-funds-for-rural-transport-programme/' displayText='share'></span>

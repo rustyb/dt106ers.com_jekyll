@@ -52,4 +52,3 @@ tags:
 > 
 > Source: IrishTimes <a href="http://www.irishtimes.com/newspaper/ireland/2009/1028/1224257552408.html" target="_blank">Link</a>
 
-<span class='st\_twitter\_vcount' st\_title='€460m sport, leisure complex planned' st\_url='{{site.baseurl}}/2009/10/e460m-sport-leisure-complex-planned/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='€460m sport, leisure complex planned' st\_url='{{site.baseurl}}/2009/10/e460m-sport-leisure-complex-planned/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='€460m sport, leisure complex planned' st\_url='{{site.baseurl}}/2009/10/e460m-sport-leisure-complex-planned/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='€460m sport, leisure complex planned' st\_url='{{site.baseurl}}/2009/10/e460m-sport-leisure-complex-planned/' displayText='share'></span>

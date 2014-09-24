@@ -5,15 +5,15 @@ layout: post
 permalink: /2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/wdc.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/wdc.jpg"
 seo_follow:
   - 'false'
 jd_twitter:
   - 'Regional development key to growth in all areas of economy, says the Western Development Commission (WDC) - #url#'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/
+  - "{{site.baseurl}}/2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/"
 wp_jd_bitly:
-  - http://bit.ly/bfY4QF
+  - "http://bit.ly/bfY4QF"
 seo_keywords:
   - 'Western Development Commission, DT106 - DIT Spatial Planning and Environmental Management, DT106, DIT, Irish Planning'
 dsq_thread_id:
@@ -68,4 +68,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Regional development key to growth in all areas of economy, report states' st\_url='{{site.baseurl}}/2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Regional development key to growth in all areas of economy, report states' st\_url='{{site.baseurl}}/2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Regional development key to growth in all areas of economy, report states' st\_url='{{site.baseurl}}/2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Regional development key to growth in all areas of economy, report states' st\_url='{{site.baseurl}}/2010/07/regional-development-key-to-growth-in-all-areas-of-economy-report-states/' displayText='share'></span>

@@ -1,8 +1,8 @@
 ---
-title: 'Bag'o Links &#8220;Independence Day&#8221;, Chinese ghost estates and more&#8230;'
+title: "Bag'o Links &#8220;Independence Day&#8221;, Chinese ghost estates and more&#8230;"
 author: Colin Broderick
 layout: post
-permalink: /2011/07/bag%e2%80%99o-links-independence-day-chinese-ghost-estates-and-more/
+permalink: /2011/07/bago-links-independence-day-chinese-ghost-estates-and-more/
 dsq_thread_id:
   - 371276156
 categories:
@@ -48,7 +48,7 @@ Toodles!
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='Bag'o Links &#8220;Independence Day&#8221;, Chinese ghost estates and more&#8230;' st\_url='{{site.baseurl}}/2011/07/bag%e2%80%99o-links-independence-day-chinese-ghost-estates-and-more/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Bag'o Links &#8220;Independence Day&#8221;, Chinese ghost estates and more&#8230;' st\_url='{{site.baseurl}}/2011/07/bag%e2%80%99o-links-independence-day-chinese-ghost-estates-and-more/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Bag'o Links &#8220;Independence Day&#8221;, Chinese ghost estates and more&#8230;' st\_url='{{site.baseurl}}/2011/07/bag%e2%80%99o-links-independence-day-chinese-ghost-estates-and-more/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Bag'o Links &#8220;Independence Day&#8221;, Chinese ghost estates and more&#8230;' st\_url='{{site.baseurl}}/2011/07/bag%e2%80%99o-links-independence-day-chinese-ghost-estates-and-more/' displayText='share'></span>
+
 
  [1]: http://www.sbs.com.au/dateline/story/watch/id/601007/n/China-s-Ghost-Cities
  [2]: http://www.irishtimes.com/newspaper/ireland/2011/0702/1224299940242.html

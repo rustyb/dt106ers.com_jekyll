@@ -2,7 +2,7 @@
 title: IPI President on the RTE News at 1
 author: Colin Broderick
 layout: post
-permalink: /2012/03/ipi-president-on-the-rte-news-at-1/
+permalink: /2012/03/ipi-president-on-the-rte-news-at-1/"
 dsq_thread_id:
   - 604642577
 categories:
@@ -20,6 +20,6 @@ Brendan Alan the IPI President in on the News at One show on RTE RAdio 1 - http
 
 In case you missed Brendan Today the sound byte is available here &#8211; <a href="http://www.rte.ie/news/news1pm/player.html?20120309,3222992,3222992,flash,257" target="_blank">Irish Planning Institute on RADIO 1</a>
 
-<span class='st\_twitter\_vcount' st\_title='IPI President on the RTE News at 1' st\_url='{{site.baseurl}}/2012/03/ipi-president-on-the-rte-news-at-1/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='IPI President on the RTE News at 1' st\_url='{{site.baseurl}}/2012/03/ipi-president-on-the-rte-news-at-1/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='IPI President on the RTE News at 1' st\_url='{{site.baseurl}}/2012/03/ipi-president-on-the-rte-news-at-1/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='IPI President on the RTE News at 1' st\_url='{{site.baseurl}}/2012/03/ipi-president-on-the-rte-news-at-1/' displayText='share'></span>
+
 
  [1]: http://www.rte.ie/news/news1pm/

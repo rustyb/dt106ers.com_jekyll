@@ -2,7 +2,7 @@
 title: Google does wind farms, why not here?
 author: Colin Broderick
 layout: post
-permalink: /2011/04/google-does-wind-farms-why-not-here/
+permalink: /2011/04/google-does-wind-farms-why-not-here/"
 dsq_thread_id:
   - 372556489
 categories:
@@ -28,7 +28,7 @@ For those of you unaware, datacenters are huge users of energy and generate huge
 
 Given that we are striving to be a knowledge economy and one of the trunk international cables makes european land fall here and sure google are here anyway, maybe we could do a deal and get them to locate a major datacenter here and maybe fund a chunk of the [Arklow bank off-shore farm][4] to power it?
 
-<span class='st\_twitter\_vcount' st\_title='Google does wind farms, why not here?' st\_url='{{site.baseurl}}/2011/04/google-does-wind-farms-why-not-here/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Google does wind farms, why not here?' st\_url='{{site.baseurl}}/2011/04/google-does-wind-farms-why-not-here/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Google does wind farms, why not here?' st\_url='{{site.baseurl}}/2011/04/google-does-wind-farms-why-not-here/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Google does wind farms, why not here?' st\_url='{{site.baseurl}}/2011/04/google-does-wind-farms-why-not-here/' displayText='share'></span>
+
 
  [1]: http://mashable.com
  [2]: http://mashable.com/2011/04/21/google-wind-oklahoma/

@@ -2,7 +2,7 @@
 title: RTÉ gets green light for campus rebuild
 author: Colin Broderick
 layout: post
-permalink: /2010/11/rte-gets-green-light-for-campus-rebuild/
+permalink: /2010/11/rte-gets-green-light-for-campus-rebuild/"
 dsq_thread_id:
   - 372712207
 categories:
@@ -77,4 +77,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='RTÉ gets green light for campus rebuild' st\_url='{{site.baseurl}}/2010/11/rte-gets-green-light-for-campus-rebuild/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='RTÉ gets green light for campus rebuild' st\_url='{{site.baseurl}}/2010/11/rte-gets-green-light-for-campus-rebuild/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='RTÉ gets green light for campus rebuild' st\_url='{{site.baseurl}}/2010/11/rte-gets-green-light-for-campus-rebuild/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='RTÉ gets green light for campus rebuild' st\_url='{{site.baseurl}}/2010/11/rte-gets-green-light-for-campus-rebuild/' displayText='share'></span>

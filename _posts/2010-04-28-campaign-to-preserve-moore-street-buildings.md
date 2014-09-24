@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/cbDN05
 wp_jd_target:
-  - http://bit.ly/cbDN05
+  - "http://bit.ly/cbDN05"
 dsq_thread_id:
   - 484018066
 categories:
@@ -42,4 +42,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Campaign to preserve Moore Street buildings' st\_url='{{site.baseurl}}/2010/04/campaign-to-preserve-moore-street-buildings/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Campaign to preserve Moore Street buildings' st\_url='{{site.baseurl}}/2010/04/campaign-to-preserve-moore-street-buildings/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Campaign to preserve Moore Street buildings' st\_url='{{site.baseurl}}/2010/04/campaign-to-preserve-moore-street-buildings/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Campaign to preserve Moore Street buildings' st\_url='{{site.baseurl}}/2010/04/campaign-to-preserve-moore-street-buildings/' displayText='share'></span>

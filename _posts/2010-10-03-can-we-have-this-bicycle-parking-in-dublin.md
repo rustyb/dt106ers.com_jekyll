@@ -3,10 +3,7 @@ title: Can we have this bicycle parking in Dublin?
 author: Colin Broderick
 layout: post
 permalink: /2010/10/can-we-have-this-bicycle-parking-in-dublin/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 374047307
 categories:
@@ -29,6 +26,6 @@ I thought that Switzerland would be one of those places where cycling would not 
 
 What i really would like to see is our Dublin railway stations with similar parking for bikes provided near them! There is no shortage of space generally on the footpaths around the stations similar to the picture above. Can it be done?
 
-<span class='st\_twitter\_vcount' st\_title='Can we have this bicycle parking in Dublin?' st\_url='{{site.baseurl}}/2010/10/can-we-have-this-bicycle-parking-in-dublin/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Can we have this bicycle parking in Dublin?' st\_url='{{site.baseurl}}/2010/10/can-we-have-this-bicycle-parking-in-dublin/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Can we have this bicycle parking in Dublin?' st\_url='{{site.baseurl}}/2010/10/can-we-have-this-bicycle-parking-in-dublin/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Can we have this bicycle parking in Dublin?' st\_url='{{site.baseurl}}/2010/10/can-we-have-this-bicycle-parking-in-dublin/' displayText='share'></span>
+
 
  [1]: http://www.flickr.com/photos/yeolderusty/5047366819/ "DSC_0647 by yeolderusty, on Flickr"

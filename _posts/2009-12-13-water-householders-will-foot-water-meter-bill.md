@@ -4,9 +4,9 @@ author: Colin Broderick
 layout: post
 permalink: /2009/12/water-householders-will-foot-water-meter-bill/
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/
+  - "{{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/"
 wp_jd_bitly:
-  - http://bit.ly/7TnIFm
+  - "http://bit.ly/7TnIFm"
 dsq_thread_id:
   - 448881803
 categories:
@@ -42,5 +42,3 @@ tags:
 > - Paul Melia
 > 
 > Irish Independent
-
-<span class='st\_twitter\_vcount' st\_title='Water: Householders will foot water-meter bill' st\_url='{{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Water: Householders will foot water-meter bill' st\_url='{{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Water: Householders will foot water-meter bill' st\_url='{{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Water: Householders will foot water-meter bill' st\_url='{{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/' displayText='share'></span>

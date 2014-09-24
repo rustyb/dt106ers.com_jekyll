@@ -1,13 +1,12 @@
 ---
-title: 'Councillors reject Dunne&#8217;s new plan for Ballsbridge site'
+title: "Councillors reject Dunne&#8217;s new plan for Ballsbridge site"
 author: Colin Broderick
 layout: post
 permalink: /2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/
-
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/
+  - "{{site.baseurl}}/2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/"
 wp_jd_bitly:
-  - http://bit.ly/4s3p6M
+  - "http://bit.ly/4s3p6M"
 dsq_thread_id:
   - 379517397
 categories:
@@ -86,4 +85,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Councillors reject Dunne&#8217;s new plan for Ballsbridge site' st\_url='{{site.baseurl}}/2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Councillors reject Dunne&#8217;s new plan for Ballsbridge site' st\_url='{{site.baseurl}}/2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Councillors reject Dunne&#8217;s new plan for Ballsbridge site' st\_url='{{site.baseurl}}/2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Councillors reject Dunne&#8217;s new plan for Ballsbridge site' st\_url='{{site.baseurl}}/2009/11/councillors-reject-dunnes-new-plan-for-ballsbridge-site/' displayText='share'></span>

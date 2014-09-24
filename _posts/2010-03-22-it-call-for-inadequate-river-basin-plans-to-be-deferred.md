@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/
+  - "{{site.baseurl}}/2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/"
 wp_jd_bitly:
-  - http://bit.ly/9XFPdh
+  - "http://bit.ly/9XFPdh"
 dsq_thread_id:
   - 482985260
 categories:
@@ -44,4 +44,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='[IT] Call for &#8216;inadequate&#8217; river basin plans to be deferred' st\_url='{{site.baseurl}}/2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT] Call for &#8216;inadequate&#8217; river basin plans to be deferred' st\_url='{{site.baseurl}}/2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT] Call for &#8216;inadequate&#8217; river basin plans to be deferred' st\_url='{{site.baseurl}}/2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT] Call for &#8216;inadequate&#8217; river basin plans to be deferred' st\_url='{{site.baseurl}}/2010/03/it-call-for-inadequate-river-basin-plans-to-be-deferred/' displayText='share'></span>

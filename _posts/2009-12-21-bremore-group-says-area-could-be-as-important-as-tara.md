@@ -7,7 +7,7 @@ permalink: /2009/12/bremore-group-says-area-could-be-as-important-as-tara/
 wp_jd_bitly:
   - http://bit.ly/8cn0TM
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/bremore-group-says-area-could-be-as-important-as-tara/
+  - "{{site.baseurl}}/2009/12/bremore-group-says-area-could-be-as-important-as-tara/"
 dsq_thread_id:
   - 392679550
 categories:
@@ -46,4 +46,3 @@ Looks like the archeology could strike again, thanks to the majority of it not 
 > 
 > Source: IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Bremore group says area could be as important as Tara' st\_url='{{site.baseurl}}/2009/12/bremore-group-says-area-could-be-as-important-as-tara/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Bremore group says area could be as important as Tara' st\_url='{{site.baseurl}}/2009/12/bremore-group-says-area-could-be-as-important-as-tara/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Bremore group says area could be as important as Tara' st\_url='{{site.baseurl}}/2009/12/bremore-group-says-area-could-be-as-important-as-tara/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Bremore group says area could be as important as Tara' st\_url='{{site.baseurl}}/2009/12/bremore-group-says-area-could-be-as-important-as-tara/' displayText='share'></span>

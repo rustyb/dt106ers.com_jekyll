@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/01/it-gormley-tells-council-to-reconsider-plans/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/it-gormley-tells-council-to-reconsider-plans/
+  - "{{site.baseurl}}/2010/01/it-gormley-tells-council-to-reconsider-plans/"
 wp_jd_bitly:
-  - http://bit.ly/6xr0YA
+  - "http://bit.ly/6xr0YA"
 dsq_thread_id:
   - 484873913
 categories:
@@ -34,4 +34,3 @@ tags:
 > 
 > “Failing a satisfactory response, the Minister will have to strongly consider whether further action is warranted, including the use of powers of direction under the Planning and Development Acts,” the letter said. The powers allow the Minister to order the council not to rezone lands.
 
-<span class='st\_twitter\_vcount' st\_title='[IT] Gormley tells council to reconsider plans' st\_url='{{site.baseurl}}/2010/01/it-gormley-tells-council-to-reconsider-plans/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT] Gormley tells council to reconsider plans' st\_url='{{site.baseurl}}/2010/01/it-gormley-tells-council-to-reconsider-plans/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT] Gormley tells council to reconsider plans' st\_url='{{site.baseurl}}/2010/01/it-gormley-tells-council-to-reconsider-plans/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT] Gormley tells council to reconsider plans' st\_url='{{site.baseurl}}/2010/01/it-gormley-tells-council-to-reconsider-plans/' displayText='share'></span>

@@ -5,7 +5,7 @@ layout: post
 permalink: /2010/07/board-rejects-housing-plan-at-protected-demesne-castletown-house/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/donaghcumper.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/donaghcumper.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
@@ -50,4 +50,3 @@ tags:
 > 
 > IrishTimes &#8211; Frank McDonald
 
-<span class='st\_twitter\_vcount' st\_title='Board rejects housing plan at protected demesne, Castletown House' st\_url='{{site.baseurl}}/2010/07/board-rejects-housing-plan-at-protected-demesne-castletown-house/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Board rejects housing plan at protected demesne, Castletown House' st\_url='{{site.baseurl}}/2010/07/board-rejects-housing-plan-at-protected-demesne-castletown-house/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Board rejects housing plan at protected demesne, Castletown House' st\_url='{{site.baseurl}}/2010/07/board-rejects-housing-plan-at-protected-demesne-castletown-house/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Board rejects housing plan at protected demesne, Castletown House' st\_url='{{site.baseurl}}/2010/07/board-rejects-housing-plan-at-protected-demesne-castletown-house/' displayText='share'></span>

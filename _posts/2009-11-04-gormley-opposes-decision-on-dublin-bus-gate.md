@@ -74,4 +74,3 @@ tags:
 >   Source: IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Gormley opposes decision on Dublin &#8216;bus gate&#8217;' st\_url='{{site.baseurl}}/2009/11/gormley-opposes-decision-on-dublin-bus-gate/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley opposes decision on Dublin &#8216;bus gate&#8217;' st\_url='{{site.baseurl}}/2009/11/gormley-opposes-decision-on-dublin-bus-gate/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley opposes decision on Dublin &#8216;bus gate&#8217;' st\_url='{{site.baseurl}}/2009/11/gormley-opposes-decision-on-dublin-bus-gate/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley opposes decision on Dublin &#8216;bus gate&#8217;' st\_url='{{site.baseurl}}/2009/11/gormley-opposes-decision-on-dublin-bus-gate/' displayText='share'></span>

@@ -2,7 +2,7 @@
 title: The cities waste goes to Dundalk, Offaly, Kildare and not Cavan
 author: Colin Broderick
 layout: post
-permalink: /2011/03/the-cities-waste-goes-to-dundalk-offaly-kildare-and-not-cavan/
+permalink: /2011/03/the-cities-waste-goes-to-dundalk-offaly-kildare-and-not-cavan/"
 dsq_thread_id:
   - 372555241
 categories:
@@ -48,7 +48,7 @@ As always comments are welcome!
 
 > &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='The cities waste goes to Dundalk, Offaly, Kildare and not Cavan' st\_url='{{site.baseurl}}/2011/03/the-cities-waste-goes-to-dundalk-offaly-kildare-and-not-cavan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='The cities waste goes to Dundalk, Offaly, Kildare and not Cavan' st\_url='{{site.baseurl}}/2011/03/the-cities-waste-goes-to-dundalk-offaly-kildare-and-not-cavan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='The cities waste goes to Dundalk, Offaly, Kildare and not Cavan' st\_url='{{site.baseurl}}/2011/03/the-cities-waste-goes-to-dundalk-offaly-kildare-and-not-cavan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='The cities waste goes to Dundalk, Offaly, Kildare and not Cavan' st\_url='{{site.baseurl}}/2011/03/the-cities-waste-goes-to-dundalk-offaly-kildare-and-not-cavan/' displayText='share'></span>
+
 
  [1]: http://www.irishtimes.com/newspaper/ireland/2011/0317/1224292406096.html
  [2]: http://www.epa.ie/

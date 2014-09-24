@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/
+  - "{{site.baseurl}}/2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/"
 wp_jd_bitly:
-  - http://bit.ly/9zavok
+  - "http://bit.ly/9zavok"
 dsq_thread_id:
   - 383102366
 categories:
@@ -40,6 +40,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Greystones Harbour Redevelopment &#8211; [IT]Locals warn of increasing erosion' st\_url='{{site.baseurl}}/2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Greystones Harbour Redevelopment &#8211; [IT]Locals warn of increasing erosion' st\_url='{{site.baseurl}}/2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Greystones Harbour Redevelopment &#8211; [IT]Locals warn of increasing erosion' st\_url='{{site.baseurl}}/2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Greystones Harbour Redevelopment &#8211; [IT]Locals warn of increasing erosion' st\_url='{{site.baseurl}}/2010/03/greystones-harbour-redevelopment-itlocals-warn-of-increasing-erosion/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/03/greystonesharbourredevelopment.jpg

@@ -2,7 +2,7 @@
 title: '[IT] Gormley to reject remarks on incinerator'
 author: Colin Broderick
 layout: post
-permalink: /2010/01/it-gormley-to-reject-remarks-on-incinerator/
+permalink: /2010/01/it-gormley-to-reject-remarks-on-incinerator/"
 dsq_thread_id:
   - 671383443
 categories:
@@ -51,4 +51,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='[IT] Gormley to reject remarks on incinerator' st\_url='{{site.baseurl}}/2010/01/it-gormley-to-reject-remarks-on-incinerator/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT] Gormley to reject remarks on incinerator' st\_url='{{site.baseurl}}/2010/01/it-gormley-to-reject-remarks-on-incinerator/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT] Gormley to reject remarks on incinerator' st\_url='{{site.baseurl}}/2010/01/it-gormley-to-reject-remarks-on-incinerator/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT] Gormley to reject remarks on incinerator' st\_url='{{site.baseurl}}/2010/01/it-gormley-to-reject-remarks-on-incinerator/' displayText='share'></span>

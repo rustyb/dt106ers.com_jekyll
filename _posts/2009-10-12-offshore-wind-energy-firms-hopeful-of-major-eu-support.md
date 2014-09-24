@@ -80,4 +80,3 @@ tags:
 >   Source:  IrishTimes &#8211; www.irishtimes.com
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Offshore wind energy firms hopeful of major EU support' st\_url='{{site.baseurl}}/2009/10/offshore-wind-energy-firms-hopeful-of-major-eu-support/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Offshore wind energy firms hopeful of major EU support' st\_url='{{site.baseurl}}/2009/10/offshore-wind-energy-firms-hopeful-of-major-eu-support/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Offshore wind energy firms hopeful of major EU support' st\_url='{{site.baseurl}}/2009/10/offshore-wind-energy-firms-hopeful-of-major-eu-support/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Offshore wind energy firms hopeful of major EU support' st\_url='{{site.baseurl}}/2009/10/offshore-wind-energy-firms-hopeful-of-major-eu-support/' displayText='share'></span>

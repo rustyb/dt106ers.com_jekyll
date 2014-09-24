@@ -1,3 +1,17 @@
+exclude:
+  - CNAME
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - node_modules/
+  - package.json
+  - Rakefile
+  - README.md
+  - vendor/
+#layouts: ./_noita
+gems:
+   - jekyll-redirect-from	
+markdown: rdiscount
 url: "http://dt106ers.com"
 name: DT106ers New Planners Blog
 #baseurl: /dt106ers.com_jekyll

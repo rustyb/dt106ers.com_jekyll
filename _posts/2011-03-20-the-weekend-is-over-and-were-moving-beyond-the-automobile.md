@@ -2,7 +2,7 @@
 title: 'The weekend is over and we&#8217;re Moving Beyond the Automobile'
 author: Colin Broderick
 layout: post
-permalink: /2011/03/the-weekend-is-over-and-were-moving-beyond-the-automobile/
+permalink: /2011/03/the-weekend-is-over-and-were-moving-beyond-the-automobile/"
 dsq_thread_id:
   - 371262236
 categories:
@@ -29,7 +29,7 @@ The series will tackle a number of topics which  may be of interest to you incl
 
 Have good week and keep it real folks! Dont forget to subscribe to the [Feedburner in your Reader of choice][8]!
 
-<span class='st\_twitter\_vcount' st\_title='The weekend is over and we&#8217;re Moving Beyond the Automobile' st\_url='{{site.baseurl}}/2011/03/the-weekend-is-over-and-were-moving-beyond-the-automobile/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='The weekend is over and we&#8217;re Moving Beyond the Automobile' st\_url='{{site.baseurl}}/2011/03/the-weekend-is-over-and-were-moving-beyond-the-automobile/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='The weekend is over and we&#8217;re Moving Beyond the Automobile' st\_url='{{site.baseurl}}/2011/03/the-weekend-is-over-and-were-moving-beyond-the-automobile/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='The weekend is over and we&#8217;re Moving Beyond the Automobile' st\_url='{{site.baseurl}}/2011/03/the-weekend-is-over-and-were-moving-beyond-the-automobile/' displayText='share'></span>
+
 
  [1]: http://www.streetfilms.org/
  [2]: http://www.streetfilms.org/moving-beyond-the-automobile/

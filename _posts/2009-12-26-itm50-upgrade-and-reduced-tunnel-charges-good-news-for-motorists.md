@@ -7,7 +7,7 @@ permalink: /2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motor
 wp_jd_bitly:
   - http://bit.ly/7SUVr9
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motorists/
+  - "{{site.baseurl}}/2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motorists/"
 dsq_thread_id:
   - 420427457
 categories:
@@ -50,4 +50,3 @@ tags:
 > 
 > Source:  IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='(IT)M50 upgrade and reduced tunnel charges good news for motorists' st\_url='{{site.baseurl}}/2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motorists/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='(IT)M50 upgrade and reduced tunnel charges good news for motorists' st\_url='{{site.baseurl}}/2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motorists/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='(IT)M50 upgrade and reduced tunnel charges good news for motorists' st\_url='{{site.baseurl}}/2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motorists/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='(IT)M50 upgrade and reduced tunnel charges good news for motorists' st\_url='{{site.baseurl}}/2009/12/itm50-upgrade-and-reduced-tunnel-charges-good-news-for-motorists/' displayText='share'></span>

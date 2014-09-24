@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/03/renewable-energy-target-to-be-exceeded/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/renewable-energy-target-to-be-exceeded/
+  - "{{site.baseurl}}/2010/03/renewable-energy-target-to-be-exceeded/"
 wp_jd_bitly:
-  - http://bit.ly/9GHCfF
+  - "http://bit.ly/9GHCfF"
 dsq_thread_id:
   - 393314760
 categories:
@@ -29,4 +29,3 @@ tags:
 > 
 > Source:  IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Renewable energy target to be exceeded' st\_url='{{site.baseurl}}/2010/03/renewable-energy-target-to-be-exceeded/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Renewable energy target to be exceeded' st\_url='{{site.baseurl}}/2010/03/renewable-energy-target-to-be-exceeded/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Renewable energy target to be exceeded' st\_url='{{site.baseurl}}/2010/03/renewable-energy-target-to-be-exceeded/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Renewable energy target to be exceeded' st\_url='{{site.baseurl}}/2010/03/renewable-energy-target-to-be-exceeded/' displayText='share'></span>

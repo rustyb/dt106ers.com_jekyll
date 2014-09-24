@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/planning-board-shoots-down-e50m-development/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/planning-board-shoots-down-e50m-development/
+  - "{{site.baseurl}}/2009/12/planning-board-shoots-down-e50m-development/"
 wp_jd_bitly:
-  - http://bit.ly/7N8GdF
+  - "http://bit.ly/7N8GdF"
 dsq_thread_id:
   - 394862945
 categories:
@@ -70,4 +70,3 @@ tags:
 > 
 > Source: TheNationalist
 
-<span class='st\_twitter\_vcount' st\_title='Planning board shoots down €50m development' st\_url='{{site.baseurl}}/2009/12/planning-board-shoots-down-e50m-development/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Planning board shoots down €50m development' st\_url='{{site.baseurl}}/2009/12/planning-board-shoots-down-e50m-development/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Planning board shoots down €50m development' st\_url='{{site.baseurl}}/2009/12/planning-board-shoots-down-e50m-development/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Planning board shoots down €50m development' st\_url='{{site.baseurl}}/2009/12/planning-board-shoots-down-e50m-development/' displayText='share'></span>

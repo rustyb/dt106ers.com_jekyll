@@ -3,10 +3,7 @@ title: 'Must Read: Athlone to be developed by the Chinese'
 author: Colin Broderick
 layout: post
 permalink: /2010/11/must-read-athlone-to-be-developed-by-the-chinese/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 371223270
 categories:
@@ -99,4 +96,3 @@ I would be very interested in any comments people have on this!
 > 
 > <a title="Orig Article" href="http://www.irishtimes.com/newspaper/weekend/2010/1106/1224282775497.html" target="_blank">The IrishTimes</a>
 
-<span class='st\_twitter\_vcount' st\_title='Must Read: Athlone to be developed by the Chinese' st\_url='{{site.baseurl}}/2010/11/must-read-athlone-to-be-developed-by-the-chinese/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Must Read: Athlone to be developed by the Chinese' st\_url='{{site.baseurl}}/2010/11/must-read-athlone-to-be-developed-by-the-chinese/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Must Read: Athlone to be developed by the Chinese' st\_url='{{site.baseurl}}/2010/11/must-read-athlone-to-be-developed-by-the-chinese/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Must Read: Athlone to be developed by the Chinese' st\_url='{{site.baseurl}}/2010/11/must-read-athlone-to-be-developed-by-the-chinese/' displayText='share'></span>

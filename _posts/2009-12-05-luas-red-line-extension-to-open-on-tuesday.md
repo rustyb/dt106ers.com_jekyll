@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/luas-red-line-extension-to-open-on-tuesday/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/luas-red-line-extension-to-open-on-tuesday/
+  - "{{site.baseurl}}/2009/12/luas-red-line-extension-to-open-on-tuesday/"
 wp_jd_bitly:
-  - http://bit.ly/6hrZYb
+  - "http://bit.ly/6hrZYb"
 dsq_thread_id:
   - 399749929
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Luas Red Line extension to open on Tuesday' st\_url='{{site.baseurl}}/2009/12/luas-red-line-extension-to-open-on-tuesday/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Luas Red Line extension to open on Tuesday' st\_url='{{site.baseurl}}/2009/12/luas-red-line-extension-to-open-on-tuesday/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Luas Red Line extension to open on Tuesday' st\_url='{{site.baseurl}}/2009/12/luas-red-line-extension-to-open-on-tuesday/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Luas Red Line extension to open on Tuesday' st\_url='{{site.baseurl}}/2009/12/luas-red-line-extension-to-open-on-tuesday/' displayText='share'></span>

@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/05/the-it-friday-interview-power-behind-eirgrid/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/05/EirGrid-logo.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/05/EirGrid-logo.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/91wT0L
 wp_jd_target:
-  - http://bit.ly/91wT0L
+  - "http://bit.ly/91wT0L"
 dsq_thread_id:
   - 381080027
 categories:
@@ -97,4 +97,3 @@ tags:
 > 
 > IrishTimes &#8211; <http://ow.ly/1ICS8>
 
-<span class='st\_twitter\_vcount' st\_title='The IT Friday Interview &#8211; Power behind EirGrid' st\_url='{{site.baseurl}}/2010/05/the-it-friday-interview-power-behind-eirgrid/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='The IT Friday Interview &#8211; Power behind EirGrid' st\_url='{{site.baseurl}}/2010/05/the-it-friday-interview-power-behind-eirgrid/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='The IT Friday Interview &#8211; Power behind EirGrid' st\_url='{{site.baseurl}}/2010/05/the-it-friday-interview-power-behind-eirgrid/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='The IT Friday Interview &#8211; Power behind EirGrid' st\_url='{{site.baseurl}}/2010/05/the-it-friday-interview-power-behind-eirgrid/' displayText='share'></span>

@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/PD-Bill2009.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/PD-Bill2009.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/
+  - "{{site.baseurl}}/2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/"
 wp_jd_bitly:
-  - http://bit.ly/a8tOjC
+  - "http://bit.ly/a8tOjC"
 dsq_thread_id:
   - 415708318
 categories:
@@ -65,4 +65,3 @@ From todays Irish Times:
 > 
 > Irish Times &#8211; Frank McDonald
 
-<span class='st\_twitter\_vcount' st\_title='President urged by lobby groups to intervene as late change to planning Act sparks fears' st\_url='{{site.baseurl}}/2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='President urged by lobby groups to intervene as late change to planning Act sparks fears' st\_url='{{site.baseurl}}/2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='President urged by lobby groups to intervene as late change to planning Act sparks fears' st\_url='{{site.baseurl}}/2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='President urged by lobby groups to intervene as late change to planning Act sparks fears' st\_url='{{site.baseurl}}/2010/07/president-urged-by-lobby-groups-to-intervene-as-late-change-to-planning-act-sparks-fears/' displayText='share'></span>

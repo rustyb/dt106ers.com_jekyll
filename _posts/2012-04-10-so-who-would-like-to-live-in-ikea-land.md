@@ -2,7 +2,7 @@
 title: So who would like to live in Ikea-land?
 author: Colin Broderick
 layout: post
-permalink: /2012/04/so-who-would-like-to-live-in-ikea-land/
+permalink: /2012/04/so-who-would-like-to-live-in-ikea-land/"
 dsq_thread_id:
   - 643822138
 categories:
@@ -43,7 +43,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='So who would like to live in Ikea-land?' st\_url='{{site.baseurl}}/2012/04/so-who-would-like-to-live-in-ikea-land/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='So who would like to live in Ikea-land?' st\_url='{{site.baseurl}}/2012/04/so-who-would-like-to-live-in-ikea-land/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='So who would like to live in Ikea-land?' st\_url='{{site.baseurl}}/2012/04/so-who-would-like-to-live-in-ikea-land/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='So who would like to live in Ikea-land?' st\_url='{{site.baseurl}}/2012/04/so-who-would-like-to-live-in-ikea-land/' displayText='share'></span>
+
 
  [1]: http://strandeast.com/
  [2]: http://www.fastcoexist.com/1679613/a-3-d-tool-to-let-urban-planners-visualize-traffic-noise-and-pollution

@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/Luas.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/Luas.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/
+  - "{{site.baseurl}}/2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/"
 wp_jd_bitly:
-  - http://bit.ly/9zI4hW
+  - "http://bit.ly/9zI4hW"
 dsq_thread_id:
   - 371905727
 categories:
@@ -47,4 +47,3 @@ My worry is that there will be no coordinated approach regarding the constructio
 
 I have one other gripe for the construction is the probability that the pond in St Stephens green will be drained for the duration of the construction works for the stations at St Stephens Green.
 
-<span class='st\_twitter\_vcount' st\_title='Luas BXD and Interconnector lodged to the Bord' st\_url='{{site.baseurl}}/2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Luas BXD and Interconnector lodged to the Bord' st\_url='{{site.baseurl}}/2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Luas BXD and Interconnector lodged to the Bord' st\_url='{{site.baseurl}}/2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Luas BXD and Interconnector lodged to the Bord' st\_url='{{site.baseurl}}/2010/06/luas-bxd-and-interconnector-lodged-to-the-bord/' displayText='share'></span>

@@ -2,7 +2,7 @@
 title: Ever wondered what the view from the top is like?
 author: Colin Broderick
 layout: post
-permalink: /2011/07/ever-wondered-what-the-view-from-the-top-is-like/
+permalink: /2011/07/ever-wondered-what-the-view-from-the-top-is-like/"
 dsq_thread_id:
   - 371206479
 categories:
@@ -30,6 +30,6 @@ It&#8217;s pretty decent if i do say so myself, from the fifth floor (the board 
 
 Comments are welcome, you can follow me on the tweet machine **<a title="Follow me on Twitter" href="http://twitter.com/#!/rusty1052" target="_blank">@Rusty1052</a>**. Only want the blog? Subscribe to the **<a title="RSS Feed" href="http://feeds.feedburner.com/AnIrishPlanningStudentsBlog" target="_blank">RSS Feed</a>** with your favorite reader!
 
-<span class='st\_twitter\_vcount' st\_title='Ever wondered what the view from the top is like?' st\_url='{{site.baseurl}}/2011/07/ever-wondered-what-the-view-from-the-top-is-like/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Ever wondered what the view from the top is like?' st\_url='{{site.baseurl}}/2011/07/ever-wondered-what-the-view-from-the-top-is-like/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Ever wondered what the view from the top is like?' st\_url='{{site.baseurl}}/2011/07/ever-wondered-what-the-view-from-the-top-is-like/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Ever wondered what the view from the top is like?' st\_url='{{site.baseurl}}/2011/07/ever-wondered-what-the-view-from-the-top-is-like/' displayText='share'></span>
+
 
  [1]: http://www.pleanala.ie "Bord Pleanala Website"

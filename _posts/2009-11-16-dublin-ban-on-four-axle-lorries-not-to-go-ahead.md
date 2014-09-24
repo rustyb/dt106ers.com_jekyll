@@ -7,7 +7,7 @@ permalink: /2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/
 wp_jd_bitly:
   - http://bit.ly/3fyrz1
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/
+  - "{{site.baseurl}}/2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/"
 dsq_thread_id:
   - 600366134
 categories:
@@ -91,4 +91,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Dublin ban on four-axle lorries not to go ahead' st\_url='{{site.baseurl}}/2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin ban on four-axle lorries not to go ahead' st\_url='{{site.baseurl}}/2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin ban on four-axle lorries not to go ahead' st\_url='{{site.baseurl}}/2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin ban on four-axle lorries not to go ahead' st\_url='{{site.baseurl}}/2009/11/dublin-ban-on-four-axle-lorries-not-to-go-ahead/' displayText='share'></span>

@@ -53,4 +53,3 @@ Interesting timing by SIPTU to announce the redevelopment of there &#8220;iconic
 > 
 > Source: www.irishtimes.com
 
-<span class='st\_twitter\_vcount' st\_title='Siptu unveils Liberty Hall plan' st\_url='{{site.baseurl}}/2009/10/siptu-unveils-liberty-hall-plan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Siptu unveils Liberty Hall plan' st\_url='{{site.baseurl}}/2009/10/siptu-unveils-liberty-hall-plan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Siptu unveils Liberty Hall plan' st\_url='{{site.baseurl}}/2009/10/siptu-unveils-liberty-hall-plan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Siptu unveils Liberty Hall plan' st\_url='{{site.baseurl}}/2009/10/siptu-unveils-liberty-hall-plan/' displayText='share'></span>

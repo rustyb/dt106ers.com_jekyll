@@ -3,8 +3,7 @@ title: 'Bord&#8217;s report doesn&#8217;t have much appeal'
 author: Colin Broderick
 layout: post
 permalink: /2009/10/bords-report-doesnt-have-much-appeal/
-embed:
-  - 
+
 dsq_thread_id:
   - 1079248412
 categories:
@@ -40,6 +39,6 @@ tags:
     </p>
   </blockquote>
   
-  <p>
-    <span class='st_twitter_vcount' st_title='Bord&#8217;s report doesn&#8217;t have much appeal' st_url='{{site.baseurl}}/2009/10/bords-report-doesnt-have-much-appeal/' displayText='share'></span><span class='st_fblike_vcount' st_title='Bord&#8217;s report doesn&#8217;t have much appeal' st_url='{{site.baseurl}}/2009/10/bords-report-doesnt-have-much-appeal/' displayText='share'></span><span class='st_plusone_vcount' st_title='Bord&#8217;s report doesn&#8217;t have much appeal' st_url='{{site.baseurl}}/2009/10/bords-report-doesnt-have-much-appeal/' displayText='share'></span><span class='st_sharethis_vcount' st_title='Bord&#8217;s report doesn&#8217;t have much appeal' st_url='{{site.baseurl}}/2009/10/bords-report-doesnt-have-much-appeal/' displayText='share'></span>
+  
+    
   </p>

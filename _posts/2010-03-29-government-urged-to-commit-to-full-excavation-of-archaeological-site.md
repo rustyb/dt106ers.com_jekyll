@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/
+  - "{{site.baseurl}}/2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/"
 wp_jd_bitly:
-  - http://bit.ly/9pWvvt
+  - "http://bit.ly/9pWvvt"
 dsq_thread_id:
   - 485989454
 categories:
@@ -41,4 +41,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Government urged to commit to full excavation of archaeological site' st\_url='{{site.baseurl}}/2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Government urged to commit to full excavation of archaeological site' st\_url='{{site.baseurl}}/2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Government urged to commit to full excavation of archaeological site' st\_url='{{site.baseurl}}/2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Government urged to commit to full excavation of archaeological site' st\_url='{{site.baseurl}}/2010/03/government-urged-to-commit-to-full-excavation-of-archaeological-site/' displayText='share'></span>

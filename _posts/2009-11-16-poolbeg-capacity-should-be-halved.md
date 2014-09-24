@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/poolbeg-capacity-should-be-halved/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/poolbeg-capacity-should-be-halved/
+  - "{{site.baseurl}}/2009/11/poolbeg-capacity-should-be-halved/"
 wp_jd_bitly:
-  - http://bit.ly/3idWwo
+  - "http://bit.ly/3idWwo"
 dsq_thread_id:
   - 471441862
 categories:
@@ -101,4 +101,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Poolbeg capacity &#8216;should be halved&#8217;' st\_url='{{site.baseurl}}/2009/11/poolbeg-capacity-should-be-halved/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Poolbeg capacity &#8216;should be halved&#8217;' st\_url='{{site.baseurl}}/2009/11/poolbeg-capacity-should-be-halved/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Poolbeg capacity &#8216;should be halved&#8217;' st\_url='{{site.baseurl}}/2009/11/poolbeg-capacity-should-be-halved/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Poolbeg capacity &#8216;should be halved&#8217;' st\_url='{{site.baseurl}}/2009/11/poolbeg-capacity-should-be-halved/' displayText='share'></span>

@@ -3,10 +3,7 @@ title: 'An Taisce urges council to &#8216;dezone&#8217; Dunleer land'
 author: Colin Broderick
 layout: post
 permalink: /2010/10/an-taisce-urges-council-to-dezone-dunleer-land/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 404588251
 categories:
@@ -57,4 +54,3 @@ When you look at the <a href="http://www.louthcoco.ie/en/Publications/Developmen
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='An Taisce urges council to &#8216;dezone&#8217; Dunleer land' st\_url='{{site.baseurl}}/2010/10/an-taisce-urges-council-to-dezone-dunleer-land/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='An Taisce urges council to &#8216;dezone&#8217; Dunleer land' st\_url='{{site.baseurl}}/2010/10/an-taisce-urges-council-to-dezone-dunleer-land/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='An Taisce urges council to &#8216;dezone&#8217; Dunleer land' st\_url='{{site.baseurl}}/2010/10/an-taisce-urges-council-to-dezone-dunleer-land/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='An Taisce urges council to &#8216;dezone&#8217; Dunleer land' st\_url='{{site.baseurl}}/2010/10/an-taisce-urges-council-to-dezone-dunleer-land/' displayText='share'></span>

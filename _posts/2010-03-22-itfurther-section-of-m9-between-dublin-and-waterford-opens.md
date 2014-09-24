@@ -5,11 +5,11 @@ layout: post
 permalink: /2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/
 
 jd_twitter:
-  - 'New Section of the M9 opens between Dublin & Waterford - #url#'
+  - 'New Section of the M9 opens between Dublin &amp; Waterford - #url#'
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/
+  - "{{site.baseurl}}/2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/"
 wp_jd_bitly:
-  - http://bit.ly/bnPoZJ
+  - "http://bit.ly/bnPoZJ"
 dsq_thread_id:
   - 410242504
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='[IT]Further section of M9 between Dublin and Waterford opens' st\_url='{{site.baseurl}}/2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT]Further section of M9 between Dublin and Waterford opens' st\_url='{{site.baseurl}}/2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT]Further section of M9 between Dublin and Waterford opens' st\_url='{{site.baseurl}}/2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT]Further section of M9 between Dublin and Waterford opens' st\_url='{{site.baseurl}}/2010/03/itfurther-section-of-m9-between-dublin-and-waterford-opens/' displayText='share'></span>

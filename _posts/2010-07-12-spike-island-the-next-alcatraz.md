@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/spike-island-the-next-alcatraz/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/SpikeIsland.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/SpikeIsland.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/spike-island-the-next-alcatraz/
+  - "{{site.baseurl}}/2010/07/spike-island-the-next-alcatraz/"
 wp_jd_bitly:
-  - http://bit.ly/9xgFzr
+  - "http://bit.ly/9xgFzr"
 dsq_thread_id:
   - 375371488
 categories:
@@ -57,6 +57,6 @@ Only time will tell!
 
 (Image ©CorkCountyCouncil www.spikeislandcork.com)
 
-<span class='st\_twitter\_vcount' st\_title='Spike Island the next Alcatraz?' st\_url='{{site.baseurl}}/2010/07/spike-island-the-next-alcatraz/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Spike Island the next Alcatraz?' st\_url='{{site.baseurl}}/2010/07/spike-island-the-next-alcatraz/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Spike Island the next Alcatraz?' st\_url='{{site.baseurl}}/2010/07/spike-island-the-next-alcatraz/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Spike Island the next Alcatraz?' st\_url='{{site.baseurl}}/2010/07/spike-island-the-next-alcatraz/' displayText='share'></span>
+
 
  [1]: http://www.spikeislandcork.com

@@ -7,7 +7,7 @@ permalink: /2010/04/e3m-e-town-project-for-tarbert-kerry/
 wp_jd_bitly:
   - http://bit.ly/cmO8Gq
 wp_jd_target:
-  - http://bit.ly/cmO8Gq
+  - "http://bit.ly/cmO8Gq"
 dsq_thread_id:
   - 377865114
 categories:
@@ -39,6 +39,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='€3m e-town project for Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/e3m-e-town-project-for-tarbert-kerry/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='€3m e-town project for Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/e3m-e-town-project-for-tarbert-kerry/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='€3m e-town project for Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/e3m-e-town-project-for-tarbert-kerry/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='€3m e-town project for Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/e3m-e-town-project-for-tarbert-kerry/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/tarbert-etown.jpg

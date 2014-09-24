@@ -2,7 +2,7 @@
 title: 'A taster&#8230;&#8230;Irelands Wind farms'
 author: Colin Broderick
 layout: post
-permalink: /2011/08/a-taster-irelands-wind-farms/
+permalink: /2011/08/a-taster-irelands-wind-farms/"
 dsq_thread_id:
   - 387770383
 categories:
@@ -39,6 +39,6 @@ Next week I will dig a little deeper into the data that I gathered on our windfa
 
 Comments are welcome, you can follow me on the tweet machine **<a title="Follow me on Twitter" href="http://twitter.com/#!/rusty1052" target="_blank">@Rusty1052</a>**. Only want the blog? Subscribe to the **<a title="RSS Feed" href="http://feeds.feedburner.com/AnIrishPlanningStudentsBlog" target="_blank">RSS Feed</a>** with your favorite reader!
 
-<span class='st\_twitter\_vcount' st\_title='A taster&#8230;&#8230;Irelands Wind farms' st\_url='{{site.baseurl}}/2011/08/a-taster-irelands-wind-farms/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='A taster&#8230;&#8230;Irelands Wind farms' st\_url='{{site.baseurl}}/2011/08/a-taster-irelands-wind-farms/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='A taster&#8230;&#8230;Irelands Wind farms' st\_url='{{site.baseurl}}/2011/08/a-taster-irelands-wind-farms/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='A taster&#8230;&#8230;Irelands Wind farms' st\_url='{{site.baseurl}}/2011/08/a-taster-irelands-wind-farms/' displayText='share'></span>
+
 
  [1]: http://www.google.com/fusiontables/embedviz?viz=MAP&q=select+col2%3E%3E1+from+1207460+where+col16%3E%3E0+%3D+'grant'&h=false&lat=53.56967636543384&lng=-7.25797873046873&z=7&t=1&l=col2%3E%3E "All applications granted for wind turbines by Bord Pleanala"

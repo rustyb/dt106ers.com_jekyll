@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/
+  - "{{site.baseurl}}/2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/"
 wp_jd_bitly:
-  - http://bit.ly/d51bmu
+  - "http://bit.ly/d51bmu"
 dsq_thread_id:
   - 424448514
 categories:
@@ -44,4 +44,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='TD calls for independent inquiry into causes of November flooding in Cork' st\_url='{{site.baseurl}}/2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='TD calls for independent inquiry into causes of November flooding in Cork' st\_url='{{site.baseurl}}/2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='TD calls for independent inquiry into causes of November flooding in Cork' st\_url='{{site.baseurl}}/2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='TD calls for independent inquiry into causes of November flooding in Cork' st\_url='{{site.baseurl}}/2010/02/td-calls-for-independent-inquiry-into-causes-of-november-flooding-in-cork/' displayText='share'></span>

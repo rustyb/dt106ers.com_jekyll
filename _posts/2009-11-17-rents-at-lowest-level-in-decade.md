@@ -7,7 +7,7 @@ permalink: /2009/11/rents-at-lowest-level-in-decade/
 wp_jd_bitly:
   - http://bit.ly/2wecPD
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/rents-at-lowest-level-in-decade/
+  - "{{site.baseurl}}/2009/11/rents-at-lowest-level-in-decade/"
 dsq_thread_id:
   - 1001256986
 categories:
@@ -35,4 +35,3 @@ tags:
 > 
 > PA &#8211; IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Rents at lowest level &#8216;in decade&#8217;' st\_url='{{site.baseurl}}/2009/11/rents-at-lowest-level-in-decade/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Rents at lowest level &#8216;in decade&#8217;' st\_url='{{site.baseurl}}/2009/11/rents-at-lowest-level-in-decade/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Rents at lowest level &#8216;in decade&#8217;' st\_url='{{site.baseurl}}/2009/11/rents-at-lowest-level-in-decade/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Rents at lowest level &#8216;in decade&#8217;' st\_url='{{site.baseurl}}/2009/11/rents-at-lowest-level-in-decade/' displayText='share'></span>

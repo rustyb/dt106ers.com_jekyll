@@ -3,10 +3,7 @@ title: 'Videos for the week: The GeoSpatial Revolution'
 author: Colin Broderick
 layout: post
 permalink: /2010/11/videos-for-the-week-the-geospatial-revolution/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 412301787
 categories:
@@ -46,7 +43,7 @@ For those who want to see what this very intriguing and informative mini televis
 
 Don&#8217;t forget more infomation at the <a title="GeoSpatila Revolution Website" href="http://geospatialrevolution.psu.edu/" target="_blank">The GeoSpatial Revolution</a> and on their twitter profile [twitter.com/geospatialrev/][8]
 
-<span class='st\_twitter\_vcount' st\_title='Videos for the week: The GeoSpatial Revolution' st\_url='{{site.baseurl}}/2010/11/videos-for-the-week-the-geospatial-revolution/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Videos for the week: The GeoSpatial Revolution' st\_url='{{site.baseurl}}/2010/11/videos-for-the-week-the-geospatial-revolution/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Videos for the week: The GeoSpatial Revolution' st\_url='{{site.baseurl}}/2010/11/videos-for-the-week-the-geospatial-revolution/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Videos for the week: The GeoSpatial Revolution' st\_url='{{site.baseurl}}/2010/11/videos-for-the-week-the-geospatial-revolution/' displayText='share'></span>
+
 
  [1]: http://www.thefoodtrust.org/ "The Food Trust"
  [2]: http://www.portlandonline.com/

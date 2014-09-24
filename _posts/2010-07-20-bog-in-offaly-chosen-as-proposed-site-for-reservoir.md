@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/VeoliaWater.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/VeoliaWater.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/
+  - "{{site.baseurl}}/2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/"
 wp_jd_bitly:
-  - http://bit.ly/bEiLNt
+  - "http://bit.ly/bEiLNt"
 dsq_thread_id:
   - 380191925
 categories:
@@ -58,4 +58,3 @@ Tim O&#8217;Brien from the IrishTimes:
 > 
 > “What happens if someone wants to open a factory in Athlone and there isn't the capacity in the water system there” he asked. “This looks like it will prevent people remaining in the midlands where they grew up.”
 
-<span class='st\_twitter\_vcount' st\_title='Bog in Offaly chosen as proposed site for reservoir' st\_url='{{site.baseurl}}/2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Bog in Offaly chosen as proposed site for reservoir' st\_url='{{site.baseurl}}/2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Bog in Offaly chosen as proposed site for reservoir' st\_url='{{site.baseurl}}/2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Bog in Offaly chosen as proposed site for reservoir' st\_url='{{site.baseurl}}/2010/07/bog-in-offaly-chosen-as-proposed-site-for-reservoir/' displayText='share'></span>

@@ -51,10 +51,12 @@ tags:
 > 
 > <p style="padding-top: 10px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; clear: both; font-size: 1.15em; line-height: 1.4em; text-align: justify; margin: 0px;">
 >   <p style="padding-top: 10px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; clear: both; font-size: 1.15em; line-height: 1.4em; text-align: justify; margin: 0px;">
->     </blockquote> <p>
+>     <p>
 >       So get on down and get your nominations in!
 >     </p>
->     
->     <p>
->       <span class='st_twitter_vcount' st_title='Nominations for National Planning Awards 2010' st_url='{{site.baseurl}}/2009/09/nominations-for-national-planning-awards-2010/' displayText='share'></span><span class='st_fblike_vcount' st_title='Nominations for National Planning Awards 2010' st_url='{{site.baseurl}}/2009/09/nominations-for-national-planning-awards-2010/' displayText='share'></span><span class='st_plusone_vcount' st_title='Nominations for National Planning Awards 2010' st_url='{{site.baseurl}}/2009/09/nominations-for-national-planning-awards-2010/' displayText='share'></span><span class='st_sharethis_vcount' st_title='Nominations for National Planning Awards 2010' st_url='{{site.baseurl}}/2009/09/nominations-for-national-planning-awards-2010/' displayText='share'></span>
->     </p>
+>    <p>
+>    
+>    </p>
+>  </p>
+> </p>
+

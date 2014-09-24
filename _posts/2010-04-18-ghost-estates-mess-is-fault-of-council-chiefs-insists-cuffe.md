@@ -7,7 +7,7 @@ permalink: /2010/04/ghost-estates-mess-is-fault-of-council-chiefs-insists-cuffe/
 wp_jd_bitly:
   - http://bit.ly/c6iPXS
 wp_jd_target:
-  - http://bit.ly/c6iPXS
+  - "http://bit.ly/c6iPXS"
 dsq_thread_id:
   - 388648824
 categories:
@@ -61,4 +61,3 @@ tags:
 > 
 > Irish Independent
 
-<span class='st\_twitter\_vcount' st\_title='Ghost estates mess is fault of council chiefs, insists Cuffe' st\_url='{{site.baseurl}}/2010/04/ghost-estates-mess-is-fault-of-council-chiefs-insists-cuffe/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Ghost estates mess is fault of council chiefs, insists Cuffe' st\_url='{{site.baseurl}}/2010/04/ghost-estates-mess-is-fault-of-council-chiefs-insists-cuffe/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Ghost estates mess is fault of council chiefs, insists Cuffe' st\_url='{{site.baseurl}}/2010/04/ghost-estates-mess-is-fault-of-council-chiefs-insists-cuffe/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Ghost estates mess is fault of council chiefs, insists Cuffe' st\_url='{{site.baseurl}}/2010/04/ghost-estates-mess-is-fault-of-council-chiefs-insists-cuffe/' displayText='share'></span>

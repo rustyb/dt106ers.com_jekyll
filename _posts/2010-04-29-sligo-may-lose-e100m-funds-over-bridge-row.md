@@ -7,11 +7,8 @@ permalink: /2010/04/sligo-may-lose-e100m-funds-over-bridge-row/
 wp_jd_bitly:
   - http://bit.ly/bXMfAT
 wp_jd_target:
-  - http://bit.ly/bXMfAT
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/bXMfAT"
+
 dsq_thread_id:
   - 395206494
 categories:
@@ -50,4 +47,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Sligo may lose €100m funds over bridge row' st\_url='{{site.baseurl}}/2010/04/sligo-may-lose-e100m-funds-over-bridge-row/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Sligo may lose €100m funds over bridge row' st\_url='{{site.baseurl}}/2010/04/sligo-may-lose-e100m-funds-over-bridge-row/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Sligo may lose €100m funds over bridge row' st\_url='{{site.baseurl}}/2010/04/sligo-may-lose-e100m-funds-over-bridge-row/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Sligo may lose €100m funds over bridge row' st\_url='{{site.baseurl}}/2010/04/sligo-may-lose-e100m-funds-over-bridge-row/' displayText='share'></span>

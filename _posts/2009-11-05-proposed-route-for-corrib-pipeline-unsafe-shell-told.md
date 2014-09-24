@@ -90,4 +90,3 @@ categories:
 >   Source:  IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Proposed route for Corrib pipeline unsafe, Shell told' st\_url='{{site.baseurl}}/2009/11/proposed-route-for-corrib-pipeline-unsafe-shell-told/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Proposed route for Corrib pipeline unsafe, Shell told' st\_url='{{site.baseurl}}/2009/11/proposed-route-for-corrib-pipeline-unsafe-shell-told/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Proposed route for Corrib pipeline unsafe, Shell told' st\_url='{{site.baseurl}}/2009/11/proposed-route-for-corrib-pipeline-unsafe-shell-told/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Proposed route for Corrib pipeline unsafe, Shell told' st\_url='{{site.baseurl}}/2009/11/proposed-route-for-corrib-pipeline-unsafe-shell-told/' displayText='share'></span>

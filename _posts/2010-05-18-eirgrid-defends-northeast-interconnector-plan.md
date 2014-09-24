@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/05/eirgrid-defends-northeast-interconnector-plan/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/05/TheDutchDontMind.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/05/TheDutchDontMind.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/9wlgfj
 wp_jd_target:
-  - http://bit.ly/9wlgfj
+  - "http://bit.ly/9wlgfj"
 jd_wp_twitter:
   - ' Eirgrid defends northeast interconnector plan - http://bit.ly/9wlgfj'
 dsq_thread_id:
@@ -80,4 +80,3 @@ tags:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Eirgrid defends northeast interconnector plan' st\_url='{{site.baseurl}}/2010/05/eirgrid-defends-northeast-interconnector-plan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Eirgrid defends northeast interconnector plan' st\_url='{{site.baseurl}}/2010/05/eirgrid-defends-northeast-interconnector-plan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Eirgrid defends northeast interconnector plan' st\_url='{{site.baseurl}}/2010/05/eirgrid-defends-northeast-interconnector-plan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Eirgrid defends northeast interconnector plan' st\_url='{{site.baseurl}}/2010/05/eirgrid-defends-northeast-interconnector-plan/' displayText='share'></span>

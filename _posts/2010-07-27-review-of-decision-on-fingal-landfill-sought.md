@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/9ugpgS
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/review-of-decision-on-fingal-landfill-sought/
+  - "{{site.baseurl}}/2010/07/review-of-decision-on-fingal-landfill-sought/"
 dsq_thread_id:
   - 409093000
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Review of decision on Fingal Landfill sought' st\_url='{{site.baseurl}}/2010/07/review-of-decision-on-fingal-landfill-sought/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Review of decision on Fingal Landfill sought' st\_url='{{site.baseurl}}/2010/07/review-of-decision-on-fingal-landfill-sought/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Review of decision on Fingal Landfill sought' st\_url='{{site.baseurl}}/2010/07/review-of-decision-on-fingal-landfill-sought/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Review of decision on Fingal Landfill sought' st\_url='{{site.baseurl}}/2010/07/review-of-decision-on-fingal-landfill-sought/' displayText='share'></span>

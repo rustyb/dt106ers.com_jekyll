@@ -2,7 +2,7 @@
 title: Things to look out for in 2011
 author: Colin Broderick
 layout: post
-permalink: /2011/01/things-to-look-out-for-in-2011/
+permalink: /2011/01/things-to-look-out-for-in-2011/"
 dsq_thread_id:
   - 373650955
 categories:
@@ -32,7 +32,7 @@ Hope 2011 will be way better than 2010!
 
 C
 
-<span class='st\_twitter\_vcount' st\_title='Things to look out for in 2011' st\_url='{{site.baseurl}}/2011/01/things-to-look-out-for-in-2011/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Things to look out for in 2011' st\_url='{{site.baseurl}}/2011/01/things-to-look-out-for-in-2011/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Things to look out for in 2011' st\_url='{{site.baseurl}}/2011/01/things-to-look-out-for-in-2011/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Things to look out for in 2011' st\_url='{{site.baseurl}}/2011/01/things-to-look-out-for-in-2011/' displayText='share'></span>
+
 
  [1]: http://buckplanning.blogspot.com/2011/01/redrawing-dublin-story-of-city.html
  [2]: http://www.facebook.com/pages/ReDrawing-Dublin/159663910742059

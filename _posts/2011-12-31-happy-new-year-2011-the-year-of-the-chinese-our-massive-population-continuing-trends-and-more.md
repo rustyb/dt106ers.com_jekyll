@@ -2,7 +2,7 @@
 title: Happy New Year! 2011 The year of the Chinese, our massive population, continuing trends and more
 author: Colin Broderick
 layout: post
-permalink: /2011/12/happy-new-year-2011-the-year-of-the-chinese-our-massive-population-continuing-trends-and-more/
+permalink: /2011/12/happy-new-year-2011-the-year-of-the-chinese-our-massive-population-continuing-trends-and-more/"
 dsq_thread_id:
   - 522015236
 categories:
@@ -91,7 +91,7 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='Happy New Year! 2011 The year of the Chinese, our massive population, continuing trends and more' st\_url='{{site.baseurl}}/2011/12/happy-new-year-2011-the-year-of-the-chinese-our-massive-population-continuing-trends-and-more/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Happy New Year! 2011 The year of the Chinese, our massive population, continuing trends and more' st\_url='{{site.baseurl}}/2011/12/happy-new-year-2011-the-year-of-the-chinese-our-massive-population-continuing-trends-and-more/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Happy New Year! 2011 The year of the Chinese, our massive population, continuing trends and more' st\_url='{{site.baseurl}}/2011/12/happy-new-year-2011-the-year-of-the-chinese-our-massive-population-continuing-trends-and-more/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Happy New Year! 2011 The year of the Chinese, our massive population, continuing trends and more' st\_url='{{site.baseurl}}/2011/12/happy-new-year-2011-the-year-of-the-chinese-our-massive-population-continuing-trends-and-more/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/12/happynewyear-copy.jpg
  [2]: {{site.baseurl}}/wp-content/uploads/2011/12/Screen-shot-2011-12-31-at-00.10.35.png

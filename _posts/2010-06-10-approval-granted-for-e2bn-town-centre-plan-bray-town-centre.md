@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/06/approval-granted-for-e2bn-town-centre-plan-bray-town-centre/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/PizzaroBrayTownCentre.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/PizzaroBrayTownCentre.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/adHpl0
 wp_jd_target:
-  - http://bit.ly/adHpl0
+  - "http://bit.ly/adHpl0"
 dsq_thread_id:
   - 371859643
 categories:
@@ -58,4 +58,3 @@ tags:
 
 Cover photo: ©Pizarro Developments Ltd
 
-<span class='st\_twitter\_vcount' st\_title='Approval granted for €2bn town centre plan [Bray Town Centre]' st\_url='{{site.baseurl}}/2010/06/approval-granted-for-e2bn-town-centre-plan-bray-town-centre/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Approval granted for €2bn town centre plan [Bray Town Centre]' st\_url='{{site.baseurl}}/2010/06/approval-granted-for-e2bn-town-centre-plan-bray-town-centre/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Approval granted for €2bn town centre plan [Bray Town Centre]' st\_url='{{site.baseurl}}/2010/06/approval-granted-for-e2bn-town-centre-plan-bray-town-centre/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Approval granted for €2bn town centre plan [Bray Town Centre]' st\_url='{{site.baseurl}}/2010/06/approval-granted-for-e2bn-town-centre-plan-bray-town-centre/' displayText='share'></span>

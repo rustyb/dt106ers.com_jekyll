@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/dvnTPW
 wp_jd_target:
-  - http://bit.ly/dvnTPW
+  - "http://bit.ly/dvnTPW"
 dsq_thread_id:
   - 378231540
 categories:
@@ -65,4 +65,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Changes to the Greystones Harbour Scheme' st\_url='{{site.baseurl}}/2010/04/changes-to-the-greystones-harbour-scheme/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Changes to the Greystones Harbour Scheme' st\_url='{{site.baseurl}}/2010/04/changes-to-the-greystones-harbour-scheme/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Changes to the Greystones Harbour Scheme' st\_url='{{site.baseurl}}/2010/04/changes-to-the-greystones-harbour-scheme/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Changes to the Greystones Harbour Scheme' st\_url='{{site.baseurl}}/2010/04/changes-to-the-greystones-harbour-scheme/' displayText='share'></span>

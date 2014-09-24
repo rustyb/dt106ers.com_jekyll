@@ -3,7 +3,6 @@ title: Local area plan to be completed
 author: Colin Broderick
 layout: post
 permalink: /2009/10/local-area-plan-to-be-completed/
-
 dsq_thread_id:
   - 447551358
 categories:
@@ -36,4 +35,3 @@ tags:
 > 
 > Source: Fingal Independent
 
-<span class='st\_twitter\_vcount' st\_title='Local area plan to be completed' st\_url='{{site.baseurl}}/2009/10/local-area-plan-to-be-completed/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Local area plan to be completed' st\_url='{{site.baseurl}}/2009/10/local-area-plan-to-be-completed/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Local area plan to be completed' st\_url='{{site.baseurl}}/2009/10/local-area-plan-to-be-completed/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Local area plan to be completed' st\_url='{{site.baseurl}}/2009/10/local-area-plan-to-be-completed/' displayText='share'></span>

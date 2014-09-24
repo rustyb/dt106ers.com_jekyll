@@ -2,7 +2,7 @@
 title: Eirgrid gets permit for link
 author: Colin Broderick
 layout: post
-permalink: /2009/09/eirgrid-gets-permit-for-link/
+permalink: /2009/09/eirgrid-gets-permit-for-link/"
 dsq_thread_id:
   - 444794460
 categories:
@@ -36,5 +36,3 @@ This look&#8217;s pretty sweet, for the electricity network. Hopefully it will b
 > The Irish Times
 
 We shall see how it goes!
-
-<span class='st\_twitter\_vcount' st\_title='Eirgrid gets permit for link' st\_url='{{site.baseurl}}/2009/09/eirgrid-gets-permit-for-link/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Eirgrid gets permit for link' st\_url='{{site.baseurl}}/2009/09/eirgrid-gets-permit-for-link/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Eirgrid gets permit for link' st\_url='{{site.baseurl}}/2009/09/eirgrid-gets-permit-for-link/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Eirgrid gets permit for link' st\_url='{{site.baseurl}}/2009/09/eirgrid-gets-permit-for-link/' displayText='share'></span>

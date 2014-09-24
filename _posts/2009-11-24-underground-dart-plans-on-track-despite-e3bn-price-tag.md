@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/
+  - "{{site.baseurl}}/2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/"
 wp_jd_bitly:
-  - http://bit.ly/6KmfgX
+  - "http://bit.ly/6KmfgX"
 dsq_thread_id:
   - 471738691
 categories:
@@ -61,4 +61,3 @@ tags:
 > 
 > Irish Independent
 
-<span class='st\_twitter\_vcount' st\_title='Underground DART plans on track despite €3bn price tag' st\_url='{{site.baseurl}}/2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Underground DART plans on track despite €3bn price tag' st\_url='{{site.baseurl}}/2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Underground DART plans on track despite €3bn price tag' st\_url='{{site.baseurl}}/2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Underground DART plans on track despite €3bn price tag' st\_url='{{site.baseurl}}/2009/11/underground-dart-plans-on-track-despite-e3bn-price-tag/' displayText='share'></span>

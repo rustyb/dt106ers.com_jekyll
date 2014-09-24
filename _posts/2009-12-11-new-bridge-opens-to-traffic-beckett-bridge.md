@@ -4,8 +4,7 @@ author: Colin Broderick
 layout: post
 permalink: /2009/12/new-bridge-opens-to-traffic-beckett-bridge/
 
-embed:
-  - 
+
 dsq_thread_id:
   - 494062646
 categories:
@@ -41,4 +40,3 @@ tags:
 > 
 > Relatives of Samuel Beckett attended the event as did actor Barry McGovern, known internationally for his Beckett performances, and poet Seamus Heaney.
 
-<span class='st\_twitter\_vcount' st\_title='New bridge opens to traffic &#8211; Beckett Bridge' st\_url='{{site.baseurl}}/2009/12/new-bridge-opens-to-traffic-beckett-bridge/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='New bridge opens to traffic &#8211; Beckett Bridge' st\_url='{{site.baseurl}}/2009/12/new-bridge-opens-to-traffic-beckett-bridge/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='New bridge opens to traffic &#8211; Beckett Bridge' st\_url='{{site.baseurl}}/2009/12/new-bridge-opens-to-traffic-beckett-bridge/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='New bridge opens to traffic &#8211; Beckett Bridge' st\_url='{{site.baseurl}}/2009/12/new-bridge-opens-to-traffic-beckett-bridge/' displayText='share'></span>

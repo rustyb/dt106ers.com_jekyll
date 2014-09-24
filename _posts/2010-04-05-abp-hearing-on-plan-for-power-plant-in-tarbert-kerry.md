@@ -7,7 +7,7 @@ permalink: /2010/04/abp-hearing-on-plan-for-power-plant-in-tarbert-kerry/
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/deoMTv
+  - http://bit.ly/deoMTv"
 dsq_thread_id:
   - 376878301
 categories:
@@ -45,6 +45,6 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='ABP Hearing on plan for power plant in Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/abp-hearing-on-plan-for-power-plant-in-tarbert-kerry/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='ABP Hearing on plan for power plant in Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/abp-hearing-on-plan-for-power-plant-in-tarbert-kerry/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='ABP Hearing on plan for power plant in Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/abp-hearing-on-plan-for-power-plant-in-tarbert-kerry/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='ABP Hearing on plan for power plant in Tarbert, Kerry' st\_url='{{site.baseurl}}/2010/04/abp-hearing-on-plan-for-power-plant-in-tarbert-kerry/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/012632_4ea8aa4e.jpg

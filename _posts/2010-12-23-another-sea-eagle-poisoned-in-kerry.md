@@ -2,7 +2,7 @@
 title: Another sea eagle poisoned in Kerry
 author: Colin Broderick
 layout: post
-permalink: /2010/12/another-sea-eagle-poisoned-in-kerry/
+permalink: /2010/12/another-sea-eagle-poisoned-in-kerry/"
 dsq_thread_id:
   - 389457461
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > Writes: *Anna Lucey in The Irish Times*
 
-<span class='st\_twitter\_vcount' st\_title='Another sea eagle poisoned in Kerry' st\_url='{{site.baseurl}}/2010/12/another-sea-eagle-poisoned-in-kerry/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Another sea eagle poisoned in Kerry' st\_url='{{site.baseurl}}/2010/12/another-sea-eagle-poisoned-in-kerry/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Another sea eagle poisoned in Kerry' st\_url='{{site.baseurl}}/2010/12/another-sea-eagle-poisoned-in-kerry/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Another sea eagle poisoned in Kerry' st\_url='{{site.baseurl}}/2010/12/another-sea-eagle-poisoned-in-kerry/' displayText='share'></span>

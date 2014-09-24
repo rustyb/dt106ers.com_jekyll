@@ -3,11 +3,10 @@ title: City footfall nosedived before Bus Gate review
 author: Colin Broderick
 layout: post
 permalink: /2009/11/city-footfall-nosedived-before-bus-gate-review/
-
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/city-footfall-nosedived-before-bus-gate-review/
+  - "{{site.baseurl}}/2009/11/city-footfall-nosedived-before-bus-gate-review/"
 wp_jd_clig:
-  - http://cli.gs/pgzrm
+  - "http://cli.gs/pgzrm"
 dsq_thread_id:
   - 438267794
 categories:
@@ -41,7 +40,7 @@ http://www.flickr.com/photos/cianginty" class="shutterset_singlepic11" > <img cl
 > 
 > Meanwhile, luxury retailer Brown Thomas has moved to streamline management and administration costs as exceptionally tough conditions continue in the retail sector.
 > 
-> Under the plan, human resources, information technology and the finance departments of Brown Thomas in Ireland andSelfridges & Co in the UK will be merged.
+> Under the plan, human resources, information technology and the finance departments of Brown Thomas in Ireland andSelfridges &amp; Co in the UK will be merged.
 > 
 > The Sunday Independent understands there are no plans for cuts to the &#8220;front of house&#8221; workforce.
 > 
@@ -49,7 +48,7 @@ http://www.flickr.com/photos/cianginty" class="shutterset_singlepic11" > <img cl
 > 
 > Former managing director Nigel Blow left the company in September.
 > 
-> In a statement to the Sunday Independent, Brown Thomas said: &#8220;Following the recent appointment of Paul Kelly, chief executive of Selfridges & Co, as deputy chairman of BrownThomas Group, a review of internal administrative structures has been initiated.
+> In a statement to the Sunday Independent, Brown Thomas said: &#8220;Following the recent appointment of Paul Kelly, chief executive of Selfridges &amp; Co, as deputy chairman of BrownThomas Group, a review of internal administrative structures has been initiated.
 > 
 > &#8220;The HR, finance and IT functions for both companies will now be merged to ensure the most efficient alignment of their resources and to take full advantage of the economic recovery when it comes,&#8221; the company added.
 > 
@@ -57,4 +56,3 @@ http://www.flickr.com/photos/cianginty" class="shutterset_singlepic11" > <img cl
 > 
 > Sunday Independent
 
-<span class='st\_twitter\_vcount' st\_title='City footfall nosedived before Bus Gate review' st\_url='{{site.baseurl}}/2009/11/city-footfall-nosedived-before-bus-gate-review/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='City footfall nosedived before Bus Gate review' st\_url='{{site.baseurl}}/2009/11/city-footfall-nosedived-before-bus-gate-review/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='City footfall nosedived before Bus Gate review' st\_url='{{site.baseurl}}/2009/11/city-footfall-nosedived-before-bus-gate-review/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='City footfall nosedived before Bus Gate review' st\_url='{{site.baseurl}}/2009/11/city-footfall-nosedived-before-bus-gate-review/' displayText='share'></span>

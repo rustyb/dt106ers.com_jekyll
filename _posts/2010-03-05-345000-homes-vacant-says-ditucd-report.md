@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/03/345000-homes-vacant-says-ditucd-report/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/03/345000-homes-vacant-says-ditucd-report/
+  - "{{site.baseurl}}/2010/03/345000-homes-vacant-says-ditucd-report/"
 wp_jd_bitly:
-  - http://bit.ly/blBjS9
+  - "http://bit.ly/blBjS9"
 dsq_thread_id:
   - 371832976
 categories:
@@ -50,4 +50,3 @@ The UCD/DIT report was written by Dr Brendan Williams (UCD), Dr Brian Hughes  (
 
 *** ***
 
-<span class='st\_twitter\_vcount' st\_title='345,000 homes vacant, says DIT/UCD report' st\_url='{{site.baseurl}}/2010/03/345000-homes-vacant-says-ditucd-report/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='345,000 homes vacant, says DIT/UCD report' st\_url='{{site.baseurl}}/2010/03/345000-homes-vacant-says-ditucd-report/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='345,000 homes vacant, says DIT/UCD report' st\_url='{{site.baseurl}}/2010/03/345000-homes-vacant-says-ditucd-report/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='345,000 homes vacant, says DIT/UCD report' st\_url='{{site.baseurl}}/2010/03/345000-homes-vacant-says-ditucd-report/' displayText='share'></span>

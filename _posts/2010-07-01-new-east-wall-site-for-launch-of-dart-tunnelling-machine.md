@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/new-east-wall-site-for-launch-of-dart-tunnelling-machine/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/DARTUnderground.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/DARTUnderground.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/bGcjSm
+  - http://bit.ly/bGcjSm"
 dsq_thread_id:
   - 423974914
 categories:
@@ -48,4 +48,3 @@ tags:
 > 
 > Irish Times &#8211; Tim O&#8217;Brien
 
-<span class='st\_twitter\_vcount' st\_title='New East Wall site for launch of Dart tunnelling machine' st\_url='{{site.baseurl}}/2010/07/new-east-wall-site-for-launch-of-dart-tunnelling-machine/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='New East Wall site for launch of Dart tunnelling machine' st\_url='{{site.baseurl}}/2010/07/new-east-wall-site-for-launch-of-dart-tunnelling-machine/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='New East Wall site for launch of Dart tunnelling machine' st\_url='{{site.baseurl}}/2010/07/new-east-wall-site-for-launch-of-dart-tunnelling-machine/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='New East Wall site for launch of Dart tunnelling machine' st\_url='{{site.baseurl}}/2010/07/new-east-wall-site-for-launch-of-dart-tunnelling-machine/' displayText='share'></span>

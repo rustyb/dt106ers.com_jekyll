@@ -7,11 +7,8 @@ permalink: /2010/06/westmeaths-gateway-plan-disappeared-in-the-tullingathlone-tr
 wp_jd_bitly:
   - http://bit.ly/dsKZJL
 wp_jd_target:
-  - http://bit.ly/dsKZJL
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/dsKZJL"
+
 dsq_thread_id:
   - 399771127
 categories:
@@ -69,4 +66,3 @@ tags:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='Westmeath&#8217;s gateway plan disappeared in the Tullingathlone triangle' st\_url='{{site.baseurl}}/2010/06/westmeaths-gateway-plan-disappeared-in-the-tullingathlone-triangle/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Westmeath&#8217;s gateway plan disappeared in the Tullingathlone triangle' st\_url='{{site.baseurl}}/2010/06/westmeaths-gateway-plan-disappeared-in-the-tullingathlone-triangle/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Westmeath&#8217;s gateway plan disappeared in the Tullingathlone triangle' st\_url='{{site.baseurl}}/2010/06/westmeaths-gateway-plan-disappeared-in-the-tullingathlone-triangle/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Westmeath&#8217;s gateway plan disappeared in the Tullingathlone triangle' st\_url='{{site.baseurl}}/2010/06/westmeaths-gateway-plan-disappeared-in-the-tullingathlone-triangle/' displayText='share'></span>

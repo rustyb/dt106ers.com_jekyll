@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/01/plans-to-open-spike-island-by-summer/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/plans-to-open-spike-island-by-summer/
+  - "{{site.baseurl}}/2010/01/plans-to-open-spike-island-by-summer/"
 wp_jd_bitly:
-  - http://bit.ly/8Ayagt
+  - "http://bit.ly/8Ayagt"
 dsq_thread_id:
   - 558039732
 categories:
@@ -44,4 +44,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Plans to open Spike Island by summer' st\_url='{{site.baseurl}}/2010/01/plans-to-open-spike-island-by-summer/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Plans to open Spike Island by summer' st\_url='{{site.baseurl}}/2010/01/plans-to-open-spike-island-by-summer/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Plans to open Spike Island by summer' st\_url='{{site.baseurl}}/2010/01/plans-to-open-spike-island-by-summer/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Plans to open Spike Island by summer' st\_url='{{site.baseurl}}/2010/01/plans-to-open-spike-island-by-summer/' displayText='share'></span>

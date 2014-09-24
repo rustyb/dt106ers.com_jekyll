@@ -5,13 +5,9 @@ layout: post
 permalink: /2010/04/flower-power-to-yield-e15000-windfall/
 
 wp_jd_bitly:
-  - http://bit.ly/bqTVMK
+  - "http://bit.ly/bqTVMK"
 wp_jd_target:
-  - http://bit.ly/bqTVMK
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/bqTVMK"
 dsq_thread_id:
   - 591299170
 categories:
@@ -43,4 +39,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Flower power to yield €15,000 windfall' st\_url='{{site.baseurl}}/2010/04/flower-power-to-yield-e15000-windfall/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Flower power to yield €15,000 windfall' st\_url='{{site.baseurl}}/2010/04/flower-power-to-yield-e15000-windfall/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Flower power to yield €15,000 windfall' st\_url='{{site.baseurl}}/2010/04/flower-power-to-yield-e15000-windfall/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Flower power to yield €15,000 windfall' st\_url='{{site.baseurl}}/2010/04/flower-power-to-yield-e15000-windfall/' displayText='share'></span>

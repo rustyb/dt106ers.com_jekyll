@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/cuuu0T
 wp_jd_target:
-  - http://bit.ly/cuuu0T
+  - "http://bit.ly/cuuu0T"
 dsq_thread_id:
   - 386465753
 categories:
@@ -52,4 +52,3 @@ tags:
 
 View more about this LUAS project on the RPA website:  <http://www.rpa.ie/en/projects/luas_lucan/Pages/default.aspx>
 
-<span class='st\_twitter\_vcount' st\_title='Luas Line F1 &#8211; Change to proposed route for Lucan line planned' st\_url='{{site.baseurl}}/2010/04/luas-line-f1-change-to-proposed-route-for-lucan-line-planned/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Luas Line F1 &#8211; Change to proposed route for Lucan line planned' st\_url='{{site.baseurl}}/2010/04/luas-line-f1-change-to-proposed-route-for-lucan-line-planned/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Luas Line F1 &#8211; Change to proposed route for Lucan line planned' st\_url='{{site.baseurl}}/2010/04/luas-line-f1-change-to-proposed-route-for-lucan-line-planned/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Luas Line F1 &#8211; Change to proposed route for Lucan line planned' st\_url='{{site.baseurl}}/2010/04/luas-line-f1-change-to-proposed-route-for-lucan-line-planned/' displayText='share'></span>

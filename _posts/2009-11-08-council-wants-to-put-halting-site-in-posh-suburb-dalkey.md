@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/
+  - "{{site.baseurl}}/2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/"
 wp_jd_clig:
-  - http://cli.gs/Vg5T0
+  - "http://cli.gs/Vg5T0"
 dsq_thread_id:
   - 415132046
 categories:
@@ -52,4 +52,3 @@ tags:
 > 
 > Sunday Independent
 
-<span class='st\_twitter\_vcount' st\_title='Council wants to put halting site in posh suburb &#8211; Dalkey' st\_url='{{site.baseurl}}/2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Council wants to put halting site in posh suburb &#8211; Dalkey' st\_url='{{site.baseurl}}/2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Council wants to put halting site in posh suburb &#8211; Dalkey' st\_url='{{site.baseurl}}/2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Council wants to put halting site in posh suburb &#8211; Dalkey' st\_url='{{site.baseurl}}/2009/11/council-wants-to-put-halting-site-in-posh-suburb-dalkey/' displayText='share'></span>

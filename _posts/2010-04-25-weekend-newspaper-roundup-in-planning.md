@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/cWs90d
 wp_jd_target:
-  - http://bit.ly/cWs90d
+  - "http://bit.ly/cWs90d"
 dsq_thread_id:
   - 491871386
 categories:
@@ -75,4 +75,3 @@ Plenty to read in the Indo this weekend.
 
 **Colin**
 
-<span class='st\_twitter\_vcount' st\_title='Weekend Newspaper Roundup in Planning' st\_url='{{site.baseurl}}/2010/04/weekend-newspaper-roundup-in-planning/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Weekend Newspaper Roundup in Planning' st\_url='{{site.baseurl}}/2010/04/weekend-newspaper-roundup-in-planning/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Weekend Newspaper Roundup in Planning' st\_url='{{site.baseurl}}/2010/04/weekend-newspaper-roundup-in-planning/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Weekend Newspaper Roundup in Planning' st\_url='{{site.baseurl}}/2010/04/weekend-newspaper-roundup-in-planning/' displayText='share'></span>

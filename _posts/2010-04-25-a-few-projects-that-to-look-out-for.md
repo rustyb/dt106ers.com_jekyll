@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/9GdjJz
 wp_jd_target:
-  - http://bit.ly/9GdjJz
+  - "http://bit.ly/9GdjJz"
 dsq_thread_id:
   - 472583865
 categories:
@@ -53,7 +53,7 @@ These guys are a bunch of visual artists that specialize in creating these fanta
 
 I know i said there would be a few projects, but that all I have time to write about for today, I intend to continue with at least one post like this per week. I am aiming to sort one for around this time on a Sunday every week.
 
-<span class='st\_twitter\_vcount' st\_title='A few projects that you should look out for!' st\_url='{{site.baseurl}}/2010/04/a-few-projects-that-to-look-out-for/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='A few projects that you should look out for!' st\_url='{{site.baseurl}}/2010/04/a-few-projects-that-to-look-out-for/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='A few projects that you should look out for!' st\_url='{{site.baseurl}}/2010/04/a-few-projects-that-to-look-out-for/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='A few projects that you should look out for!' st\_url='{{site.baseurl}}/2010/04/a-few-projects-that-to-look-out-for/' displayText='share'></span>
+
 
  [1]: http://www.thehighline.org "Visit the HighLine"
  [2]: http://twitter.com/highlinenyc

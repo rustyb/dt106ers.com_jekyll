@@ -2,7 +2,7 @@
 title: Dublin Frequent Transport Map complete and up for sale!
 author: Colin Broderick
 layout: post
-permalink: /2012/05/dublin-frequent-transport-map-complete-and-up-for-sale/
+permalink: /2012/05/dublin-frequent-transport-map-complete-and-up-for-sale/"
 dsq_thread_id:
   - 696279314
 categories:
@@ -35,7 +35,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='Dublin Frequent Transport Map complete and up for sale!' st\_url='{{site.baseurl}}/2012/05/dublin-frequent-transport-map-complete-and-up-for-sale/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin Frequent Transport Map complete and up for sale!' st\_url='{{site.baseurl}}/2012/05/dublin-frequent-transport-map-complete-and-up-for-sale/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin Frequent Transport Map complete and up for sale!' st\_url='{{site.baseurl}}/2012/05/dublin-frequent-transport-map-complete-and-up-for-sale/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin Frequent Transport Map complete and up for sale!' st\_url='{{site.baseurl}}/2012/05/dublin-frequent-transport-map-complete-and-up-for-sale/' displayText='share'></span>
+
 
  [1]: http://ow.ly/b0YRd "Dublin Transport Map"
  [2]: http://ow.ly/b0YRd

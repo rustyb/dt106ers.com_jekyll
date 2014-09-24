@@ -5,13 +5,9 @@ layout: post
 permalink: /2010/04/engineers-ireland-urge-public-to-conserve-water/
 
 wp_jd_bitly:
-  - http://bit.ly/dBtaIv
+  - "http://bit.ly/dBtaIv"
 wp_jd_target:
-  - http://bit.ly/dBtaIv
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/dBtaIv"
 dsq_thread_id:
   - 371262152
 categories:
@@ -50,4 +46,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Engineers Ireland &#8211; Urge Public to conserve water' st\_url='{{site.baseurl}}/2010/04/engineers-ireland-urge-public-to-conserve-water/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Engineers Ireland &#8211; Urge Public to conserve water' st\_url='{{site.baseurl}}/2010/04/engineers-ireland-urge-public-to-conserve-water/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Engineers Ireland &#8211; Urge Public to conserve water' st\_url='{{site.baseurl}}/2010/04/engineers-ireland-urge-public-to-conserve-water/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Engineers Ireland &#8211; Urge Public to conserve water' st\_url='{{site.baseurl}}/2010/04/engineers-ireland-urge-public-to-conserve-water/' displayText='share'></span>

@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/DSC_04971.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/DSC_04971.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/
+  - "{{site.baseurl}}/2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/"
 wp_jd_bitly:
-  - http://bit.ly/a2TQv0
+  - "http://bit.ly/a2TQv0"
 dsq_thread_id:
   - 419980685
 categories:
@@ -42,4 +42,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Developers to face high-rise curbs as council agrees plan' st\_url='{{site.baseurl}}/2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Developers to face high-rise curbs as council agrees plan' st\_url='{{site.baseurl}}/2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Developers to face high-rise curbs as council agrees plan' st\_url='{{site.baseurl}}/2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Developers to face high-rise curbs as council agrees plan' st\_url='{{site.baseurl}}/2010/07/developers-to-face-high-rise-curbs-as-council-agrees-plan/' displayText='share'></span>

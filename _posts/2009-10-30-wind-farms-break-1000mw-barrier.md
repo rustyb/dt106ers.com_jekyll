@@ -36,4 +36,3 @@ tags:
 > 
 > Source: IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Wind farms break 1,000MW barrier' st\_url='{{site.baseurl}}/2009/10/wind-farms-break-1000mw-barrier/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Wind farms break 1,000MW barrier' st\_url='{{site.baseurl}}/2009/10/wind-farms-break-1000mw-barrier/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Wind farms break 1,000MW barrier' st\_url='{{site.baseurl}}/2009/10/wind-farms-break-1000mw-barrier/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Wind farms break 1,000MW barrier' st\_url='{{site.baseurl}}/2009/10/wind-farms-break-1000mw-barrier/' displayText='share'></span>

@@ -2,8 +2,7 @@
 title: Primark apply to Naas Town Council for redevelopment of Superquinn in Naas, Co. Kildare
 author: Colin Broderick
 layout: post
-permalink: /2010/02/primark-apply-to-naas-town-council-for-redevelopment-of-superquinn-in-naas-co-kildare/
-
+permalink: /2010/02/primark-apply-to-naas-town-council-for-redevelopment-of-superquinn-in-naas-co-kildare/"
 dsq_thread_id:
   - 372942172
 categories:
@@ -17,6 +16,6 @@ tags:
 > 
 > <a href="http://kildareplanner.wordpress.com" target="_blank">kildareplanner.wordpress.com</a>
 
-<span class='st\_twitter\_vcount' st\_title='Primark apply to Naas Town Council for redevelopment of Superquinn in Naas, Co. Kildare' st\_url='{{site.baseurl}}/2010/02/primark-apply-to-naas-town-council-for-redevelopment-of-superquinn-in-naas-co-kildare/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Primark apply to Naas Town Council for redevelopment of Superquinn in Naas, Co. Kildare' st\_url='{{site.baseurl}}/2010/02/primark-apply-to-naas-town-council-for-redevelopment-of-superquinn-in-naas-co-kildare/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Primark apply to Naas Town Council for redevelopment of Superquinn in Naas, Co. Kildare' st\_url='{{site.baseurl}}/2010/02/primark-apply-to-naas-town-council-for-redevelopment-of-superquinn-in-naas-co-kildare/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Primark apply to Naas Town Council for redevelopment of Superquinn in Naas, Co. Kildare' st\_url='{{site.baseurl}}/2010/02/primark-apply-to-naas-town-council-for-redevelopment-of-superquinn-in-naas-co-kildare/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/02/primark1.jpg

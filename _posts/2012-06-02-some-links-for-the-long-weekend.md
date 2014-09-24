@@ -2,7 +2,7 @@
 title: Some links for the long weekend!
 author: Colin Broderick
 layout: post
-permalink: /2012/06/some-links-for-the-long-weekend/
+permalink: /2012/06/some-links-for-the-long-weekend/"
 dsq_thread_id:
   - 711805353
 categories:
@@ -52,7 +52,7 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='Some links for the long weekend!' st\_url='{{site.baseurl}}/2012/06/some-links-for-the-long-weekend/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Some links for the long weekend!' st\_url='{{site.baseurl}}/2012/06/some-links-for-the-long-weekend/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Some links for the long weekend!' st\_url='{{site.baseurl}}/2012/06/some-links-for-the-long-weekend/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Some links for the long weekend!' st\_url='{{site.baseurl}}/2012/06/some-links-for-the-long-weekend/' displayText='share'></span>
+
 
  [1]: http://www.humantransit.org/2012/05/richard-floridas-supersized-airport-theory.html
  [2]: http://twitter.com/rusty1052

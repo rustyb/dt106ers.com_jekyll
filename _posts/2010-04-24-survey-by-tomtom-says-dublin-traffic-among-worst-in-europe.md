@@ -7,11 +7,7 @@ permalink: /2010/04/survey-by-tomtom-says-dublin-traffic-among-worst-in-europe/
 wp_jd_bitly:
   - http://bit.ly/a6JOBZ
 wp_jd_target:
-  - http://bit.ly/a6JOBZ
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/a6JOBZ"
 dsq_thread_id:
   - 372136461
 categories:
@@ -53,4 +49,3 @@ tags:
 
 Link to TomTom report hopefully to follow!
 
-<span class='st\_twitter\_vcount' st\_title='Survey by TomTom says Dublin traffic among worst in Europe' st\_url='{{site.baseurl}}/2010/04/survey-by-tomtom-says-dublin-traffic-among-worst-in-europe/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Survey by TomTom says Dublin traffic among worst in Europe' st\_url='{{site.baseurl}}/2010/04/survey-by-tomtom-says-dublin-traffic-among-worst-in-europe/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Survey by TomTom says Dublin traffic among worst in Europe' st\_url='{{site.baseurl}}/2010/04/survey-by-tomtom-says-dublin-traffic-among-worst-in-europe/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Survey by TomTom says Dublin traffic among worst in Europe' st\_url='{{site.baseurl}}/2010/04/survey-by-tomtom-says-dublin-traffic-among-worst-in-europe/' displayText='share'></span>

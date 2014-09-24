@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/cork-to-get-localised-flood-defences/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/corkflood.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/corkflood.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/ajnUvK
+  - http://bit.ly/ajnUvK"
 dsq_thread_id:
   - 408660775
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Cork to get localised flood defences' st\_url='{{site.baseurl}}/2010/07/cork-to-get-localised-flood-defences/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Cork to get localised flood defences' st\_url='{{site.baseurl}}/2010/07/cork-to-get-localised-flood-defences/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Cork to get localised flood defences' st\_url='{{site.baseurl}}/2010/07/cork-to-get-localised-flood-defences/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Cork to get localised flood defences' st\_url='{{site.baseurl}}/2010/07/cork-to-get-localised-flood-defences/' displayText='share'></span>

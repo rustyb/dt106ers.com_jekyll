@@ -2,7 +2,7 @@
 title: 'SEI &#8211; Use of wind electricity up by 28%'
 author: Colin Broderick
 layout: post
-permalink: /2010/12/sei-use-of-wind-electricity-up-by-28/
+permalink: /2010/12/sei-use-of-wind-electricity-up-by-28/"
 dsq_thread_id:
   - 435608093
 categories:
@@ -33,6 +33,6 @@ tags:
 > 
 > IrishTimes &#8211; Tim O&#8217;Brien
 
-<span class='st\_twitter\_vcount' st\_title='SEI &#8211; Use of wind electricity up by 28%' st\_url='{{site.baseurl}}/2010/12/sei-use-of-wind-electricity-up-by-28/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='SEI &#8211; Use of wind electricity up by 28%' st\_url='{{site.baseurl}}/2010/12/sei-use-of-wind-electricity-up-by-28/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='SEI &#8211; Use of wind electricity up by 28%' st\_url='{{site.baseurl}}/2010/12/sei-use-of-wind-electricity-up-by-28/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='SEI &#8211; Use of wind electricity up by 28%' st\_url='{{site.baseurl}}/2010/12/sei-use-of-wind-electricity-up-by-28/' displayText='share'></span>
+
 
  [1]: http://www.seai.ie/statistics

@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/
+  - "{{site.baseurl}}/2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/"
 wp_jd_bitly:
-  - http://bit.ly/8YYWH9
+  - "http://bit.ly/8YYWH9"
 dsq_thread_id:
   - 401910392
 categories:
@@ -57,4 +57,3 @@ tags:
 > 
 > Irish Times
 
-<span class='st\_twitter\_vcount' st\_title='O&#8217;Toole blind to sinister side of Corrib campaign' st\_url='{{site.baseurl}}/2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='O&#8217;Toole blind to sinister side of Corrib campaign' st\_url='{{site.baseurl}}/2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='O&#8217;Toole blind to sinister side of Corrib campaign' st\_url='{{site.baseurl}}/2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='O&#8217;Toole blind to sinister side of Corrib campaign' st\_url='{{site.baseurl}}/2010/02/otoole-blind-to-sinister-side-of-corrib-campaign/' displayText='share'></span>

@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/02/130-objections-lodged-against-shell-licence-application/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/02/130-objections-lodged-against-shell-licence-application/
+  - "{{site.baseurl}}/2010/02/130-objections-lodged-against-shell-licence-application/"
 wp_jd_bitly:
-  - http://bit.ly/bKILIb
+  - "http://bit.ly/bKILIb"
 dsq_thread_id:
   - 371406668
 categories:
@@ -55,4 +55,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='130 objections lodged against Shell licence application' st\_url='{{site.baseurl}}/2010/02/130-objections-lodged-against-shell-licence-application/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='130 objections lodged against Shell licence application' st\_url='{{site.baseurl}}/2010/02/130-objections-lodged-against-shell-licence-application/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='130 objections lodged against Shell licence application' st\_url='{{site.baseurl}}/2010/02/130-objections-lodged-against-shell-licence-application/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='130 objections lodged against Shell licence application' st\_url='{{site.baseurl}}/2010/02/130-objections-lodged-against-shell-licence-application/' displayText='share'></span>

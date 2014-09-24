@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/01/ipi-january-e-zine-and-january-student-blog/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/ipi-january-e-zine-and-january-student-blog/
+  - "{{site.baseurl}}/2010/01/ipi-january-e-zine-and-january-student-blog/"
 wp_jd_bitly:
-  - http://bit.ly/8sIjAV
+  - "http://bit.ly/8sIjAV"
 dsq_thread_id:
   - 527714089
 categories:
@@ -23,4 +23,3 @@ The above documents can be downloaded from the links below:
 
 *   <a title="IPI Jan 2010 Ezine" href="http://www.irishplanninginstitute.ie/uploads/files/ezine%20Jan_2010.pdf" target="_blank">January E-zine<br /> </a>-Whats to come from the IPI in the new year
 
-<span class='st\_twitter\_vcount' st\_title='IPI January E-zine and January Student Blog' st\_url='{{site.baseurl}}/2010/01/ipi-january-e-zine-and-january-student-blog/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='IPI January E-zine and January Student Blog' st\_url='{{site.baseurl}}/2010/01/ipi-january-e-zine-and-january-student-blog/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='IPI January E-zine and January Student Blog' st\_url='{{site.baseurl}}/2010/01/ipi-january-e-zine-and-january-student-blog/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='IPI January E-zine and January Student Blog' st\_url='{{site.baseurl}}/2010/01/ipi-january-e-zine-and-january-student-blog/' displayText='share'></span>

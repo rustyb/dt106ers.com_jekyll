@@ -3,10 +3,7 @@ title: Poolbeg incinerator work set to restart
 author: Colin Broderick
 layout: post
 permalink: /2010/10/poolbeg-incinerator-work-set-to-restart/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 413694498
 categories:
@@ -72,4 +69,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Poolbeg incinerator work set to restart' st\_url='{{site.baseurl}}/2010/10/poolbeg-incinerator-work-set-to-restart/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Poolbeg incinerator work set to restart' st\_url='{{site.baseurl}}/2010/10/poolbeg-incinerator-work-set-to-restart/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Poolbeg incinerator work set to restart' st\_url='{{site.baseurl}}/2010/10/poolbeg-incinerator-work-set-to-restart/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Poolbeg incinerator work set to restart' st\_url='{{site.baseurl}}/2010/10/poolbeg-incinerator-work-set-to-restart/' displayText='share'></span>

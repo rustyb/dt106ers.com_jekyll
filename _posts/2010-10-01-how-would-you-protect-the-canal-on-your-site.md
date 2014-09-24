@@ -3,10 +3,7 @@ title: How would you protect the canal on your site?
 author: Colin Broderick
 layout: post
 permalink: /2010/10/how-would-you-protect-the-canal-on-your-site/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 371262210
 categories:
@@ -26,6 +23,6 @@ Based on our recent visit to our masterplan site, i figured that this little hum
 
 Any suggestions on possible solutions is most welcome! Just drop a comment below.
 
-<span class='st\_twitter\_vcount' st\_title='How would you protect the canal on your site?' st\_url='{{site.baseurl}}/2010/10/how-would-you-protect-the-canal-on-your-site/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='How would you protect the canal on your site?' st\_url='{{site.baseurl}}/2010/10/how-would-you-protect-the-canal-on-your-site/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='How would you protect the canal on your site?' st\_url='{{site.baseurl}}/2010/10/how-would-you-protect-the-canal-on-your-site/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='How would you protect the canal on your site?' st\_url='{{site.baseurl}}/2010/10/how-would-you-protect-the-canal-on-your-site/' displayText='share'></span>
+
 
  [1]: http://www.flickr.com/photos/yeolderusty/5042083453/ "DSC_2375 by yeolderusty, on Flickr"

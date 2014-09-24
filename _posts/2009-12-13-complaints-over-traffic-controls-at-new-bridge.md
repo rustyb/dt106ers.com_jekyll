@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/complaints-over-traffic-controls-at-new-bridge/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/complaints-over-traffic-controls-at-new-bridge/
+  - "{{site.baseurl}}/2009/12/complaints-over-traffic-controls-at-new-bridge/"
 wp_jd_bitly:
-  - http://bit.ly/53AY6W
+  - "http://bit.ly/53AY6W"
 dsq_thread_id:
   - 422384269
 categories:
@@ -42,4 +42,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Complaints over traffic controls at new bridge' st\_url='{{site.baseurl}}/2009/12/complaints-over-traffic-controls-at-new-bridge/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Complaints over traffic controls at new bridge' st\_url='{{site.baseurl}}/2009/12/complaints-over-traffic-controls-at-new-bridge/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Complaints over traffic controls at new bridge' st\_url='{{site.baseurl}}/2009/12/complaints-over-traffic-controls-at-new-bridge/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Complaints over traffic controls at new bridge' st\_url='{{site.baseurl}}/2009/12/complaints-over-traffic-controls-at-new-bridge/' displayText='share'></span>

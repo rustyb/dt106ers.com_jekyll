@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/gormley-publishes-international-review-of-waste-management-policy/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/gormley-publishes-international-review-of-waste-management-policy/
+  - "{{site.baseurl}}/2009/11/gormley-publishes-international-review-of-waste-management-policy/"
 wp_jd_bitly:
-  - http://bit.ly/3BCqTo
+  - "http://bit.ly/3BCqTo"
 dsq_thread_id:
   - 416666388
 categories:
@@ -36,4 +36,3 @@ tags:
 > 
 > The Green Party
 
-<span class='st\_twitter\_vcount' st\_title='Gormley publishes International Review of Waste Management Policy' st\_url='{{site.baseurl}}/2009/11/gormley-publishes-international-review-of-waste-management-policy/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley publishes International Review of Waste Management Policy' st\_url='{{site.baseurl}}/2009/11/gormley-publishes-international-review-of-waste-management-policy/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley publishes International Review of Waste Management Policy' st\_url='{{site.baseurl}}/2009/11/gormley-publishes-international-review-of-waste-management-policy/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley publishes International Review of Waste Management Policy' st\_url='{{site.baseurl}}/2009/11/gormley-publishes-international-review-of-waste-management-policy/' displayText='share'></span>

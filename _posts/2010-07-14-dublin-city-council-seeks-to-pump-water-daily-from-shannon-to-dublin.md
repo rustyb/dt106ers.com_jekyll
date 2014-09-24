@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/Glenasmole-Reservoir.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/Glenasmole-Reservoir.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/cs5Q1M
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/
+  - "{{site.baseurl}}/2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/"
 dsq_thread_id:
   - 415199123
 categories:
@@ -55,4 +55,3 @@ I&#8217;m not entirely convinced of the merits of doing this, but there is one
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Dublin City Council seeks to pump water daily from Shannon to Dublin' st\_url='{{site.baseurl}}/2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin City Council seeks to pump water daily from Shannon to Dublin' st\_url='{{site.baseurl}}/2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin City Council seeks to pump water daily from Shannon to Dublin' st\_url='{{site.baseurl}}/2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin City Council seeks to pump water daily from Shannon to Dublin' st\_url='{{site.baseurl}}/2010/07/dublin-city-council-seeks-to-pump-water-daily-from-shannon-to-dublin/' displayText='share'></span>

@@ -7,7 +7,7 @@ permalink: /2009/12/thousands-of-historic-land-files-to-be-shredded/
 wp_jd_bitly:
   - http://bit.ly/7hC3On
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/thousands-of-historic-land-files-to-be-shredded/
+  - "{{site.baseurl}}/2009/12/thousands-of-historic-land-files-to-be-shredded/"
 dsq_thread_id:
   - 536182532
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > Source: IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Thousands of historic land files to be shredded' st\_url='{{site.baseurl}}/2009/12/thousands-of-historic-land-files-to-be-shredded/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Thousands of historic land files to be shredded' st\_url='{{site.baseurl}}/2009/12/thousands-of-historic-land-files-to-be-shredded/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Thousands of historic land files to be shredded' st\_url='{{site.baseurl}}/2009/12/thousands-of-historic-land-files-to-be-shredded/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Thousands of historic land files to be shredded' st\_url='{{site.baseurl}}/2009/12/thousands-of-historic-land-files-to-be-shredded/' displayText='share'></span>

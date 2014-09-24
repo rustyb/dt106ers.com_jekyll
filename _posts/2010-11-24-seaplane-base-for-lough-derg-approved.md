@@ -4,7 +4,7 @@ author: Colin Broderick
 layout: post
 permalink: /2010/11/seaplane-base-for-lough-derg-approved/
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-22.29.59.png
+  - "{{site.baseurl}}/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-22.29.59.png"
 seo_follow:
   - 'false'
 dsq_thread_id:
@@ -50,7 +50,7 @@ It has been quiet a while due to way too much work in college but from todays Ir
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Seaplane base for Lough Derg approved' st\_url='{{site.baseurl}}/2010/11/seaplane-base-for-lough-derg-approved/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Seaplane base for Lough Derg approved' st\_url='{{site.baseurl}}/2010/11/seaplane-base-for-lough-derg-approved/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Seaplane base for Lough Derg approved' st\_url='{{site.baseurl}}/2010/11/seaplane-base-for-lough-derg-approved/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Seaplane base for Lough Derg approved' st\_url='{{site.baseurl}}/2010/11/seaplane-base-for-lough-derg-approved/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/11/Screen-shot-2010-11-24-at-22.29.59.png
  [2]: http://www.harbourflights.com/

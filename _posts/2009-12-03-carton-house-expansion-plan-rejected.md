@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/carton-house-expansion-plan-rejected/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/carton-house-expansion-plan-rejected/
+  - "{{site.baseurl}}/2009/12/carton-house-expansion-plan-rejected/"
 wp_jd_bitly:
-  - http://bit.ly/5iGuu7
+  - "http://bit.ly/5iGuu7"
 dsq_thread_id:
   - 432817448
 categories:
@@ -48,4 +48,3 @@ tags:
 > 
 > Source: IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Carton House expansion plan rejected' st\_url='{{site.baseurl}}/2009/12/carton-house-expansion-plan-rejected/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Carton House expansion plan rejected' st\_url='{{site.baseurl}}/2009/12/carton-house-expansion-plan-rejected/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Carton House expansion plan rejected' st\_url='{{site.baseurl}}/2009/12/carton-house-expansion-plan-rejected/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Carton House expansion plan rejected' st\_url='{{site.baseurl}}/2009/12/carton-house-expansion-plan-rejected/' displayText='share'></span>

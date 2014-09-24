@@ -2,7 +2,7 @@
 title: '[FI] Plans lodged for longawaited swimming pool (Balbriggan)'
 author: Colin Broderick
 layout: post
-permalink: /2010/01/fi-plans-lodged-for-longawaited-swimming-pool-balbriggan/
+permalink: /2010/01/fi-plans-lodged-for-longawaited-swimming-pool-balbriggan/"
 dsq_thread_id:
   - 373504603
 categories:
@@ -42,4 +42,3 @@ Since this article was written there has been 2 further submissions objecting to
 > 
 > Fingal Independent
 
-<span class='st\_twitter\_vcount' st\_title='[FI] Plans lodged for longawaited swimming pool (Balbriggan)' st\_url='{{site.baseurl}}/2010/01/fi-plans-lodged-for-longawaited-swimming-pool-balbriggan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[FI] Plans lodged for longawaited swimming pool (Balbriggan)' st\_url='{{site.baseurl}}/2010/01/fi-plans-lodged-for-longawaited-swimming-pool-balbriggan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[FI] Plans lodged for longawaited swimming pool (Balbriggan)' st\_url='{{site.baseurl}}/2010/01/fi-plans-lodged-for-longawaited-swimming-pool-balbriggan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[FI] Plans lodged for longawaited swimming pool (Balbriggan)' st\_url='{{site.baseurl}}/2010/01/fi-plans-lodged-for-longawaited-swimming-pool-balbriggan/' displayText='share'></span>

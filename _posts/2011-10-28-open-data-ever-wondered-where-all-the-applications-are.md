@@ -2,7 +2,7 @@
 title: 'Open Data &#8211; Ever wondered where all the applications are?'
 author: Colin Broderick
 layout: post
-permalink: /2011/10/open-data-ever-wondered-where-all-the-applications-are/
+permalink: /2011/10/open-data-ever-wondered-where-all-the-applications-are/"
 dsq_thread_id:
   - 455581251
 categories:
@@ -47,7 +47,7 @@ Do you like what you have just read? Maybe you are interested in being a guest w
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='Open Data &#8211; Ever wondered where all the applications are?' st\_url='{{site.baseurl}}/2011/10/open-data-ever-wondered-where-all-the-applications-are/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Open Data &#8211; Ever wondered where all the applications are?' st\_url='{{site.baseurl}}/2011/10/open-data-ever-wondered-where-all-the-applications-are/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Open Data &#8211; Ever wondered where all the applications are?' st\_url='{{site.baseurl}}/2011/10/open-data-ever-wondered-where-all-the-applications-are/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Open Data &#8211; Ever wondered where all the applications are?' st\_url='{{site.baseurl}}/2011/10/open-data-ever-wondered-where-all-the-applications-are/' displayText='share'></span>
+
 
  [1]: http://data.gov.uk/ "Open Data Gov Uk"
  [2]: http://data.fingal.ie/

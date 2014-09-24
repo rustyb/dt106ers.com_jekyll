@@ -2,7 +2,7 @@
 title: Corrib pipeline gets approval from Bord Pleanala
 author: Colin Broderick
 layout: post
-permalink: /2011/01/corrib-pipeline-gets-approval-from-bord-pleanala/
+permalink: /2011/01/corrib-pipeline-gets-approval-from-bord-pleanala/"
 dsq_thread_id:
   - 372294522
 categories:
@@ -50,4 +50,3 @@ News today that the final section of the Corrib Gas pipeline has been approved b
 > 
 > Irish Times &#8211; LORNA SIGGINS, Western Correspondent
 
-<span class='st\_twitter\_vcount' st\_title='Corrib pipeline gets approval from Bord Pleanala' st\_url='{{site.baseurl}}/2011/01/corrib-pipeline-gets-approval-from-bord-pleanala/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Corrib pipeline gets approval from Bord Pleanala' st\_url='{{site.baseurl}}/2011/01/corrib-pipeline-gets-approval-from-bord-pleanala/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Corrib pipeline gets approval from Bord Pleanala' st\_url='{{site.baseurl}}/2011/01/corrib-pipeline-gets-approval-from-bord-pleanala/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Corrib pipeline gets approval from Bord Pleanala' st\_url='{{site.baseurl}}/2011/01/corrib-pipeline-gets-approval-from-bord-pleanala/' displayText='share'></span>

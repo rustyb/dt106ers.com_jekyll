@@ -2,7 +2,7 @@
 title: 'An Taisce says Shell approval &#8216;legally flawed&#8217;'
 author: Colin Broderick
 layout: post
-permalink: /2011/01/an-taisce-says-shell-approval-legally-flawed/
+permalink: /2011/01/an-taisce-says-shell-approval-legally-flawed/"
 dsq_thread_id:
   - 371260395
 categories:
@@ -43,7 +43,7 @@ Below the article as written by Lorna Siggins in the Irish Times today:
 
 Although I am still not convinced that the Bord acted in a manner that was ultra vires to its powers. However only the judicial review and time will tell! Comments as always.
 
-<span class='st\_twitter\_vcount' st\_title='An Taisce says Shell approval &#8216;legally flawed&#8217;' st\_url='{{site.baseurl}}/2011/01/an-taisce-says-shell-approval-legally-flawed/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='An Taisce says Shell approval &#8216;legally flawed&#8217;' st\_url='{{site.baseurl}}/2011/01/an-taisce-says-shell-approval-legally-flawed/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='An Taisce says Shell approval &#8216;legally flawed&#8217;' st\_url='{{site.baseurl}}/2011/01/an-taisce-says-shell-approval-legally-flawed/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='An Taisce says Shell approval &#8216;legally flawed&#8217;' st\_url='{{site.baseurl}}/2011/01/an-taisce-says-shell-approval-legally-flawed/' displayText='share'></span>
+
 
  [1]: http://irishtimes.com
  [2]: http://www.antaisce.ie/

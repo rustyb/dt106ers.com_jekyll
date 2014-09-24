@@ -7,11 +7,8 @@ permalink: /2010/05/e100bn-to-be-spent-on-coast-wind-power/
 wp_jd_bitly:
   - http://bit.ly/9fMiUx
 wp_jd_target:
-  - http://bit.ly/9fMiUx
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/9fMiUx"
+
 dsq_thread_id:
   - 505373794
 categories:
@@ -25,4 +22,3 @@ tags:
 > 
 > IrishTimes &#8211;   <http://ow.ly/1ICTS>
 
-<span class='st\_twitter\_vcount' st\_title='€100bn to be spent on coast wind power' st\_url='{{site.baseurl}}/2010/05/e100bn-to-be-spent-on-coast-wind-power/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='€100bn to be spent on coast wind power' st\_url='{{site.baseurl}}/2010/05/e100bn-to-be-spent-on-coast-wind-power/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='€100bn to be spent on coast wind power' st\_url='{{site.baseurl}}/2010/05/e100bn-to-be-spent-on-coast-wind-power/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='€100bn to be spent on coast wind power' st\_url='{{site.baseurl}}/2010/05/e100bn-to-be-spent-on-coast-wind-power/' displayText='share'></span>

@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/gormley-open-to-nuclear-debate/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/gormley-open-to-nuclear-debate/
+  - "{{site.baseurl}}/2009/11/gormley-open-to-nuclear-debate/"
 wp_jd_bitly:
-  - http://bit.ly/7NcT3f
+  - "http://bit.ly/7NcT3f"
 dsq_thread_id:
   - 661674946
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Gormley &#8216;open&#8217; to nuclear debate' st\_url='{{site.baseurl}}/2009/11/gormley-open-to-nuclear-debate/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley &#8216;open&#8217; to nuclear debate' st\_url='{{site.baseurl}}/2009/11/gormley-open-to-nuclear-debate/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley &#8216;open&#8217; to nuclear debate' st\_url='{{site.baseurl}}/2009/11/gormley-open-to-nuclear-debate/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley &#8216;open&#8217; to nuclear debate' st\_url='{{site.baseurl}}/2009/11/gormley-open-to-nuclear-debate/' displayText='share'></span>

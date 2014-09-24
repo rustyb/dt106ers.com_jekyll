@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/12/ipi-november-e-zine-and-november-student-blog-release/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/ipi-november-e-zine-and-november-student-blog-release/
+  - "{{site.baseurl}}/2009/12/ipi-november-e-zine-and-november-student-blog-release/"
 wp_jd_bitly:
-  - http://bit.ly/7cJIAY
+  - "http://bit.ly/7cJIAY"
 categories:
   - IPI
 tags:
@@ -22,4 +22,3 @@ The above documents can be downloaded from the links below:
 
 *   <a href="http://www.irishplanninginstitute.ie/uploads/files/ezine_Nov09.jpg" target="_blank">November E-zine<br /> </a>-IPI establishes National Taskforce for unemployed Planners / Graduate Planners
 
-<span class='st\_twitter\_vcount' st\_title='IPI November E-zine and November Student Blog Release' st\_url='{{site.baseurl}}/2009/12/ipi-november-e-zine-and-november-student-blog-release/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='IPI November E-zine and November Student Blog Release' st\_url='{{site.baseurl}}/2009/12/ipi-november-e-zine-and-november-student-blog-release/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='IPI November E-zine and November Student Blog Release' st\_url='{{site.baseurl}}/2009/12/ipi-november-e-zine-and-november-student-blog-release/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='IPI November E-zine and November Student Blog Release' st\_url='{{site.baseurl}}/2009/12/ipi-november-e-zine-and-november-student-blog-release/' displayText='share'></span>

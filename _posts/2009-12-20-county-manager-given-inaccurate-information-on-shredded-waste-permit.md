@@ -7,7 +7,7 @@ permalink: /2009/12/county-manager-given-inaccurate-information-on-shredded-wast
 wp_jd_bitly:
   - http://bit.ly/51CDNF
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/county-manager-given-inaccurate-information-on-shredded-waste-permit/
+  - "{{site.baseurl}}/2009/12/county-manager-given-inaccurate-information-on-shredded-waste-permit/"
 dsq_thread_id:
   - 377882758
 categories:
@@ -43,4 +43,3 @@ tags:
 > 
 > Source: IRISHTIMES
 
-<span class='st\_twitter\_vcount' st\_title='County manager given &#8216;inaccurate&#8217; information on shredded waste permit' st\_url='{{site.baseurl}}/2009/12/county-manager-given-inaccurate-information-on-shredded-waste-permit/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='County manager given &#8216;inaccurate&#8217; information on shredded waste permit' st\_url='{{site.baseurl}}/2009/12/county-manager-given-inaccurate-information-on-shredded-waste-permit/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='County manager given &#8216;inaccurate&#8217; information on shredded waste permit' st\_url='{{site.baseurl}}/2009/12/county-manager-given-inaccurate-information-on-shredded-waste-permit/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='County manager given &#8216;inaccurate&#8217; information on shredded waste permit' st\_url='{{site.baseurl}}/2009/12/county-manager-given-inaccurate-information-on-shredded-waste-permit/' displayText='share'></span>

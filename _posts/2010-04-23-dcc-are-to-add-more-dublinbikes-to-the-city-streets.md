@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/cuKKgl
 wp_jd_target:
-  - http://bit.ly/cuKKgl
+  - "http://bit.ly/cuKKgl"
 dsq_thread_id:
   - 387504132
 categories:
@@ -58,4 +58,3 @@ I would say to everyone they should join up to the scheme! It&#8217;s so easy ju
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='DCC are to add more Dublinbikes to the city streets!' st\_url='{{site.baseurl}}/2010/04/dcc-are-to-add-more-dublinbikes-to-the-city-streets/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='DCC are to add more Dublinbikes to the city streets!' st\_url='{{site.baseurl}}/2010/04/dcc-are-to-add-more-dublinbikes-to-the-city-streets/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='DCC are to add more Dublinbikes to the city streets!' st\_url='{{site.baseurl}}/2010/04/dcc-are-to-add-more-dublinbikes-to-the-city-streets/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='DCC are to add more Dublinbikes to the city streets!' st\_url='{{site.baseurl}}/2010/04/dcc-are-to-add-more-dublinbikes-to-the-city-streets/' displayText='share'></span>

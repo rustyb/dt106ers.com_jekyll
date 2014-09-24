@@ -2,7 +2,7 @@
 title: Bikes on the DART, what about in Europe?
 author: Colin Broderick
 layout: post
-permalink: /2011/01/bikes-on-the-dart-what-about-in-europe/
+permalink: /2011/01/bikes-on-the-dart-what-about-in-europe/"
 dsq_thread_id:
   - 371262224
 categories:
@@ -86,7 +86,7 @@ Of course no bicycle related post would be complete without the inclusion of Cop
 
 Happy biking!
 
-<span class='st\_twitter\_vcount' st\_title='Bikes on the DART, what about in Europe?' st\_url='{{site.baseurl}}/2011/01/bikes-on-the-dart-what-about-in-europe/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Bikes on the DART, what about in Europe?' st\_url='{{site.baseurl}}/2011/01/bikes-on-the-dart-what-about-in-europe/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Bikes on the DART, what about in Europe?' st\_url='{{site.baseurl}}/2011/01/bikes-on-the-dart-what-about-in-europe/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Bikes on the DART, what about in Europe?' st\_url='{{site.baseurl}}/2011/01/bikes-on-the-dart-what-about-in-europe/' displayText='share'></span>
+
 
  [1]: http://irishrail.ie
  [2]: https://www.irishrail.ie/home/railRewardsLoyalty.asp

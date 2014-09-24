@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/dublin-port-hearing-to-reopen/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/dublin-port-hearing-to-reopen/
+  - "{{site.baseurl}}/2009/11/dublin-port-hearing-to-reopen/"
 wp_jd_bitly:
-  - http://bit.ly/3RBT9N
+  - "http://bit.ly/3RBT9N"
 dsq_thread_id:
   - 427153540
 categories:
@@ -50,4 +50,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='Dublin port hearing to reopen' st\_url='{{site.baseurl}}/2009/11/dublin-port-hearing-to-reopen/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin port hearing to reopen' st\_url='{{site.baseurl}}/2009/11/dublin-port-hearing-to-reopen/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin port hearing to reopen' st\_url='{{site.baseurl}}/2009/11/dublin-port-hearing-to-reopen/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin port hearing to reopen' st\_url='{{site.baseurl}}/2009/11/dublin-port-hearing-to-reopen/' displayText='share'></span>

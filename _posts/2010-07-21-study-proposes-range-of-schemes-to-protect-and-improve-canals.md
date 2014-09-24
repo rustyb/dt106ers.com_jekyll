@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/
+  - "{{site.baseurl}}/2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/"
 wp_jd_bitly:
-  - http://bit.ly/cHTC5S
+  - "http://bit.ly/cHTC5S
 seo_follow:
   - 'false'
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/GrandCanal.jpg
+  - {{site.baseurl}}/wp-content/uploads/2010/07/GrandCanal.jpg"
 dsq_thread_id:
   - 490692951
 categories:
@@ -51,4 +51,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Study proposes range of schemes to protect and improve canals' st\_url='{{site.baseurl}}/2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Study proposes range of schemes to protect and improve canals' st\_url='{{site.baseurl}}/2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Study proposes range of schemes to protect and improve canals' st\_url='{{site.baseurl}}/2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Study proposes range of schemes to protect and improve canals' st\_url='{{site.baseurl}}/2010/07/study-proposes-range-of-schemes-to-protect-and-improve-canals/' displayText='share'></span>

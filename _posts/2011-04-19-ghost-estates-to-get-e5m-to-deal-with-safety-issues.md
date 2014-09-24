@@ -2,7 +2,7 @@
 title: '&#8216;Ghost&#8217; estates to get €5m to deal with safety issues'
 author: Colin Broderick
 layout: post
-permalink: /2011/04/ghost-estates-to-get-e5m-to-deal-with-safety-issues/
+permalink: /2011/04/ghost-estates-to-get-e5m-to-deal-with-safety-issues/"
 dsq_thread_id:
   - 371262239
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='&#8216;Ghost&#8217; estates to get €5m to deal with safety issues' st\_url='{{site.baseurl}}/2011/04/ghost-estates-to-get-e5m-to-deal-with-safety-issues/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='&#8216;Ghost&#8217; estates to get €5m to deal with safety issues' st\_url='{{site.baseurl}}/2011/04/ghost-estates-to-get-e5m-to-deal-with-safety-issues/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='&#8216;Ghost&#8217; estates to get €5m to deal with safety issues' st\_url='{{site.baseurl}}/2011/04/ghost-estates-to-get-e5m-to-deal-with-safety-issues/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='&#8216;Ghost&#8217; estates to get €5m to deal with safety issues' st\_url='{{site.baseurl}}/2011/04/ghost-estates-to-get-e5m-to-deal-with-safety-issues/' displayText='share'></span>

@@ -22,7 +22,7 @@ Only noticed this in saturdays irish times today. This article was accompanied�
 
 <a href="{{site.baseurl}}/wp-content/gallery/post/viaduc_millau.jpg" title="" class="shutterset_singlepic5" > <img class="ngg-singlepic ngg-center" src="{{site.baseurl}}/wp-content/gallery/cache/5__420x340_viaduc_millau.jpg" alt="viaduc de millau" title="viaduc de millau" /> </a> 
 > <p style="line-height: 18px; margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px;">
->   <strong>HERITAGE & HABITAT:</strong> NOW THAT “development” is a dirty word in Ireland,  and building projects are too often seen in the light of destruction rather than construction, there is one kind of building project that is still a good thing – almost a morally good thing – and that's bridges, writes <strong>GEMMA TIPTON</strong>
+>   <strong>HERITAGE &amp; HABITAT:</strong> NOW THAT “development” is a dirty word in Ireland,  and building projects are too often seen in the light of destruction rather than construction, there is one kind of building project that is still a good thing – almost a morally good thing – and that's bridges, writes <strong>GEMMA TIPTON</strong>
 > </p>
 > 
 > <p style="line-height: 18px; margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px;">
@@ -99,7 +99,3 @@ Only noticed this in saturdays irish times today. This article was accompanied�
 > 
 > *Source: IRISHTIMES*
 
-<p style="line-height: 18px; margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px;">
-  <p>
-    <span class='st_twitter_vcount' st_title='A time for building bridges' st_url='{{site.baseurl}}/2009/09/a-time-for-building-bridges/' displayText='share'></span><span class='st_fblike_vcount' st_title='A time for building bridges' st_url='{{site.baseurl}}/2009/09/a-time-for-building-bridges/' displayText='share'></span><span class='st_plusone_vcount' st_title='A time for building bridges' st_url='{{site.baseurl}}/2009/09/a-time-for-building-bridges/' displayText='share'></span><span class='st_sharethis_vcount' st_title='A time for building bridges' st_url='{{site.baseurl}}/2009/09/a-time-for-building-bridges/' displayText='share'></span>
-  </p>

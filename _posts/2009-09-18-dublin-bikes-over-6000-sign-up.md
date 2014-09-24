@@ -3,7 +3,6 @@ title: 'Dublin Bikes &#8211; Over 6000 sign up!'
 author: Colin Broderick
 layout: post
 permalink: /2009/09/dublin-bikes-over-6000-sign-up/
-
 dsq_thread_id:
   - 412983150
 categories:
@@ -29,7 +28,7 @@ tags:
 </p>
 
 <p style="line-height: 18px; margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px;">
-  Can&#8217;t wait to get in there give them a go and be able to get over to <a title="Fallon & Byrne" href="http://www.fallonandbyrne.com/" target="_blank">Fallon & Byrne</a> for lunch in a jiffy, and back to college for the afternoon!
+  Can&#8217;t wait to get in there give them a go and be able to get over to <a title="Fallon &amp; Byrne" href="http://www.fallonandbyrne.com/" target="_blank">Fallon &amp;Byrne</a> for lunch in a jiffy, and back to college for the afternoon!
 </p>
 
 <p style="line-height: 18px; margin-top: 0px; margin-right: 0px; margin-bottom: 18px; margin-left: 0px;">
@@ -68,4 +67,3 @@ tags:
 
 May it be really successful!
 
-<span class='st\_twitter\_vcount' st\_title='Dublin Bikes &#8211; Over 6000 sign up!' st\_url='{{site.baseurl}}/2009/09/dublin-bikes-over-6000-sign-up/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin Bikes &#8211; Over 6000 sign up!' st\_url='{{site.baseurl}}/2009/09/dublin-bikes-over-6000-sign-up/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin Bikes &#8211; Over 6000 sign up!' st\_url='{{site.baseurl}}/2009/09/dublin-bikes-over-6000-sign-up/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin Bikes &#8211; Over 6000 sign up!' st\_url='{{site.baseurl}}/2009/09/dublin-bikes-over-6000-sign-up/' displayText='share'></span>

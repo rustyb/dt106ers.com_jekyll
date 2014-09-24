@@ -2,7 +2,7 @@
 title: 6,649 Visitors to DT106ers last year! Cheers folks!
 author: Colin Broderick
 layout: post
-permalink: /2011/01/6649-visitors-to-dt106ers-last-year-cheers-folks/
+permalink: /2011/01/6649-visitors-to-dt106ers-last-year-cheers-folks/"
 dsq_thread_id:
   - 389959557
 categories:
@@ -21,7 +21,7 @@ Thanks to you all for reading! I will have a post tomorrow with a quick outlook
 
 > ## Don&#8217;t think too much, just do it!
 
-<span class='st\_twitter\_vcount' st\_title='6,649 Visitors to DT106ers last year! Cheers folks!' st\_url='{{site.baseurl}}/2011/01/6649-visitors-to-dt106ers-last-year-cheers-folks/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='6,649 Visitors to DT106ers last year! Cheers folks!' st\_url='{{site.baseurl}}/2011/01/6649-visitors-to-dt106ers-last-year-cheers-folks/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='6,649 Visitors to DT106ers last year! Cheers folks!' st\_url='{{site.baseurl}}/2011/01/6649-visitors-to-dt106ers-last-year-cheers-folks/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='6,649 Visitors to DT106ers last year! Cheers folks!' st\_url='{{site.baseurl}}/2011/01/6649-visitors-to-dt106ers-last-year-cheers-folks/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/01/Screen-shot-2011-01-03-at-01.45.28.png
  [2]: {{site.baseurl}}

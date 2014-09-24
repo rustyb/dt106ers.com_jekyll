@@ -5,15 +5,15 @@ layout: post
 permalink: /2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/artists-impression.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/artists-impression.jpg"
 seo_follow:
   - 'false'
 jd_twitter:
   - 'Tensions are rising ever so slowly over the Poolbeg Incinerator delays - #url#  #poolbegincin'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/
+  - "{{site.baseurl}}/2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/"
 wp_jd_bitly:
-  - http://bit.ly/aPsdDn
+  - "http://bit.ly/aPsdDn"
 dsq_thread_id:
   - 371262191
 categories:
@@ -55,4 +55,3 @@ It looks as if the Poolbeg Incinerator row is going to turn into a major politi
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Poolbeg incinerator developers seek meeting with Cowen' st\_url='{{site.baseurl}}/2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Poolbeg incinerator developers seek meeting with Cowen' st\_url='{{site.baseurl}}/2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Poolbeg incinerator developers seek meeting with Cowen' st\_url='{{site.baseurl}}/2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Poolbeg incinerator developers seek meeting with Cowen' st\_url='{{site.baseurl}}/2010/07/poolbeg-incinerator-developers-seek-meeting-with-cowen/' displayText='share'></span>

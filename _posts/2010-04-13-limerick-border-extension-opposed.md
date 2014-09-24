@@ -7,7 +7,7 @@ permalink: /2010/04/limerick-border-extension-opposed/
 wp_jd_bitly:
   - http://bit.ly/blGKTw
 wp_jd_target:
-  - http://bit.ly/blGKTw
+  - "http://bit.ly/blGKTw"
 dsq_thread_id:
   - 418945561
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Limerick border extension opposed' st\_url='{{site.baseurl}}/2010/04/limerick-border-extension-opposed/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Limerick border extension opposed' st\_url='{{site.baseurl}}/2010/04/limerick-border-extension-opposed/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Limerick border extension opposed' st\_url='{{site.baseurl}}/2010/04/limerick-border-extension-opposed/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Limerick border extension opposed' st\_url='{{site.baseurl}}/2010/04/limerick-border-extension-opposed/' displayText='share'></span>

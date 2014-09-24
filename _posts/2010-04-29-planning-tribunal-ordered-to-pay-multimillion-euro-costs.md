@@ -7,11 +7,8 @@ permalink: /2010/04/planning-tribunal-ordered-to-pay-multimillion-euro-costs/
 wp_jd_bitly:
   - http://bit.ly/aD2ftk
 wp_jd_target:
-  - http://bit.ly/aD2ftk
-image:
-  - 
-seo_follow:
-  - 'false'
+  - "http://bit.ly/aD2ftk"
+
 dsq_thread_id:
   - 391757905
 categories:
@@ -37,4 +34,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Planning tribunal ordered to pay multimillion-euro costs' st\_url='{{site.baseurl}}/2010/04/planning-tribunal-ordered-to-pay-multimillion-euro-costs/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Planning tribunal ordered to pay multimillion-euro costs' st\_url='{{site.baseurl}}/2010/04/planning-tribunal-ordered-to-pay-multimillion-euro-costs/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Planning tribunal ordered to pay multimillion-euro costs' st\_url='{{site.baseurl}}/2010/04/planning-tribunal-ordered-to-pay-multimillion-euro-costs/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Planning tribunal ordered to pay multimillion-euro costs' st\_url='{{site.baseurl}}/2010/04/planning-tribunal-ordered-to-pay-multimillion-euro-costs/' displayText='share'></span>

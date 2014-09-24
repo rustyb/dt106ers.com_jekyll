@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/05/almost-finished-the-exams/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/05/Exams.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/05/Exams.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/aRMfjX
 wp_jd_target:
-  - http://bit.ly/aRMfjX
+  - "http://bit.ly/aRMfjX"
 dsq_thread_id:
   - 553788898
 categories:
@@ -33,4 +33,3 @@ You can look forward to many more posts after the weekend and the return of the 
   </p>
 </div>
 
-<span class='st\_twitter\_vcount' st\_title='Almost finished the Exams' st\_url='{{site.baseurl}}/2010/05/almost-finished-the-exams/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Almost finished the Exams' st\_url='{{site.baseurl}}/2010/05/almost-finished-the-exams/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Almost finished the Exams' st\_url='{{site.baseurl}}/2010/05/almost-finished-the-exams/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Almost finished the Exams' st\_url='{{site.baseurl}}/2010/05/almost-finished-the-exams/' displayText='share'></span>

@@ -3,10 +3,7 @@ title: Gotthard Tunnel breakthrough. Could Ireland create a high speed rail link
 author: Colin Broderick
 layout: post
 permalink: /2010/10/gotthard-tunnel-breakthrough-could-ireland-create-a-high-speed-rail-link-to-the-uk/
-image:
-  - 
-seo_follow:
-  - 'false'
+
 dsq_thread_id:
   - 372555622
 categories:
@@ -35,7 +32,7 @@ Based on a quick investigation using google maps the shortest distance between I
 
 I understand it is a rather far fetched proposition and more than likely incredibly costly but if Dublin really is the back office for London and we really want to be connected to Europe and we no longer want to be at the mercy of Ryanair and the boys surely it could be made a reality!?
 
-<span class='st\_twitter\_vcount' st\_title='Gotthard Tunnel breakthrough. Could Ireland create a high speed rail link to the UK?' st\_url='{{site.baseurl}}/2010/10/gotthard-tunnel-breakthrough-could-ireland-create-a-high-speed-rail-link-to-the-uk/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gotthard Tunnel breakthrough. Could Ireland create a high speed rail link to the UK?' st\_url='{{site.baseurl}}/2010/10/gotthard-tunnel-breakthrough-could-ireland-create-a-high-speed-rail-link-to-the-uk/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gotthard Tunnel breakthrough. Could Ireland create a high speed rail link to the UK?' st\_url='{{site.baseurl}}/2010/10/gotthard-tunnel-breakthrough-could-ireland-create-a-high-speed-rail-link-to-the-uk/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gotthard Tunnel breakthrough. Could Ireland create a high speed rail link to the UK?' st\_url='{{site.baseurl}}/2010/10/gotthard-tunnel-breakthrough-could-ireland-create-a-high-speed-rail-link-to-the-uk/' displayText='share'></span>
+
 
  [1]: http://www.guardian.co.uk/world/2010/sep/19/london-frankfurt-train-high-speed
  [2]: http://en.wikipedia.org/wiki/ICE_3

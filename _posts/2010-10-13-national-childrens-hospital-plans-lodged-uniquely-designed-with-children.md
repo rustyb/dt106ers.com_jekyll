@@ -4,7 +4,7 @@ author: Colin Broderick
 layout: post
 permalink: /2010/10/national-childrens-hospital-plans-lodged-uniquely-designed-with-children/
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/10/Screen-shot-2010-10-13-at-09.19.17.png
+  - "{{site.baseurl}}/wp-content/uploads/2010/10/Screen-shot-2010-10-13-at-09.19.17.png"
 seo_follow:
   - 'false'
 dsq_thread_id:
@@ -69,4 +69,3 @@ Welcome to autumn folks, and to my first post from the greatness that is the Bol
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='National Children&#8217;s Hospital plans lodged, uniquely designed with children' st\_url='{{site.baseurl}}/2010/10/national-childrens-hospital-plans-lodged-uniquely-designed-with-children/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='National Children&#8217;s Hospital plans lodged, uniquely designed with children' st\_url='{{site.baseurl}}/2010/10/national-childrens-hospital-plans-lodged-uniquely-designed-with-children/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='National Children&#8217;s Hospital plans lodged, uniquely designed with children' st\_url='{{site.baseurl}}/2010/10/national-childrens-hospital-plans-lodged-uniquely-designed-with-children/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='National Children&#8217;s Hospital plans lodged, uniquely designed with children' st\_url='{{site.baseurl}}/2010/10/national-childrens-hospital-plans-lodged-uniquely-designed-with-children/' displayText='share'></span>

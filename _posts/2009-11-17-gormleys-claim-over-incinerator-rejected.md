@@ -39,4 +39,3 @@ categories:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Gormley&#8217;s claim over incinerator rejected' st\_url='{{site.baseurl}}/2009/11/gormleys-claim-over-incinerator-rejected/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Gormley&#8217;s claim over incinerator rejected' st\_url='{{site.baseurl}}/2009/11/gormleys-claim-over-incinerator-rejected/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Gormley&#8217;s claim over incinerator rejected' st\_url='{{site.baseurl}}/2009/11/gormleys-claim-over-incinerator-rejected/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Gormley&#8217;s claim over incinerator rejected' st\_url='{{site.baseurl}}/2009/11/gormleys-claim-over-incinerator-rejected/' displayText='share'></span>

@@ -7,7 +7,7 @@ permalink: /2010/01/it-earth-tremor-felt-in-north-donegal/
 wp_jd_bitly:
   - http://bit.ly/6vQ8Y8
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/it-earth-tremor-felt-in-north-donegal/
+  - "{{site.baseurl}}/2010/01/it-earth-tremor-felt-in-north-donegal/"
 dsq_thread_id:
   - 421287312
 categories:
@@ -41,4 +41,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='[IT] Earth tremor felt in north Donegal' st\_url='{{site.baseurl}}/2010/01/it-earth-tremor-felt-in-north-donegal/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT] Earth tremor felt in north Donegal' st\_url='{{site.baseurl}}/2010/01/it-earth-tremor-felt-in-north-donegal/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT] Earth tremor felt in north Donegal' st\_url='{{site.baseurl}}/2010/01/it-earth-tremor-felt-in-north-donegal/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT] Earth tremor felt in north Donegal' st\_url='{{site.baseurl}}/2010/01/it-earth-tremor-felt-in-north-donegal/' displayText='share'></span>

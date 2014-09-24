@@ -2,7 +2,7 @@
 title: '[UPDATE] Dublin Transport Map v1.5'
 author: Colin Broderick
 layout: post
-permalink: /2011/12/update-dublin-transport-map-v1-5/
+permalink: /2011/12/update-dublin-transport-map-v1-5/"
 dsq_thread_id:
   - 500039143
 categories:
@@ -50,7 +50,7 @@ Finally the current cash fare system penalizes people who need to make transfe
 ## Objectives
 
 *   Only services which operate at 15 minute of less frequency Monday &#8211; Friday off-peak will be represented on the map.
-*   To show all transport modes, Bus, Light Rail (Luas) and Heavy Rail (DART & Commuter)
+*   To show all transport modes, Bus, Light Rail (Luas) and Heavy Rail (DART &amp; Commuter)
 *   To illustrate the frequent network of transport routes that are available in Dublin.
 *   To show the places which are possible to transfer as part of your journey.
 *   To create the first multi-modal map of Dublin.
@@ -81,7 +81,7 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='[UPDATE] Dublin Transport Map v1.5' st\_url='{{site.baseurl}}/2011/12/update-dublin-transport-map-v1-5/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[UPDATE] Dublin Transport Map v1.5' st\_url='{{site.baseurl}}/2011/12/update-dublin-transport-map-v1-5/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[UPDATE] Dublin Transport Map v1.5' st\_url='{{site.baseurl}}/2011/12/update-dublin-transport-map-v1-5/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[UPDATE] Dublin Transport Map v1.5' st\_url='{{site.baseurl}}/2011/12/update-dublin-transport-map-v1-5/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/2011/12/dublin-rapid-transit-map-feedback-please/ "Dublin Rapid Transit Map – Feedback please!"
  [2]: http://ow.ly/b1TTX

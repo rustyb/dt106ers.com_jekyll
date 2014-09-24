@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/
+  - "{{site.baseurl}}/2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/"
 wp_jd_bitly:
-  - http://bit.ly/9NwLtd
+  - "http://bit.ly/9NwLtd"
 dsq_thread_id:
   - 376800241
 categories:
@@ -47,4 +47,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Bord Pleanála seeks &#8216;more modest&#8217; road for Foxford By-Pass' st\_url='{{site.baseurl}}/2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Bord Pleanála seeks &#8216;more modest&#8217; road for Foxford By-Pass' st\_url='{{site.baseurl}}/2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Bord Pleanála seeks &#8216;more modest&#8217; road for Foxford By-Pass' st\_url='{{site.baseurl}}/2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Bord Pleanála seeks &#8216;more modest&#8217; road for Foxford By-Pass' st\_url='{{site.baseurl}}/2010/02/bord-pleanala-seeks-more-modest-road-for-foxford-by-pass/' displayText='share'></span>

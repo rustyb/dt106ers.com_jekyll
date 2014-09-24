@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/07/no-water-reserves-in-dublin-report/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/07/Recommended-Water-Supply-Option-Schematic-2.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/07/Recommended-Water-Supply-Option-Schematic-2.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/07/no-water-reserves-in-dublin-report/
+  - "{{site.baseurl}}/2010/07/no-water-reserves-in-dublin-report/"
 wp_jd_bitly:
-  - http://bit.ly/a6fngT
+  - "http://bit.ly/a6fngT"
 dsq_thread_id:
   - 388554114
 categories:
@@ -70,4 +70,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='No water reserves in Dublin &#8211; report' st\_url='{{site.baseurl}}/2010/07/no-water-reserves-in-dublin-report/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='No water reserves in Dublin &#8211; report' st\_url='{{site.baseurl}}/2010/07/no-water-reserves-in-dublin-report/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='No water reserves in Dublin &#8211; report' st\_url='{{site.baseurl}}/2010/07/no-water-reserves-in-dublin-report/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='No water reserves in Dublin &#8211; report' st\_url='{{site.baseurl}}/2010/07/no-water-reserves-in-dublin-report/' displayText='share'></span>

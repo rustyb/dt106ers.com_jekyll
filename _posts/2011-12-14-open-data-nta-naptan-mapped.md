@@ -2,7 +2,7 @@
 title: '[OPEN DATA] NTA NaPTAN Mapped'
 author: Colin Broderick
 layout: post
-permalink: /2011/12/open-data-nta-naptan-mapped/
+permalink: /2011/12/open-data-nta-naptan-mapped/"
 dsq_thread_id:
   - 504397511
 categories:
@@ -531,7 +531,7 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='[OPEN DATA] NTA NaPTAN Mapped' st\_url='{{site.baseurl}}/2011/12/open-data-nta-naptan-mapped/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[OPEN DATA] NTA NaPTAN Mapped' st\_url='{{site.baseurl}}/2011/12/open-data-nta-naptan-mapped/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[OPEN DATA] NTA NaPTAN Mapped' st\_url='{{site.baseurl}}/2011/12/open-data-nta-naptan-mapped/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[OPEN DATA] NTA NaPTAN Mapped' st\_url='{{site.baseurl}}/2011/12/open-data-nta-naptan-mapped/' displayText='share'></span>
+
 
  [1]: http://www.dublinked.ie/ "DubLinked Website"
  [2]: http://twitter.com/#!/josephcorr

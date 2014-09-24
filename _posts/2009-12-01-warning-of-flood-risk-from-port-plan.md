@@ -2,7 +2,7 @@
 title: Warning of flood risk from port plan
 author: Colin Broderick
 layout: post
-permalink: /2009/12/warning-of-flood-risk-from-port-plan/
+permalink: /2009/12/warning-of-flood-risk-from-port-plan/"
 dsq_thread_id:
   - 441170657
 categories:
@@ -30,4 +30,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Warning of flood risk from port plan' st\_url='{{site.baseurl}}/2009/12/warning-of-flood-risk-from-port-plan/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Warning of flood risk from port plan' st\_url='{{site.baseurl}}/2009/12/warning-of-flood-risk-from-port-plan/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Warning of flood risk from port plan' st\_url='{{site.baseurl}}/2009/12/warning-of-flood-risk-from-port-plan/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Warning of flood risk from port plan' st\_url='{{site.baseurl}}/2009/12/warning-of-flood-risk-from-port-plan/' displayText='share'></span>

@@ -2,7 +2,7 @@
 title: 'Dublin Rapid Transit Map &#8211; Feedback please!'
 author: Colin Broderick
 layout: post
-permalink: /2011/12/dublin-rapid-transit-map-feedback-please/
+permalink: /2011/12/dublin-rapid-transit-map-feedback-please/"
 dsq_thread_id:
   - 495738375
 categories:
@@ -51,7 +51,7 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='Dublin Rapid Transit Map &#8211; Feedback please!' st\_url='{{site.baseurl}}/2011/12/dublin-rapid-transit-map-feedback-please/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin Rapid Transit Map &#8211; Feedback please!' st\_url='{{site.baseurl}}/2011/12/dublin-rapid-transit-map-feedback-please/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin Rapid Transit Map &#8211; Feedback please!' st\_url='{{site.baseurl}}/2011/12/dublin-rapid-transit-map-feedback-please/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin Rapid Transit Map &#8211; Feedback please!' st\_url='{{site.baseurl}}/2011/12/dublin-rapid-transit-map-feedback-please/' displayText='share'></span>
+
 
  [1]: http://www.dublinbus.ie
  [2]: http://www.irishrail.ie

@@ -2,7 +2,7 @@
 title: '[Guest Post] Cycling policy in europe, what the Dutch found'
 author: Colin Broderick
 layout: post
-permalink: /2011/09/guest-post-cycling-policy-in-europe-what-the-dutch-found/
+permalink: /2011/09/guest-post-cycling-policy-in-europe-what-the-dutch-found/"
 dsq_thread_id:
   - 418288464
 categories:
@@ -60,7 +60,7 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='[Guest Post] Cycling policy in europe, what the Dutch found' st\_url='{{site.baseurl}}/2011/09/guest-post-cycling-policy-in-europe-what-the-dutch-found/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[Guest Post] Cycling policy in europe, what the Dutch found' st\_url='{{site.baseurl}}/2011/09/guest-post-cycling-policy-in-europe-what-the-dutch-found/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[Guest Post] Cycling policy in europe, what the Dutch found' st\_url='{{site.baseurl}}/2011/09/guest-post-cycling-policy-in-europe-what-the-dutch-found/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[Guest Post] Cycling policy in europe, what the Dutch found' st\_url='{{site.baseurl}}/2011/09/guest-post-cycling-policy-in-europe-what-the-dutch-found/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/09/ConnDonovanCycle.jpg
  [2]: http://youtu.be/cPQcnjlwtE4 "Talking Heads on Youtube"

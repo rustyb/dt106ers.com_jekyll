@@ -11,7 +11,7 @@ seo_follow:
 wp_jd_bitly:
   - http://bit.ly/aGt6Wy
 wp_jd_target:
-  - http://bit.ly/aGt6Wy
+  - "http://bit.ly/aGt6Wy"
 dsq_thread_id:
   - 371318333
 categories:
@@ -75,4 +75,3 @@ I will hopefully have a follow up post tomorrow with links to the report, whic
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Restoration of Dublin to its Georgian glory urged by Dublin Civic Trust report' st\_url='{{site.baseurl}}/2010/04/restoration-of-dublin-to-its-georgian-glory-urged-by-dublin-civic-trust-report/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Restoration of Dublin to its Georgian glory urged by Dublin Civic Trust report' st\_url='{{site.baseurl}}/2010/04/restoration-of-dublin-to-its-georgian-glory-urged-by-dublin-civic-trust-report/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Restoration of Dublin to its Georgian glory urged by Dublin Civic Trust report' st\_url='{{site.baseurl}}/2010/04/restoration-of-dublin-to-its-georgian-glory-urged-by-dublin-civic-trust-report/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Restoration of Dublin to its Georgian glory urged by Dublin Civic Trust report' st\_url='{{site.baseurl}}/2010/04/restoration-of-dublin-to-its-georgian-glory-urged-by-dublin-civic-trust-report/' displayText='share'></span>

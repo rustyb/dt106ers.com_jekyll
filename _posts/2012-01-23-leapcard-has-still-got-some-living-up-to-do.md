@@ -2,7 +2,7 @@
 title: Leapcard has still got some living up to do!
 author: Colin Broderick
 layout: post
-permalink: /2012/01/leapcard-has-still-got-some-living-up-to-do/
+permalink: /2012/01/leapcard-has-still-got-some-living-up-to-do/"
 dsq_thread_id:
   - 549383665
 categories:
@@ -80,6 +80,6 @@ Not down with any of these new things? Or maybe you would like to offer me a job
 
 *Peace out planners!*
 
-<span class='st\_twitter\_vcount' st\_title='Leapcard has still got some living up to do!' st\_url='{{site.baseurl}}/2012/01/leapcard-has-still-got-some-living-up-to-do/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Leapcard has still got some living up to do!' st\_url='{{site.baseurl}}/2012/01/leapcard-has-still-got-some-living-up-to-do/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Leapcard has still got some living up to do!' st\_url='{{site.baseurl}}/2012/01/leapcard-has-still-got-some-living-up-to-do/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Leapcard has still got some living up to do!' st\_url='{{site.baseurl}}/2012/01/leapcard-has-still-got-some-living-up-to-do/' displayText='share'></span>
+
 
  [1]: http://twitter.com/rusty1052

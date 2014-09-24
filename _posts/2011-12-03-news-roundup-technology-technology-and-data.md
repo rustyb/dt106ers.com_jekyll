@@ -2,7 +2,7 @@
 title: 'News Roundup &#8211; Technology, Technology and DATA'
 author: Colin Broderick
 layout: post
-permalink: /2011/12/news-roundup-technology-technology-and-data/
+permalink: /2011/12/news-roundup-technology-technology-and-data/"
 dsq_thread_id:
   - 491790691
 categories:
@@ -41,7 +41,7 @@ Of course I also have a paper.li account running which you should also check out
 **There are a couple of speakers including the very engaging and entertaining Conor Skehan of DIT.[ MORE DETAILS][8]
 
 **[15 December 2.30PM Dublinked Technical Workshop John Hume Building, NUIM.][9]**  
-To explore & discuss the various technology issues that underpin a data sharing platform including interoperability, architectures, semantic web, search engines and real-time data streaming. The main aim of the workshop is to draw up a roadmap that sets out the technology topics, challenges & priorities that are relevant to the successful operation of this Dublinked initiative.[ MORE DETAILS][9]
+To explore &amp; discuss the various technology issues that underpin a data sharing platform including interoperability, architectures, semantic web, search engines and real-time data streaming. The main aim of the workshop is to draw up a roadmap that sets out the technology topics, challenges &amp; priorities that are relevant to the successful operation of this Dublinked initiative.[ MORE DETAILS][9]
 
 ## Dublin City Council
 
@@ -55,7 +55,7 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='News Roundup &#8211; Technology, Technology and DATA' st\_url='{{site.baseurl}}/2011/12/news-roundup-technology-technology-and-data/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='News Roundup &#8211; Technology, Technology and DATA' st\_url='{{site.baseurl}}/2011/12/news-roundup-technology-technology-and-data/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='News Roundup &#8211; Technology, Technology and DATA' st\_url='{{site.baseurl}}/2011/12/news-roundup-technology-technology-and-data/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='News Roundup &#8211; Technology, Technology and DATA' st\_url='{{site.baseurl}}/2011/12/news-roundup-technology-technology-and-data/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/12/Screen-shot-2011-12-02-at-19.01.48.png
  [2]: http://www.decisionmap.ie/

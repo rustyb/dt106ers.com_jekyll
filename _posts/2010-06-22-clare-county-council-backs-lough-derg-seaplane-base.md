@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/06/clare-county-council-backs-lough-derg-seaplane-base/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/HarbourFlights.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/HarbourFlights.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/d0DcJY
 wp_jd_target:
-  - http://bit.ly/d0DcJY
+  - "http://bit.ly/d0DcJY"
 dsq_thread_id:
   - 399637040
 categories:
@@ -46,4 +46,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Clare County Council backs Lough Derg seaplane base' st\_url='{{site.baseurl}}/2010/06/clare-county-council-backs-lough-derg-seaplane-base/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Clare County Council backs Lough Derg seaplane base' st\_url='{{site.baseurl}}/2010/06/clare-county-council-backs-lough-derg-seaplane-base/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Clare County Council backs Lough Derg seaplane base' st\_url='{{site.baseurl}}/2010/06/clare-county-council-backs-lough-derg-seaplane-base/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Clare County Council backs Lough Derg seaplane base' st\_url='{{site.baseurl}}/2010/06/clare-county-council-backs-lough-derg-seaplane-base/' displayText='share'></span>

@@ -5,9 +5,7 @@ layout: post
 permalink: /2009/11/the-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed/
 
 wp_jd_bitly:
-  - http%3A%2F%2Fdt106ers.com%2Fblog%2F2009%2F11%2Fthe-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed%2F
-wp_jd_target:
-  - 
+  - "http%3A%2F%2Fdt106ers.com%2Fblog%2F2009%2F11%2Fthe-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed%2F"
 dsq_thread_id:
   - 516811326
 categories:
@@ -57,4 +55,3 @@ How odd Fagan seems to be happy enough with the banks after all the trouble they
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='The great experiment by our planners to copy the European tradition of having middle income families live in apartments has largely failed' st\_url='{{site.baseurl}}/2009/11/the-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='The great experiment by our planners to copy the European tradition of having middle income families live in apartments has largely failed' st\_url='{{site.baseurl}}/2009/11/the-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='The great experiment by our planners to copy the European tradition of having middle income families live in apartments has largely failed' st\_url='{{site.baseurl}}/2009/11/the-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='The great experiment by our planners to copy the European tradition of having middle income families live in apartments has largely failed' st\_url='{{site.baseurl}}/2009/11/the-great-experiment-by-our-planners-to-copy-the-european-tradition-of-having-middle-income-families-live-in-apartments-has-largely-failed/' displayText='share'></span>

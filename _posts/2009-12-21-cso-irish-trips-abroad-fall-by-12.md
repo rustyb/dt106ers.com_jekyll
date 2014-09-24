@@ -7,7 +7,7 @@ permalink: /2009/12/cso-irish-trips-abroad-fall-by-12/
 wp_jd_bitly:
   - http://bit.ly/7XJveT
 wp_jd_target:
-  - {{site.baseurl}}/2009/12/cso-irish-trips-abroad-fall-by-12/
+  - "{{site.baseurl}}/2009/12/cso-irish-trips-abroad-fall-by-12/"
 dsq_thread_id:
   - 407148904
 categories:
@@ -38,4 +38,3 @@ tags:
 > 
 > Earnings from visitors to Ireland accounted for €1.321 billion while expenditure by Irish visitors abroad amounted to €2.012 billion.
 
-<span class='st\_twitter\_vcount' st\_title='CSO: Irish trips abroad fall by 12%' st\_url='{{site.baseurl}}/2009/12/cso-irish-trips-abroad-fall-by-12/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='CSO: Irish trips abroad fall by 12%' st\_url='{{site.baseurl}}/2009/12/cso-irish-trips-abroad-fall-by-12/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='CSO: Irish trips abroad fall by 12%' st\_url='{{site.baseurl}}/2009/12/cso-irish-trips-abroad-fall-by-12/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='CSO: Irish trips abroad fall by 12%' st\_url='{{site.baseurl}}/2009/12/cso-irish-trips-abroad-fall-by-12/' displayText='share'></span>

@@ -7,13 +7,13 @@ permalink: /2010/06/out-of-town-retail-centre-parking-to-be-reviewed/
 jd_twitter:
   - 'Out-of-town retail centre parking to be reviewed like blanchardstown, can they be forced into parking charges? - #url#'
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/06/blanch-carpark.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/06/blanch-carpark.jpg"
 seo_follow:
   - 'false'
 wp_jd_target:
-  - {{site.baseurl}}/2010/06/out-of-town-retail-centre-parking-to-be-reviewed/
+  - "{{site.baseurl}}/2010/06/out-of-town-retail-centre-parking-to-be-reviewed/"
 wp_jd_bitly:
-  - http://bit.ly/dqrNWE
+  - "http://bit.ly/dqrNWE"
 dsq_thread_id:
   - 380079787
 categories:
@@ -70,4 +70,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Out-of-town retail centre parking to be reviewed' st\_url='{{site.baseurl}}/2010/06/out-of-town-retail-centre-parking-to-be-reviewed/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Out-of-town retail centre parking to be reviewed' st\_url='{{site.baseurl}}/2010/06/out-of-town-retail-centre-parking-to-be-reviewed/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Out-of-town retail centre parking to be reviewed' st\_url='{{site.baseurl}}/2010/06/out-of-town-retail-centre-parking-to-be-reviewed/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Out-of-town retail centre parking to be reviewed' st\_url='{{site.baseurl}}/2010/06/out-of-town-retail-centre-parking-to-be-reviewed/' displayText='share'></span>

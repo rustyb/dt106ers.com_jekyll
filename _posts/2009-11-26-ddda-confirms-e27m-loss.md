@@ -5,9 +5,9 @@ layout: post
 permalink: /2009/11/ddda-confirms-e27m-loss/
 
 wp_jd_target:
-  - {{site.baseurl}}/2009/11/ddda-confirms-e27m-loss/
+  - "{{site.baseurl}}/2009/11/ddda-confirms-e27m-loss/"
 wp_jd_bitly:
-  - http://bit.ly/8poUDn
+  - "http://bit.ly/8poUDn"
 dsq_thread_id:
   - 525800761
 categories:
@@ -55,4 +55,3 @@ tags:
 >   IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='DDDA confirms €27m loss' st\_url='{{site.baseurl}}/2009/11/ddda-confirms-e27m-loss/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='DDDA confirms €27m loss' st\_url='{{site.baseurl}}/2009/11/ddda-confirms-e27m-loss/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='DDDA confirms €27m loss' st\_url='{{site.baseurl}}/2009/11/ddda-confirms-e27m-loss/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='DDDA confirms €27m loss' st\_url='{{site.baseurl}}/2009/11/ddda-confirms-e27m-loss/' displayText='share'></span>

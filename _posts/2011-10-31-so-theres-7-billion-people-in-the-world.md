@@ -2,7 +2,7 @@
 title: 'So there&#8217;s 7+ Billion People in the World!'
 author: Colin Broderick
 layout: post
-permalink: /2011/10/so-theres-7-billion-people-in-the-world/
+permalink: /2011/10/so-theres-7-billion-people-in-the-world/"
 dsq_thread_id:
   - 457814780
 categories:
@@ -39,6 +39,6 @@ Comments are welcome, you can follow me on the tweet machine **<a title="Follow
 
 Do you like what you have just read? Maybe you are interested in being a guest writer too. Email me at colinb@dt106ers.com
 
-<span class='st\_twitter\_vcount' st\_title='So there&#8217;s 7+ Billion People in the World!' st\_url='{{site.baseurl}}/2011/10/so-theres-7-billion-people-in-the-world/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='So there&#8217;s 7+ Billion People in the World!' st\_url='{{site.baseurl}}/2011/10/so-theres-7-billion-people-in-the-world/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='So there&#8217;s 7+ Billion People in the World!' st\_url='{{site.baseurl}}/2011/10/so-theres-7-billion-people-in-the-world/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='So there&#8217;s 7+ Billion People in the World!' st\_url='{{site.baseurl}}/2011/10/so-theres-7-billion-people-in-the-world/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2011/10/Commentary-part-1_Page_5.jpg

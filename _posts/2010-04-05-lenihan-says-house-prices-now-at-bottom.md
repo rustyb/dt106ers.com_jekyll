@@ -7,7 +7,7 @@ permalink: /2010/04/lenihan-says-house-prices-now-at-bottom/
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/dc64gA
+  - http://bit.ly/dc64gA"
 dsq_thread_id:
   - 398701739
 categories:
@@ -68,7 +68,7 @@ tags:
 > 
 > Sunday Independent
 
-<span class='st\_twitter\_vcount' st\_title='Lenihan says house prices now at bottom' st\_url='{{site.baseurl}}/2010/04/lenihan-says-house-prices-now-at-bottom/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Lenihan says house prices now at bottom' st\_url='{{site.baseurl}}/2010/04/lenihan-says-house-prices-now-at-bottom/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Lenihan says house prices now at bottom' st\_url='{{site.baseurl}}/2010/04/lenihan-says-house-prices-now-at-bottom/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Lenihan says house prices now at bottom' st\_url='{{site.baseurl}}/2010/04/lenihan-says-house-prices-now-at-bottom/' displayText='share'></span>
+
 
  [1]: {{site.baseurl}}/wp-content/uploads/2010/04/Brian-Lenihan1.jpg
  [2]: http://www.independent.ie/topics/Ireland "Ireland"

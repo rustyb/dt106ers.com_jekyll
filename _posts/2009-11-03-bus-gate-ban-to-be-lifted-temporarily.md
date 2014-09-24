@@ -47,4 +47,3 @@ http://www.flickr.com/photos/cianginty" class="shutterset_singlepic11" > <img cl
 >   Source: IrishTimes
 > </p>
 
-<span class='st\_twitter\_vcount' st\_title='&#8216;Bus gate&#8217; ban to be lifted temporarily' st\_url='{{site.baseurl}}/2009/11/bus-gate-ban-to-be-lifted-temporarily/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='&#8216;Bus gate&#8217; ban to be lifted temporarily' st\_url='{{site.baseurl}}/2009/11/bus-gate-ban-to-be-lifted-temporarily/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='&#8216;Bus gate&#8217; ban to be lifted temporarily' st\_url='{{site.baseurl}}/2009/11/bus-gate-ban-to-be-lifted-temporarily/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='&#8216;Bus gate&#8217; ban to be lifted temporarily' st\_url='{{site.baseurl}}/2009/11/bus-gate-ban-to-be-lifted-temporarily/' displayText='share'></span>

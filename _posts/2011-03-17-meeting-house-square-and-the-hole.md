@@ -2,7 +2,7 @@
 title: Meeting House Square and the hole
 author: Colin Broderick
 layout: post
-permalink: /2011/03/meeting-house-square-and-the-hole/
+permalink: /2011/03/meeting-house-square-and-the-hole/"
 dsq_thread_id:
   - 372589708
 categories:
@@ -85,7 +85,7 @@ Stay tuned to the blog and I will provide some updates on its progress!
 
 &nbsp;
 
-<span class='st\_twitter\_vcount' st\_title='Meeting House Square and the hole' st\_url='{{site.baseurl}}/2011/03/meeting-house-square-and-the-hole/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Meeting House Square and the hole' st\_url='{{site.baseurl}}/2011/03/meeting-house-square-and-the-hole/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Meeting House Square and the hole' st\_url='{{site.baseurl}}/2011/03/meeting-house-square-and-the-hole/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Meeting House Square and the hole' st\_url='{{site.baseurl}}/2011/03/meeting-house-square-and-the-hole/' displayText='share'></span>
+
 
  [1]: http://www.galleryofphotography.ie/
  [2]: http://events.magnumphotos.com/exhibition/worlds-colour "Magnum Event Page"

@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/
+  - "{{site.baseurl}}/2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/"
 wp_jd_bitly:
-  - http://bit.ly/5CJ4um
+  - "http://bit.ly/5CJ4um"
 dsq_thread_id:
   - 547997760
 categories:
@@ -45,4 +45,3 @@ Don&#8217;t Forget to get your submissions in before the **12th March**. Need a 
 
 IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='[IT] New Dublin city draft plan puts a halt to rezoning of land for housing' st\_url='{{site.baseurl}}/2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='[IT] New Dublin city draft plan puts a halt to rezoning of land for housing' st\_url='{{site.baseurl}}/2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='[IT] New Dublin city draft plan puts a halt to rezoning of land for housing' st\_url='{{site.baseurl}}/2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='[IT] New Dublin city draft plan puts a halt to rezoning of land for housing' st\_url='{{site.baseurl}}/2010/01/it-new-dublin-city-draft-plan-puts-a-halt-to-rezoning-of-land-for-housing/' displayText='share'></span>

@@ -7,7 +7,7 @@ permalink: /2010/04/quarry-operating-since-17th-century-needed-planning-permissi
 wp_jd_target:
   - 
 wp_jd_bitly:
-  - http://bit.ly/dsrwA2
+  - http://bit.ly/dsrwA2"
 dsq_thread_id:
   - 412983263
 categories:
@@ -26,4 +26,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Quarry operating since 17th century needed planning permission &#8211; High Court upholds requirement' st\_url='{{site.baseurl}}/2010/04/quarry-operating-since-17th-century-needed-planning-permission-high-court-upholds-requirement/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Quarry operating since 17th century needed planning permission &#8211; High Court upholds requirement' st\_url='{{site.baseurl}}/2010/04/quarry-operating-since-17th-century-needed-planning-permission-high-court-upholds-requirement/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Quarry operating since 17th century needed planning permission &#8211; High Court upholds requirement' st\_url='{{site.baseurl}}/2010/04/quarry-operating-since-17th-century-needed-planning-permission-high-court-upholds-requirement/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Quarry operating since 17th century needed planning permission &#8211; High Court upholds requirement' st\_url='{{site.baseurl}}/2010/04/quarry-operating-since-17th-century-needed-planning-permission-high-court-upholds-requirement/' displayText='share'></span>

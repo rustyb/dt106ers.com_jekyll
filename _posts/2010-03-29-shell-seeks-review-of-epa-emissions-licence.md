@@ -5,9 +5,8 @@ layout: post
 permalink: /2010/03/shell-seeks-review-of-epa-emissions-licence/
 
 wp_jd_bitly:
-  - http%3A%2F%2Fdt106ers.com%2Fblog%2F2010%2F03%2Fshell-seeks-review-of-epa-emissions-licence%2F
-wp_jd_target:
-  - 
+  - "http%3A%2F%2Fdt106ers.com%2Fblog%2F2010%2F03%2Fshell-seeks-review-of-epa-emissions-licence%2F"
+
 dsq_thread_id:
   - 485876726
 categories:
@@ -31,4 +30,3 @@ tags:
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Shell seeks review of EPA emissions licence' st\_url='{{site.baseurl}}/2010/03/shell-seeks-review-of-epa-emissions-licence/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Shell seeks review of EPA emissions licence' st\_url='{{site.baseurl}}/2010/03/shell-seeks-review-of-epa-emissions-licence/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Shell seeks review of EPA emissions licence' st\_url='{{site.baseurl}}/2010/03/shell-seeks-review-of-epa-emissions-licence/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Shell seeks review of EPA emissions licence' st\_url='{{site.baseurl}}/2010/03/shell-seeks-review-of-epa-emissions-licence/' displayText='share'></span>

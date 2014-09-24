@@ -5,9 +5,9 @@ layout: post
 permalink: /2010/01/dublin-city-draft-development-plan-officially-on-display/
 
 wp_jd_target:
-  - {{site.baseurl}}/2010/01/dublin-city-draft-development-plan-officially-on-display/
+  - "{{site.baseurl}}/2010/01/dublin-city-draft-development-plan-officially-on-display/"
 wp_jd_bitly:
-  - http://bit.ly/6k8pz4
+  - "http://bit.ly/6k8pz4"
 dsq_thread_id:
   - 377344639
 categories:
@@ -38,7 +38,7 @@ The council has identified 3 areas which of the strategy which it feels can be a
 > 
 > *   is clean, green, compact and connected
 > *   has an innovative, smart economy
-> *   contains sustainable neighbourhoods & communities
+> *   contains sustainable neighbourhoods &amp; communities
 
 There is plenty of information on the website and i encourage anyone to go and look at this website as the information is very accessible to anyone who wishes to find out more about the draft development plan.
 
@@ -46,4 +46,3 @@ If you wish to make a submission the Draft Plan please do! After all it is a pla
 
 I will be following this post up with a number of post&#8217;s in the not to distant future once i get to grip with the issues presented in the plan ad as to whether this &#8220;2030 Vision&#8221; is a load of hogwash or a new direction for the development of Dublin City.
 
-<span class='st\_twitter\_vcount' st\_title='Dublin City Draft Development Plan &#8211; Officially on Display' st\_url='{{site.baseurl}}/2010/01/dublin-city-draft-development-plan-officially-on-display/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Dublin City Draft Development Plan &#8211; Officially on Display' st\_url='{{site.baseurl}}/2010/01/dublin-city-draft-development-plan-officially-on-display/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Dublin City Draft Development Plan &#8211; Officially on Display' st\_url='{{site.baseurl}}/2010/01/dublin-city-draft-development-plan-officially-on-display/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Dublin City Draft Development Plan &#8211; Officially on Display' st\_url='{{site.baseurl}}/2010/01/dublin-city-draft-development-plan-officially-on-display/' displayText='share'></span>

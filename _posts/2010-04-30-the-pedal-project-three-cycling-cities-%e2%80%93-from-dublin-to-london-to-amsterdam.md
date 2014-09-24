@@ -5,13 +5,13 @@ layout: post
 permalink: /2010/04/the-pedal-project-three-cycling-cities-%e2%80%93-from-dublin-to-london-to-amsterdam/
 
 image:
-  - {{site.baseurl}}/wp-content/uploads/2010/04/DCC-Ad1.jpg
+  - "{{site.baseurl}}/wp-content/uploads/2010/04/DCC-Ad1.jpg"
 seo_follow:
   - 'false'
 wp_jd_bitly:
   - http://bit.ly/dgjjkA
 wp_jd_target:
-  - http://bit.ly/dgjjkA
+  - "http://bit.ly/dgjjkA"
 dsq_thread_id:
   - 376255543
 categories:
@@ -52,7 +52,7 @@ There is a website: [www.dublincitycycling.ie/][6]
 
 Colin
 
-<span class='st\_twitter\_vcount' st\_title='The Pedal Project: Three Cycling Cities – From Dublin to London to Amsterdam' st\_url='{{site.baseurl}}/2010/04/the-pedal-project-three-cycling-cities-%e2%80%93-from-dublin-to-london-to-amsterdam/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='The Pedal Project: Three Cycling Cities – From Dublin to London to Amsterdam' st\_url='{{site.baseurl}}/2010/04/the-pedal-project-three-cycling-cities-%e2%80%93-from-dublin-to-london-to-amsterdam/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='The Pedal Project: Three Cycling Cities – From Dublin to London to Amsterdam' st\_url='{{site.baseurl}}/2010/04/the-pedal-project-three-cycling-cities-%e2%80%93-from-dublin-to-london-to-amsterdam/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='The Pedal Project: Three Cycling Cities – From Dublin to London to Amsterdam' st\_url='{{site.baseurl}}/2010/04/the-pedal-project-three-cycling-cities-%e2%80%93-from-dublin-to-london-to-amsterdam/' displayText='share'></span>
+
 
  [1]: http://vimeo.com/10095272
  [2]: http://vimeo.com/user950597

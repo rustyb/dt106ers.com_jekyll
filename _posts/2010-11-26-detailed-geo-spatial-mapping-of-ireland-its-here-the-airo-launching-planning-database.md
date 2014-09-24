@@ -2,7 +2,7 @@
 title: 'Detailed Geo-Spatial Mapping of Ireland, it&#8217;s here! The AIRO launching planning database'
 author: Colin Broderick
 layout: post
-permalink: /2010/11/detailed-geo-spatial-mapping-of-ireland-its-here-the-airo-launching-planning-database/
+permalink: /2010/11/detailed-geo-spatial-mapping-of-ireland-its-here-the-airo-launching-planning-database/"
 dsq_thread_id:
   - 378995093
 categories:
@@ -47,6 +47,6 @@ With any luck the new database will be a very useful tool for the Local Authorit
 > 
 > IrishTimes
 
-<span class='st\_twitter\_vcount' st\_title='Detailed Geo-Spatial Mapping of Ireland, it&#8217;s here! The AIRO launching planning database' st\_url='{{site.baseurl}}/2010/11/detailed-geo-spatial-mapping-of-ireland-its-here-the-airo-launching-planning-database/' displayText='share'></span><span class='st\_fblike\_vcount' st\_title='Detailed Geo-Spatial Mapping of Ireland, it&#8217;s here! The AIRO launching planning database' st\_url='{{site.baseurl}}/2010/11/detailed-geo-spatial-mapping-of-ireland-its-here-the-airo-launching-planning-database/' displayText='share'></span><span class='st\_plusone\_vcount' st\_title='Detailed Geo-Spatial Mapping of Ireland, it&#8217;s here! The AIRO launching planning database' st\_url='{{site.baseurl}}/2010/11/detailed-geo-spatial-mapping-of-ireland-its-here-the-airo-launching-planning-database/' displayText='share'></span><span class='st\_sharethis\_vcount' st\_title='Detailed Geo-Spatial Mapping of Ireland, it&#8217;s here! The AIRO launching planning database' st\_url='{{site.baseurl}}/2010/11/detailed-geo-spatial-mapping-of-ireland-its-here-the-airo-launching-planning-database/' displayText='share'></span>
+
 
  [1]: http://www.airo.ie/
