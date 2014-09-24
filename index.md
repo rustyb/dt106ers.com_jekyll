@@ -11,7 +11,7 @@ title: "DT106ers.com - Archive of all posts"
 	</div>
 </div>
 <div class="row">
-	<div class="column small-centered">
+	<div class="column text-center">
 		{% include gads.html %}
 	</div>
 </div>
