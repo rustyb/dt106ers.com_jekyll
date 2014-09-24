@@ -3,7 +3,6 @@ title: 'Water: Householders will foot water-meter bill'
 author: Colin Broderick
 layout: post
 permalink: /2009/12/water-householders-will-foot-water-meter-bill/
-
 wp_jd_target:
   - {{site.baseurl}}/2009/12/water-householders-will-foot-water-meter-bill/
 wp_jd_bitly:
