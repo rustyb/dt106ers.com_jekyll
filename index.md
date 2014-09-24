@@ -10,6 +10,11 @@ title: "DT106ers.com - Archive of all posts"
 		</div>
 	</div>
 </div>
+<div class="row">
+	<div class="column">
+		{% include gads.html %}
+	</div>
+</div>
 {% for post in site.posts  %}
 <div class="row">  	  
 	  <div class="small-centered small-12 large-8 columns end">
